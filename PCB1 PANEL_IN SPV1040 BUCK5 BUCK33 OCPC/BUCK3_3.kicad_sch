@@ -1,0 +1,28 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "16e181ea-8e78-4c97-bc40-c7ed0225f6f2")
+	(paper "A4")
+	(lib_symbols)
+	(global_label "VBUS_IN"
+		(shape bidirectional)
+		(at 60.96 48.26 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "671c62e4-4abb-4525-88f5-0dc6ab5f86ef")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 60.96 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+	)
+)
