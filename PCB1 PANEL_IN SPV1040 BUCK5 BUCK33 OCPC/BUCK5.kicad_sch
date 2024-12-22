@@ -4,6 +4,10 @@
 	(generator_version "8.0")
 	(uuid "79050afc-eeb3-418a-9991-dfe14ca34799")
 	(paper "A4")
+	(title_block
+		(company "TEAM ANANT")
+		(comment 1 "BITS PILANI")
+	)
 	(lib_symbols)
 	(global_label "VBUS_IN"
 		(shape bidirectional)
@@ -21,6 +25,28 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "V_BUS_5V"
+		(shape input)
+		(at 52.07 68.58 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "f0eb7931-a5ea-490a-99c7-2ddb131e2b2b")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 39.9529 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 				(hide yes)
 			)
 		)

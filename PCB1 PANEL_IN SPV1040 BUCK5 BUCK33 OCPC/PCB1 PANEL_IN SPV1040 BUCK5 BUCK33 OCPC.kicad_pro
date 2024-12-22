@@ -464,7 +464,7 @@
     "last_paths": {
       "gencad": "",
       "idf": "",
-      "netlist": "",
+      "netlist": "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC.net",
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
@@ -560,7 +560,7 @@
     "meta": {
       "version": 1
     },
-    "net_format_name": "",
+    "net_format_name": "KiCad",
     "page_layout_descr_file": "",
     "plot_directory": "",
     "spice_current_sheet_as_root": false,
@@ -582,8 +582,8 @@
       "PANEL_IN"
     ],
     [
-      "e53a10ab-2cc0-41d1-82dc-2525f18f01bb",
-      "SPV1040"
+      "d0756281-183d-4749-b648-78cca7febb2e",
+      "USB_CHARGER"
     ],
     [
       "6d793315-f4d5-400d-8bb8-3ec4414619c0",
@@ -598,8 +598,8 @@
       "OCPC"
     ],
     [
-      "d0756281-183d-4749-b648-78cca7febb2e",
-      "USB_CHARGER"
+      "e53a10ab-2cc0-41d1-82dc-2525f18f01bb",
+      "SPV1040"
     ]
   ],
   "text_variables": {}

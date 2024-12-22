@@ -4,5 +4,9 @@
 	(generator_version "8.0")
 	(uuid "617f8910-0dfd-4496-bedf-8e1a1aa5de60")
 	(paper "A4")
+	(title_block
+		(company "TEAM ANANT")
+		(comment 1 "BITS PILANI")
+	)
 	(lib_symbols)
 )

@@ -4,6 +4,10 @@
 	(generator_version "8.0")
 	(uuid "75050de5-8662-412c-bb48-782268b6c217")
 	(paper "A4")
+	(title_block
+		(company "TEAM ANANT")
+		(comment 1 "BITS PILANI")
+	)
 	(lib_symbols
 		(symbol "Connector_Generic:Conn_01x06"
 			(pin_names

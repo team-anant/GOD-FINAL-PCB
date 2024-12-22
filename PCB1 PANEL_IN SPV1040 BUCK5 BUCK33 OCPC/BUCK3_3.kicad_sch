@@ -4,6 +4,10 @@
 	(generator_version "8.0")
 	(uuid "16e181ea-8e78-4c97-bc40-c7ed0225f6f2")
 	(paper "A4")
+	(title_block
+		(company "TEAM ANANT")
+		(comment 1 "BITS PILANI")
+	)
 	(lib_symbols)
 	(global_label "VBUS_IN"
 		(shape bidirectional)
