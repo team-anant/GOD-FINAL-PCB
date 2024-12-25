@@ -6979,16 +6979,16 @@
 			(uuid "4d4f724c-e21c-401a-bafe-342c122f09e1")
 		)
 		(pin "4"
-			(uuid "acb6b288-ec0a-42fd-a431-3af47ca53535")
+			(uuid "acb6b288-ec0a-42fd-a431-3af47ca53536")
 		)
 		(pin "5"
-			(uuid "b90a55c9-8006-4984-87a1-7d2a4f720476")
+			(uuid "b90a55c9-8006-4984-87a1-7d2a4f720477")
 		)
 		(pin "6"
 			(uuid "1531f5e8-8af6-4af7-8f69-2a8fb3483447")
 		)
 		(pin "3"
-			(uuid "f728684f-cda5-4821-b9d2-baaad59b75c3")
+			(uuid "f728684f-cda5-4821-b9d2-baaad59b75c4")
 		)
 		(instances
 			(project "PCB 2 MSP430 BUSMONITOR BEACON WATCHDOG DBUS PROTEC"
@@ -7440,13 +7440,13 @@
 			)
 		)
 		(pin "2"
-			(uuid "fb43a1a2-376a-4bc8-bf66-8239dffb5290")
+			(uuid "fb43a1a2-376a-4bc8-bf66-8239dffb5291")
 		)
 		(pin "1"
-			(uuid "0f3769d1-555e-48a6-9c3f-ff4c8f2e347d")
+			(uuid "0f3769d1-555e-48a6-9c3f-ff4c8f2e347e")
 		)
 		(pin "6"
-			(uuid "a7d1ea33-7eb0-4645-902b-1ac1a173291d")
+			(uuid "a7d1ea33-7eb0-4645-902b-1ac1a173291e")
 		)
 		(pin "3"
 			(uuid "4020a06d-ded1-4b4e-a908-9b2b607af1f1")
@@ -7567,16 +7567,16 @@
 			(uuid "7ad41c89-f621-4e1e-a4d2-b40f4bfbb035")
 		)
 		(pin "1"
-			(uuid "c0b1f9ac-4485-4ff4-9b12-7d04e0533e6a")
+			(uuid "c0b1f9ac-4485-4ff4-9b12-7d04e0533e6b")
 		)
 		(pin "3"
 			(uuid "7d0f403a-3730-4edd-ae4a-f993323e6f2f")
 		)
 		(pin "2"
-			(uuid "1f3dc72e-945d-4745-a6c2-18d934bf73a6")
+			(uuid "1f3dc72e-945d-4745-a6c2-18d934bf73a7")
 		)
 		(pin "6"
-			(uuid "0899e9ac-d2fb-40f7-a19c-b1cab1d82ec8")
+			(uuid "0899e9ac-d2fb-40f7-a19c-b1cab1d82ec9")
 		)
 		(pin "4"
 			(uuid "bafe09c9-005d-4648-9e1c-2471c54e2b79")
@@ -8069,16 +8069,16 @@
 			(uuid "708a9c22-24f1-44de-bdc1-108d09f0f3b4")
 		)
 		(pin "4"
-			(uuid "acb6b288-ec0a-42fd-a431-3af47ca53535")
+			(uuid "acb6b288-ec0a-42fd-a431-3af47ca53537")
 		)
 		(pin "5"
-			(uuid "b90a55c9-8006-4984-87a1-7d2a4f720476")
+			(uuid "b90a55c9-8006-4984-87a1-7d2a4f720478")
 		)
 		(pin "6"
 			(uuid "589aa298-ab1c-42ba-94da-98572c101993")
 		)
 		(pin "3"
-			(uuid "f728684f-cda5-4821-b9d2-baaad59b75c3")
+			(uuid "f728684f-cda5-4821-b9d2-baaad59b75c5")
 		)
 		(instances
 			(project "PCB 2 MSP430 BUSMONITOR BEACON WATCHDOG DBUS PROTEC"
@@ -8439,7 +8439,7 @@
 			)
 		)
 		(pin "3"
-			(uuid "5d4b1f4f-5e5e-4e4c-87e9-08b7b0fdd89f")
+			(uuid "5d4b1f4f-5e5e-4e4c-87e9-08b7b0fdd8a0")
 		)
 		(pin "2"
 			(uuid "9795cae8-0fba-490e-b390-00ef7bad7a68")
@@ -8448,13 +8448,13 @@
 			(uuid "9394c31e-2194-4d9d-b43f-e166b834dc93")
 		)
 		(pin "4"
-			(uuid "87c2d7a5-f4ed-4709-bde1-d7e7266f283b")
+			(uuid "87c2d7a5-f4ed-4709-bde1-d7e7266f283c")
 		)
 		(pin "1"
 			(uuid "023ad990-f683-4d15-8e30-7391428b0b6b")
 		)
 		(pin "5"
-			(uuid "30f8eec2-c8a1-4e80-8e5e-19d6bb591fda")
+			(uuid "30f8eec2-c8a1-4e80-8e5e-19d6bb591fdb")
 		)
 		(instances
 			(project "PCB 2 MSP430 BUSMONITOR BEACON WATCHDOG DBUS PROTEC"
@@ -8627,7 +8627,7 @@
 			)
 		)
 		(pin "3"
-			(uuid "5d4b1f4f-5e5e-4e4c-87e9-08b7b0fdd89f")
+			(uuid "5d4b1f4f-5e5e-4e4c-87e9-08b7b0fdd8a1")
 		)
 		(pin "2"
 			(uuid "ca2dc009-0b17-4b6b-9f7b-a450e6e47532")
@@ -8636,13 +8636,13 @@
 			(uuid "c879cfe9-d6fc-4bea-afd4-03ac32adbe31")
 		)
 		(pin "4"
-			(uuid "87c2d7a5-f4ed-4709-bde1-d7e7266f283b")
+			(uuid "87c2d7a5-f4ed-4709-bde1-d7e7266f283d")
 		)
 		(pin "1"
 			(uuid "5b74fd86-7120-4246-a01b-fdf3646e0fd1")
 		)
 		(pin "5"
-			(uuid "30f8eec2-c8a1-4e80-8e5e-19d6bb591fda")
+			(uuid "30f8eec2-c8a1-4e80-8e5e-19d6bb591fdc")
 		)
 		(instances
 			(project "PCB 2 MSP430 BUSMONITOR BEACON WATCHDOG DBUS PROTEC"
@@ -8877,13 +8877,13 @@
 			)
 		)
 		(pin "2"
-			(uuid "fb43a1a2-376a-4bc8-bf66-8239dffb5290")
+			(uuid "fb43a1a2-376a-4bc8-bf66-8239dffb5292")
 		)
 		(pin "1"
-			(uuid "0f3769d1-555e-48a6-9c3f-ff4c8f2e347d")
+			(uuid "0f3769d1-555e-48a6-9c3f-ff4c8f2e347f")
 		)
 		(pin "6"
-			(uuid "a7d1ea33-7eb0-4645-902b-1ac1a173291d")
+			(uuid "a7d1ea33-7eb0-4645-902b-1ac1a173291f")
 		)
 		(pin "3"
 			(uuid "cebd1514-f57c-4677-ad46-4bae6a1c2714")
@@ -9357,16 +9357,16 @@
 			(uuid "166bdb13-c6a3-427c-819a-33de5abdb8ef")
 		)
 		(pin "1"
-			(uuid "c0b1f9ac-4485-4ff4-9b12-7d04e0533e6a")
+			(uuid "c0b1f9ac-4485-4ff4-9b12-7d04e0533e6c")
 		)
 		(pin "3"
 			(uuid "4af736cd-9ce6-49d0-a766-a6463ec758a5")
 		)
 		(pin "2"
-			(uuid "1f3dc72e-945d-4745-a6c2-18d934bf73a6")
+			(uuid "1f3dc72e-945d-4745-a6c2-18d934bf73a8")
 		)
 		(pin "6"
-			(uuid "0899e9ac-d2fb-40f7-a19c-b1cab1d82ec8")
+			(uuid "0899e9ac-d2fb-40f7-a19c-b1cab1d82eca")
 		)
 		(pin "4"
 			(uuid "c10e62bf-7c6f-4eaa-bff8-88d650123f72")
@@ -9608,13 +9608,13 @@
 			)
 		)
 		(pin "2"
-			(uuid "fb43a1a2-376a-4bc8-bf66-8239dffb5290")
+			(uuid "fb43a1a2-376a-4bc8-bf66-8239dffb5293")
 		)
 		(pin "1"
-			(uuid "0f3769d1-555e-48a6-9c3f-ff4c8f2e347d")
+			(uuid "0f3769d1-555e-48a6-9c3f-ff4c8f2e3480")
 		)
 		(pin "6"
-			(uuid "a7d1ea33-7eb0-4645-902b-1ac1a173291d")
+			(uuid "a7d1ea33-7eb0-4645-902b-1ac1a1732920")
 		)
 		(pin "3"
 			(uuid "0b785cde-c9c9-4573-9e9e-2a63ac03d1fc")
@@ -9950,7 +9950,7 @@
 			)
 		)
 		(pin "3"
-			(uuid "5d4b1f4f-5e5e-4e4c-87e9-08b7b0fdd89f")
+			(uuid "5d4b1f4f-5e5e-4e4c-87e9-08b7b0fdd8a2")
 		)
 		(pin "2"
 			(uuid "5c693f25-a130-4f8b-a79a-875bcbd25552")
@@ -9959,13 +9959,13 @@
 			(uuid "47fb1e41-bfee-498f-82ba-d0216db9b8af")
 		)
 		(pin "4"
-			(uuid "87c2d7a5-f4ed-4709-bde1-d7e7266f283b")
+			(uuid "87c2d7a5-f4ed-4709-bde1-d7e7266f283e")
 		)
 		(pin "1"
 			(uuid "884f9014-d4bd-4737-bbff-928bf0f833e1")
 		)
 		(pin "5"
-			(uuid "30f8eec2-c8a1-4e80-8e5e-19d6bb591fda")
+			(uuid "30f8eec2-c8a1-4e80-8e5e-19d6bb591fdd")
 		)
 		(instances
 			(project "PCB 2 MSP430 BUSMONITOR BEACON WATCHDOG DBUS PROTEC"
@@ -10077,16 +10077,16 @@
 			(uuid "96e97a00-f86e-44e4-9f3e-e915da14c513")
 		)
 		(pin "1"
-			(uuid "c0b1f9ac-4485-4ff4-9b12-7d04e0533e6a")
+			(uuid "c0b1f9ac-4485-4ff4-9b12-7d04e0533e6d")
 		)
 		(pin "3"
 			(uuid "e55693a4-82d1-43a6-a09d-ecfbecb80355")
 		)
 		(pin "2"
-			(uuid "1f3dc72e-945d-4745-a6c2-18d934bf73a6")
+			(uuid "1f3dc72e-945d-4745-a6c2-18d934bf73a9")
 		)
 		(pin "6"
-			(uuid "0899e9ac-d2fb-40f7-a19c-b1cab1d82ec8")
+			(uuid "0899e9ac-d2fb-40f7-a19c-b1cab1d82ecb")
 		)
 		(pin "4"
 			(uuid "c967d3ee-33f0-4e79-9be7-2a30706282b1")
@@ -10470,16 +10470,16 @@
 			(uuid "f148204a-bfe9-4756-aae5-9812a9f340ce")
 		)
 		(pin "4"
-			(uuid "acb6b288-ec0a-42fd-a431-3af47ca53535")
+			(uuid "acb6b288-ec0a-42fd-a431-3af47ca53538")
 		)
 		(pin "5"
-			(uuid "b90a55c9-8006-4984-87a1-7d2a4f720476")
+			(uuid "b90a55c9-8006-4984-87a1-7d2a4f720479")
 		)
 		(pin "6"
 			(uuid "1b39e6f5-2fbd-474b-b82a-f08b1a613e4c")
 		)
 		(pin "3"
-			(uuid "f728684f-cda5-4821-b9d2-baaad59b75c3")
+			(uuid "f728684f-cda5-4821-b9d2-baaad59b75c6")
 		)
 		(instances
 			(project "PCB 2 MSP430 BUSMONITOR BEACON WATCHDOG DBUS PROTEC"
