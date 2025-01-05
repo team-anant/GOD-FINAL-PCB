@@ -616,6 +616,14 @@
     [
       "8c378675-f65a-4b67-963a-3f9cd3fefa7d",
       "SPV1040_5"
+    ],
+    [
+      "81ba6a5a-e21d-4cec-83f0-5d840c1285ed",
+      "LTC2896"
+    ],
+    [
+      "d7bb1b8a-b1e3-42b5-be90-f093a0283cfb",
+      "INA219"
     ]
   ],
   "text_variables": {}

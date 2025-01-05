@@ -124,6 +124,44 @@
 		)
 	)
 	(sheet
+		(at 170.18 85.09)
+		(size 12.7 3.81)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "81ba6a5a-e21d-4cec-83f0-5d840c1285ed")
+		(property "Sheetname" "LTC2896"
+			(at 170.18 84.3784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "LTC2896.kicad_sch"
+			(at 170.18 89.4846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
+				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd"
+					(page "12")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 81.28 152.4)
 		(size 12.7 3.81)
 		(fields_autoplaced yes)
@@ -271,6 +309,44 @@
 			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
 				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd"
 					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 158.75 135.89)
+		(size 12.7 3.81)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "d7bb1b8a-b1e3-42b5-be90-f093a0283cfb")
+		(property "Sheetname" "INA219"
+			(at 158.75 135.1784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "INA219.kicad_sch"
+			(at 158.75 140.2846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
+				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd"
+					(page "13")
 				)
 			)
 		)
