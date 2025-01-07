@@ -583,7 +583,7 @@
     ],
     [
       "d0756281-183d-4749-b648-78cca7febb2e",
-      "USB_CHARGER"
+      "USB_CHARGER DEPRECATED"
     ],
     [
       "6d793315-f4d5-400d-8bb8-3ec4414619c0",
@@ -619,11 +619,15 @@
     ],
     [
       "81ba6a5a-e21d-4cec-83f0-5d840c1285ed",
-      "LTC2896"
+      "LTC2986"
     ],
     [
       "d7bb1b8a-b1e3-42b5-be90-f093a0283cfb",
       "INA219"
+    ],
+    [
+      "e0b06a4e-2d0b-4b39-8e24-792203dd5d87",
+      "RS422"
     ]
   ],
   "text_variables": {}

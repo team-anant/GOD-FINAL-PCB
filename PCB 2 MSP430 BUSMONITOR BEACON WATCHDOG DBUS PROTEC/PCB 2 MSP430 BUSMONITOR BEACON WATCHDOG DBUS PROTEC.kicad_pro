@@ -537,6 +537,60 @@
           "label": "Description",
           "name": "Description",
           "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Flight",
+          "name": "Flight",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "MANUFACTURER",
+          "name": "MANUFACTURER",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "MAXIMUM_PACKAGE_HEIGHT",
+          "name": "MAXIMUM_PACKAGE_HEIGHT",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Manufacturer_Name",
+          "name": "Manufacturer_Name",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Manufacturer_Part_Number",
+          "name": "Manufacturer_Part_Number",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "PARTREV",
+          "name": "PARTREV",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Proto",
+          "name": "Proto",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "STANDARD",
+          "name": "STANDARD",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "DNI",
+          "name": "DNI",
+          "show": false
         }
       ],
       "filter_string": "",
@@ -606,12 +660,8 @@
       "BUS_AND_PROTEC"
     ],
     [
-      "1594fd29-71fb-4fb3-8b35-1d14b2032f49",
-      "BNO055"
-    ],
-    [
-      "c83b3a28-02d8-4191-9319-bd9c9551df3e",
-      "INA219"
+      "55fc4a53-fbca-4483-b7a5-592bfe8034c3",
+      "LEVEL_SHIFTER"
     ]
   ],
   "text_variables": {}

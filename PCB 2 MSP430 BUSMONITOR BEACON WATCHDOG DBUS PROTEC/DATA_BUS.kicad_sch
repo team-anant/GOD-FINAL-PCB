@@ -311,6 +311,187 @@
 				)
 			)
 		)
+		(symbol "Jumper:SolderJumper_2_Open"
+			(pin_numbers hide)
+			(pin_names
+				(offset 0) hide)
+			(exclude_from_sim yes)
+			(in_bom no)
+			(on_board yes)
+			(property "Reference" "JP"
+				(at 0 2.032 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "SolderJumper_2_Open"
+				(at 0 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Solder Jumper, 2-pole, open"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "solder jumper SPST"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "SolderJumper*Open*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "SolderJumper_2_Open_0_1"
+				(arc
+					(start -0.254 1.016)
+					(mid -1.2656 0)
+					(end -0.254 -1.016)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start -0.254 1.016)
+					(mid -1.2656 0)
+					(end -0.254 -1.016)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.254 1.016) (xy -0.254 -1.016)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.254 1.016) (xy 0.254 -1.016)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 0.254 -1.016)
+					(mid 1.2656 0)
+					(end 0.254 1.016)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 0.254 -1.016)
+					(mid 1.2656 0)
+					(end 0.254 1.016)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+			)
+			(symbol "SolderJumper_2_Open_1_1"
+				(pin passive line
+					(at -3.81 0 0)
+					(length 2.54)
+					(name "A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 3.81 0 180)
+					(length 2.54)
+					(name "B"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
 		(symbol "PC104:Payload"
 			(pin_names
 				(offset 1.016)
@@ -3876,16 +4057,6 @@
 	)
 	(wire
 		(pts
-			(xy 34.29 174.625) (xy 35.56 174.625)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1060b15e-34b3-47fe-b881-8e9b28f0f39b")
-	)
-	(wire
-		(pts
 			(xy 35.56 66.675) (xy 33.02 66.675)
 		)
 		(stroke
@@ -3956,16 +4127,6 @@
 	)
 	(wire
 		(pts
-			(xy 44.45 164.465) (xy 43.18 164.465)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "26adff64-94e9-43fc-9555-997315f1adb9")
-	)
-	(wire
-		(pts
 			(xy 102.235 105.41) (xy 102.235 106.68)
 		)
 		(stroke
@@ -4026,16 +4187,6 @@
 	)
 	(wire
 		(pts
-			(xy 91.44 169.545) (xy 92.71 169.545)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3e7dc8fe-45db-47ea-abf3-a9d33140eaa6")
-	)
-	(wire
-		(pts
 			(xy 87.63 42.545) (xy 91.44 42.545)
 		)
 		(stroke
@@ -4043,16 +4194,6 @@
 			(type default)
 		)
 		(uuid "487c071b-fdc2-4e54-85d4-5882405b1da8")
-	)
-	(wire
-		(pts
-			(xy 44.45 178.435) (xy 43.18 178.435)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4b095307-2e0e-4d67-8e48-6ee65a13b26c")
 	)
 	(wire
 		(pts
@@ -4076,16 +4217,6 @@
 	)
 	(wire
 		(pts
-			(xy 91.44 174.625) (xy 92.71 174.625)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "53b469b5-77b8-49d3-acdb-2d276a684b85")
-	)
-	(wire
-		(pts
 			(xy 25.4 51.435) (xy 33.02 51.435)
 		)
 		(stroke
@@ -4103,16 +4234,6 @@
 			(type default)
 		)
 		(uuid "5811a2ee-a2bf-4360-976a-c473a2443227")
-	)
-	(wire
-		(pts
-			(xy 91.44 164.465) (xy 92.71 164.465)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "588eb8bf-2966-4f03-b052-fd902afdd959")
 	)
 	(wire
 		(pts
@@ -4166,16 +4287,6 @@
 	)
 	(wire
 		(pts
-			(xy 34.29 178.435) (xy 35.56 178.435)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6559e3d3-6031-493e-a8ab-5ec746bc5f69")
-	)
-	(wire
-		(pts
 			(xy 97.155 116.84) (xy 94.615 116.84)
 		)
 		(stroke
@@ -4193,16 +4304,6 @@
 			(type default)
 		)
 		(uuid "65e6ae3a-f2cd-4135-95d6-8d72ed316e99")
-	)
-	(wire
-		(pts
-			(xy 44.45 174.625) (xy 43.18 174.625)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "689dcf2f-86e0-40a3-9524-60f5b024d4f3")
 	)
 	(wire
 		(pts
@@ -4296,16 +4397,6 @@
 	)
 	(wire
 		(pts
-			(xy 44.45 168.275) (xy 43.18 168.275)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "82068330-7a79-4b5a-9328-5a8eafc4fd62")
-	)
-	(wire
-		(pts
 			(xy 102.235 134.62) (xy 102.235 137.16)
 		)
 		(stroke
@@ -4363,16 +4454,6 @@
 			(type default)
 		)
 		(uuid "90a41bd5-0eae-449b-a90d-ea8a77f12081")
-	)
-	(wire
-		(pts
-			(xy 34.29 168.275) (xy 35.56 168.275)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "92a7180e-ac51-4c24-83aa-394383feefea")
 	)
 	(wire
 		(pts
@@ -4526,16 +4607,6 @@
 	)
 	(wire
 		(pts
-			(xy 101.6 164.465) (xy 100.33 164.465)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bf7b7355-8bdc-4807-b7fb-ec637914984f")
-	)
-	(wire
-		(pts
 			(xy 40.64 66.675) (xy 35.56 66.675)
 		)
 		(stroke
@@ -4556,16 +4627,6 @@
 	)
 	(wire
 		(pts
-			(xy 34.29 164.465) (xy 35.56 164.465)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c53818ee-53a8-49c1-abc5-3c096ae6d6c7")
-	)
-	(wire
-		(pts
 			(xy 48.26 69.215) (xy 48.26 71.755)
 		)
 		(stroke
@@ -4583,16 +4644,6 @@
 			(type default)
 		)
 		(uuid "ccc063c3-0a5d-4103-88cf-633b85426074")
-	)
-	(wire
-		(pts
-			(xy 101.6 174.625) (xy 100.33 174.625)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d18855c9-2ec0-40c0-aa5a-cc00f5710ae7")
 	)
 	(wire
 		(pts
@@ -4824,16 +4875,6 @@
 		)
 		(uuid "fe01f875-d554-4ce3-ab47-c0b9f08b2865")
 	)
-	(wire
-		(pts
-			(xy 101.6 169.545) (xy 100.33 169.545)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fecc460b-4de4-4430-8d22-aa6e4894e2ac")
-	)
 	(rectangle
 		(start 161.925 116.84)
 		(end 231.775 149.86)
@@ -4912,7 +4953,7 @@
 	)
 	(global_label "I2C5V_SCL"
 		(shape input)
-		(at 34.29 164.465 180)
+		(at 35.56 163.83 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4922,7 +4963,7 @@
 		)
 		(uuid "091cac84-843b-47c9-a269-02ec11cb48ca")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 21.4472 164.465 0)
+			(at 22.7172 163.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4956,7 +4997,7 @@
 	)
 	(global_label "MISO"
 		(shape output)
-		(at 91.44 174.625 180)
+		(at 92.71 173.99 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4965,7 +5006,7 @@
 		)
 		(uuid "0c7c8db4-bbd2-4493-91c2-86b77c1df73a")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 91.44 174.625 0)
+			(at 92.71 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4976,7 +5017,7 @@
 	)
 	(global_label "I2C33V_SDA"
 		(shape input)
-		(at 34.29 178.435 180)
+		(at 35.56 179.07 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4986,7 +5027,7 @@
 		)
 		(uuid "0f855069-5beb-41d1-99cc-512a34aef3d0")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 20.1772 178.435 0)
+			(at 21.4472 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5062,7 +5103,7 @@
 	)
 	(global_label "I2C33V_SDA_PROTEC"
 		(shape input)
-		(at 44.45 178.435 0)
+		(at 43.18 179.07 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5071,7 +5112,7 @@
 		)
 		(uuid "1eefb999-98c0-4d27-92e4-fbc5beb1aa6e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 44.45 178.435 0)
+			(at 43.18 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5190,7 +5231,7 @@
 	)
 	(global_label "MISO_RF1"
 		(shape input)
-		(at 101.6 169.545 0)
+		(at 100.33 168.91 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5199,7 +5240,7 @@
 		)
 		(uuid "3d620c0b-430d-406d-b048-b1a42e8717f0")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 101.6 169.545 0)
+			(at 100.33 168.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5250,7 +5291,7 @@
 	)
 	(global_label "MISO"
 		(shape output)
-		(at 91.44 164.465 180)
+		(at 92.71 163.83 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5259,7 +5300,7 @@
 		)
 		(uuid "3ffa5638-2c11-4684-9b08-c57f7f1113ba")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 91.44 164.465 0)
+			(at 92.71 163.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5270,7 +5311,7 @@
 	)
 	(global_label "I2C5V_SCL_PROTEC"
 		(shape input)
-		(at 44.45 164.465 0)
+		(at 43.18 163.83 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5279,7 +5320,7 @@
 		)
 		(uuid "48dc44b8-c36c-432e-ac3f-49db2b55accb")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 44.45 164.465 0)
+			(at 43.18 163.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5420,7 +5461,7 @@
 	)
 	(global_label "I2C33V_SCL_PROTEC"
 		(shape input)
-		(at 44.45 174.625 0)
+		(at 43.18 173.99 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5429,7 +5470,7 @@
 		)
 		(uuid "829766dd-ebe5-48d6-86a4-1430aec8dd39")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 44.45 174.625 0)
+			(at 43.18 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5484,7 +5525,7 @@
 	)
 	(global_label "MISO_RF2"
 		(shape input)
-		(at 101.6 164.465 0)
+		(at 100.33 163.83 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5493,7 +5534,7 @@
 		)
 		(uuid "8da0f2e0-7656-4bfc-8d34-6ae49dbc14f8")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 101.6 164.465 0)
+			(at 100.33 163.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5526,7 +5567,7 @@
 	)
 	(global_label "MISO_SD"
 		(shape input)
-		(at 101.6 174.625 0)
+		(at 100.33 173.99 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5535,7 +5576,7 @@
 		)
 		(uuid "9602eef8-efb0-4146-8c12-7ff3ddc91dfc")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 101.6 174.625 0)
+			(at 100.33 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5610,7 +5651,7 @@
 	)
 	(global_label "I2C5V_SDA_PROTEC"
 		(shape input)
-		(at 44.45 168.275 0)
+		(at 43.18 168.91 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5619,7 +5660,7 @@
 		)
 		(uuid "ad4eeac9-9e69-4bbc-a350-63af51d9ba82")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 44.45 168.275 0)
+			(at 43.18 168.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5734,7 +5775,7 @@
 	)
 	(global_label "MISO"
 		(shape output)
-		(at 91.44 169.545 180)
+		(at 92.71 168.91 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5743,7 +5784,7 @@
 		)
 		(uuid "b6d50071-c74d-485c-9d12-637d64e463db")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 91.44 169.545 0)
+			(at 92.71 168.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5754,7 +5795,7 @@
 	)
 	(global_label "I2C5V_SDA"
 		(shape input)
-		(at 34.29 168.275 180)
+		(at 35.56 168.91 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5764,7 +5805,7 @@
 		)
 		(uuid "c2f8a33f-62e0-40be-8997-d0fa478a6a1c")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 21.3867 168.275 0)
+			(at 22.6567 168.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5776,7 +5817,7 @@
 	)
 	(global_label "I2C33V_SCL"
 		(shape input)
-		(at 34.29 174.625 180)
+		(at 35.56 173.99 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5786,7 +5827,7 @@
 		)
 		(uuid "c4108143-6800-4e9e-bbed-58f974886649")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 20.2377 174.625 0)
+			(at 21.5077 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5917,6 +5958,146 @@
 		)
 	)
 	(symbol
+		(lib_id "Jumper:SolderJumper_2_Open")
+		(at 39.37 179.07 0)
+		(unit 1)
+		(exclude_from_sim yes)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "01d0d4e7-300b-48e7-9277-5aa5e732e639")
+		(property "Reference" "JP4"
+			(at 39.37 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "SolderJumper_2_Open"
+			(at 39.37 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm"
+			(at 39.37 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 39.37 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Solder Jumper, 2-pole, open"
+			(at 39.37 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "61f65e5e-c162-4976-887d-1dbe5757dc5e")
+		)
+		(pin "1"
+			(uuid "7134849f-3e0d-48f5-a99d-d3ac7335c1e4")
+		)
+		(instances
+			(project "PCB 2 MSP430 BUSMONITOR BEACON WATCHDOG DBUS PROTEC"
+				(path "/04a95c0c-1f2d-49e4-8823-3428ac263eb8/d27be3f9-6033-4951-9896-36f1138da046"
+					(reference "JP4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Jumper:SolderJumper_2_Open")
+		(at 96.52 163.83 0)
+		(unit 1)
+		(exclude_from_sim yes)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "05d9250c-b560-4bdc-b9b7-f46f85a3ed34")
+		(property "Reference" "JP5"
+			(at 96.52 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "SolderJumper_2_Open"
+			(at 96.52 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm"
+			(at 96.52 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 96.52 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Solder Jumper, 2-pole, open"
+			(at 96.52 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "78fc07d5-edcd-45f9-a585-963a9d9172f5")
+		)
+		(pin "1"
+			(uuid "b5737d0a-9d79-47e3-b111-59809ae0a00f")
+		)
+		(instances
+			(project "PCB 2 MSP430 BUSMONITOR BEACON WATCHDOG DBUS PROTEC"
+				(path "/04a95c0c-1f2d-49e4-8823-3428ac263eb8/d27be3f9-6033-4951-9896-36f1138da046"
+					(reference "JP5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "mainboard:3.3V")
 		(at 43.18 92.075 0)
 		(unit 1)
@@ -5976,81 +6157,6 @@
 			(project "PCB 2 MSP430 BUSMONITOR BEACON WATCHDOG DBUS PROTEC"
 				(path "/04a95c0c-1f2d-49e4-8823-3428ac263eb8/d27be3f9-6033-4951-9896-36f1138da046"
 					(reference "#P+06")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_US")
-		(at 96.52 164.465 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "0fa78c36-f8a0-4e16-8aef-ece1b481c69a")
-		(property "Reference" "R14"
-			(at 92.71 163.195 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "0"
-			(at 99.06 163.195 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 96.266 165.481 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 96.52 164.465 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "0 0603"
-			(at 95.25 163.195 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "DNI" "DNI"
-			(at 96.52 165.735 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "14c7095c-32ef-4a5d-80a9-fc349c308877")
-		)
-		(pin "2"
-			(uuid "e1bca7f8-e307-4a43-b86e-55c3541eb9ae")
-		)
-		(instances
-			(project "PCB 2 MSP430 BUSMONITOR BEACON WATCHDOG DBUS PROTEC"
-				(path "/04a95c0c-1f2d-49e4-8823-3428ac263eb8/d27be3f9-6033-4951-9896-36f1138da046"
-					(reference "R14")
 					(unit 1)
 				)
 			)
@@ -6994,81 +7100,6 @@
 			(project "PCB 2 MSP430 BUSMONITOR BEACON WATCHDOG DBUS PROTEC"
 				(path "/04a95c0c-1f2d-49e4-8823-3428ac263eb8/d27be3f9-6033-4951-9896-36f1138da046"
 					(reference "Q7")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_US")
-		(at 39.37 178.435 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "49a4ccc9-3ba5-4e33-929a-313788df405d")
-		(property "Reference" "R11"
-			(at 35.56 177.165 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "0"
-			(at 41.91 177.165 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 39.116 179.451 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 39.37 178.435 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "0 0603"
-			(at 38.1 177.165 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "DNI" "DNI"
-			(at 39.37 179.705 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "9fe37242-3c4a-481d-896f-5e90053ed3f9")
-		)
-		(pin "1"
-			(uuid "0b55d468-76ea-43eb-9991-85b0d3d082f0")
-		)
-		(instances
-			(project "PCB 2 MSP430 BUSMONITOR BEACON WATCHDOG DBUS PROTEC"
-				(path "/04a95c0c-1f2d-49e4-8823-3428ac263eb8/d27be3f9-6033-4951-9896-36f1138da046"
-					(reference "R11")
 					(unit 1)
 				)
 			)
@@ -8971,81 +9002,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R_US")
-		(at 39.37 164.465 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "93de552b-c852-4140-804b-68ab6f4dfc89")
-		(property "Reference" "R8"
-			(at 35.56 163.195 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "0"
-			(at 41.91 163.195 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 39.116 165.481 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 39.37 164.465 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "0 0603"
-			(at 38.1 163.195 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "DNI" "DNI"
-			(at 39.37 165.735 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "28f97f02-7083-4d62-ad1b-9b2723fb738b")
-		)
-		(pin "1"
-			(uuid "6f796e78-158d-42a0-99a5-e5aa3f89f8a0")
-		)
-		(instances
-			(project "PCB 2 MSP430 BUSMONITOR BEACON WATCHDOG DBUS PROTEC"
-				(path "/04a95c0c-1f2d-49e4-8823-3428ac263eb8/d27be3f9-6033-4951-9896-36f1138da046"
-					(reference "R8")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C")
 		(at 48.26 75.565 0)
 		(unit 1)
@@ -9109,81 +9065,6 @@
 			(project "PCB 2 MSP430 BUSMONITOR BEACON WATCHDOG DBUS PROTEC"
 				(path "/04a95c0c-1f2d-49e4-8823-3428ac263eb8/d27be3f9-6033-4951-9896-36f1138da046"
 					(reference "C1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_US")
-		(at 39.37 174.625 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "982a3c56-1077-4aa3-8c1f-60c899ff008a")
-		(property "Reference" "R10"
-			(at 35.56 173.355 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "0"
-			(at 41.91 173.355 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 39.116 175.641 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 39.37 174.625 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "0 0603"
-			(at 38.1 173.355 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "DNI" "DNI"
-			(at 39.37 175.895 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "8576ea21-7a4b-4a92-8307-0c70f239fc23")
-		)
-		(pin "2"
-			(uuid "dcd911bb-b996-413b-8b71-500f25024558")
-		)
-		(instances
-			(project "PCB 2 MSP430 BUSMONITOR BEACON WATCHDOG DBUS PROTEC"
-				(path "/04a95c0c-1f2d-49e4-8823-3428ac263eb8/d27be3f9-6033-4951-9896-36f1138da046"
-					(reference "R10")
 					(unit 1)
 				)
 			)
@@ -9636,81 +9517,6 @@
 	)
 	(symbol
 		(lib_id "Device:R_US")
-		(at 96.52 169.545 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "af9a2f28-fef3-4244-b0b7-554d8dae8bfa")
-		(property "Reference" "R15"
-			(at 92.71 168.275 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "0"
-			(at 99.06 168.275 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 96.266 170.561 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 96.52 169.545 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "0 0603"
-			(at 95.25 168.275 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "DNI" "DNI"
-			(at 96.52 170.815 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "f832fc3b-7540-4a5d-a61b-79996fe3e7e3")
-		)
-		(pin "1"
-			(uuid "38231670-4ae4-4ba8-864d-90bda79ea638")
-		)
-		(instances
-			(project "PCB 2 MSP430 BUSMONITOR BEACON WATCHDOG DBUS PROTEC"
-				(path "/04a95c0c-1f2d-49e4-8823-3428ac263eb8/d27be3f9-6033-4951-9896-36f1138da046"
-					(reference "R15")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_US")
 		(at 89.535 128.27 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -9773,81 +9579,6 @@
 			(project "PCB 2 MSP430 BUSMONITOR BEACON WATCHDOG DBUS PROTEC"
 				(path "/04a95c0c-1f2d-49e4-8823-3428ac263eb8/d27be3f9-6033-4951-9896-36f1138da046"
 					(reference "R27")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_US")
-		(at 39.37 168.275 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "b8138dee-f506-47b3-b2c1-ed2bf1029de6")
-		(property "Reference" "R9"
-			(at 35.56 167.005 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "0"
-			(at 41.91 167.005 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 39.116 169.291 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 39.37 168.275 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "0 0603"
-			(at 38.1 167.005 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "DNI" "DNI"
-			(at 39.37 169.545 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "b2c1bec6-cf01-458d-b6e8-bfff4eb22ced")
-		)
-		(pin "1"
-			(uuid "3515dc90-b8df-4ff3-9e0f-45e618245a2f")
-		)
-		(instances
-			(project "PCB 2 MSP430 BUSMONITOR BEACON WATCHDOG DBUS PROTEC"
-				(path "/04a95c0c-1f2d-49e4-8823-3428ac263eb8/d27be3f9-6033-4951-9896-36f1138da046"
-					(reference "R9")
 					(unit 1)
 				)
 			)
@@ -10168,6 +9899,76 @@
 		)
 	)
 	(symbol
+		(lib_id "Jumper:SolderJumper_2_Open")
+		(at 96.52 173.99 0)
+		(unit 1)
+		(exclude_from_sim yes)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c1717d9f-16f3-4b77-9ec8-a6cdcae2139c")
+		(property "Reference" "JP7"
+			(at 96.52 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "SolderJumper_2_Open"
+			(at 96.52 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm"
+			(at 96.52 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 96.52 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Solder Jumper, 2-pole, open"
+			(at 96.52 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "7fbc8a66-3ed5-46f9-b131-556827111bba")
+		)
+		(pin "1"
+			(uuid "d86af640-7bce-4d96-bb03-86380208c172")
+		)
+		(instances
+			(project "PCB 2 MSP430 BUSMONITOR BEACON WATCHDOG DBUS PROTEC"
+				(path "/04a95c0c-1f2d-49e4-8823-3428ac263eb8/d27be3f9-6033-4951-9896-36f1138da046"
+					(reference "JP7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R_US")
 		(at 179.705 139.7 270)
 		(unit 1)
@@ -10294,81 +10095,6 @@
 			(project "PCB 2 MSP430 BUSMONITOR BEACON WATCHDOG DBUS PROTEC"
 				(path "/04a95c0c-1f2d-49e4-8823-3428ac263eb8/d27be3f9-6033-4951-9896-36f1138da046"
 					(reference "#GND04")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_US")
-		(at 96.52 174.625 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "c7716a54-65ea-47f0-b4df-07471c50731e")
-		(property "Reference" "R16"
-			(at 92.71 173.355 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "0"
-			(at 99.06 173.355 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 96.266 175.641 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 96.52 174.625 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "0 0603"
-			(at 95.25 173.355 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "DNI" "DNI"
-			(at 96.52 175.895 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "f5ba991d-6599-486f-8809-a0c794035720")
-		)
-		(pin "2"
-			(uuid "4d441bb0-a722-42d8-b724-a732551787be")
-		)
-		(instances
-			(project "PCB 2 MSP430 BUSMONITOR BEACON WATCHDOG DBUS PROTEC"
-				(path "/04a95c0c-1f2d-49e4-8823-3428ac263eb8/d27be3f9-6033-4951-9896-36f1138da046"
-					(reference "R16")
 					(unit 1)
 				)
 			)
@@ -10753,6 +10479,76 @@
 			(project "PCB 2 MSP430 BUSMONITOR BEACON WATCHDOG DBUS PROTEC"
 				(path "/04a95c0c-1f2d-49e4-8823-3428ac263eb8/d27be3f9-6033-4951-9896-36f1138da046"
 					(reference "R30")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Jumper:SolderJumper_2_Open")
+		(at 39.37 163.83 0)
+		(unit 1)
+		(exclude_from_sim yes)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d8165847-302e-463c-8f96-000d36363d7c")
+		(property "Reference" "JP1"
+			(at 39.37 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "SolderJumper_2_Open"
+			(at 39.37 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm"
+			(at 39.37 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 39.37 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Solder Jumper, 2-pole, open"
+			(at 39.37 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "86bdef2d-7f76-4281-8b4c-6d7fe37c0a3a")
+		)
+		(pin "1"
+			(uuid "acd7534c-26f7-45aa-8478-be9379740b87")
+		)
+		(instances
+			(project "PCB 2 MSP430 BUSMONITOR BEACON WATCHDOG DBUS PROTEC"
+				(path "/04a95c0c-1f2d-49e4-8823-3428ac263eb8/d27be3f9-6033-4951-9896-36f1138da046"
+					(reference "JP1")
 					(unit 1)
 				)
 			)
@@ -11200,6 +10996,146 @@
 		)
 	)
 	(symbol
+		(lib_id "Jumper:SolderJumper_2_Open")
+		(at 39.37 173.99 0)
+		(unit 1)
+		(exclude_from_sim yes)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "dcbba733-ea04-4966-9a22-e315bf0171b2")
+		(property "Reference" "JP3"
+			(at 39.37 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "SolderJumper_2_Open"
+			(at 39.37 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm"
+			(at 39.37 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 39.37 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Solder Jumper, 2-pole, open"
+			(at 39.37 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "57d529d3-a458-4197-9a3d-fa1574a142e9")
+		)
+		(pin "1"
+			(uuid "f88cb2ce-402e-462d-8ace-3b4ee0875e34")
+		)
+		(instances
+			(project "PCB 2 MSP430 BUSMONITOR BEACON WATCHDOG DBUS PROTEC"
+				(path "/04a95c0c-1f2d-49e4-8823-3428ac263eb8/d27be3f9-6033-4951-9896-36f1138da046"
+					(reference "JP3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Jumper:SolderJumper_2_Open")
+		(at 96.52 168.91 0)
+		(unit 1)
+		(exclude_from_sim yes)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e414760b-4d67-49b7-a69f-072494244d8c")
+		(property "Reference" "JP6"
+			(at 96.52 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "SolderJumper_2_Open"
+			(at 96.52 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm"
+			(at 96.52 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 96.52 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Solder Jumper, 2-pole, open"
+			(at 96.52 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "02b34b7d-59d5-48ad-9a6d-ba335f42d5bd")
+		)
+		(pin "1"
+			(uuid "f9b97d74-0dbf-4bc6-935f-d1ef8542fb6f")
+		)
+		(instances
+			(project "PCB 2 MSP430 BUSMONITOR BEACON WATCHDOG DBUS PROTEC"
+				(path "/04a95c0c-1f2d-49e4-8823-3428ac263eb8/d27be3f9-6033-4951-9896-36f1138da046"
+					(reference "JP6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C")
 		(at 48.26 141.605 0)
 		(unit 1)
@@ -11401,6 +11337,76 @@
 			(project "PCB 2 MSP430 BUSMONITOR BEACON WATCHDOG DBUS PROTEC"
 				(path "/04a95c0c-1f2d-49e4-8823-3428ac263eb8/d27be3f9-6033-4951-9896-36f1138da046"
 					(reference "R6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Jumper:SolderJumper_2_Open")
+		(at 39.37 168.91 0)
+		(unit 1)
+		(exclude_from_sim yes)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "fb702b41-e65d-4b67-a4d9-10a097558788")
+		(property "Reference" "JP2"
+			(at 39.37 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "SolderJumper_2_Open"
+			(at 39.37 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm"
+			(at 39.37 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 39.37 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Solder Jumper, 2-pole, open"
+			(at 39.37 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "43aaeed1-8b5a-4f79-9ca1-3255128390e7")
+		)
+		(pin "1"
+			(uuid "cbf35bdd-12d9-4e21-a48b-e6074ed73824")
+		)
+		(instances
+			(project "PCB 2 MSP430 BUSMONITOR BEACON WATCHDOG DBUS PROTEC"
+				(path "/04a95c0c-1f2d-49e4-8823-3428ac263eb8/d27be3f9-6033-4951-9896-36f1138da046"
+					(reference "JP2")
 					(unit 1)
 				)
 			)

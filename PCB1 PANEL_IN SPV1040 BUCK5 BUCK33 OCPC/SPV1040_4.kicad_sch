@@ -4,6 +4,9 @@
 	(generator_version "8.0")
 	(uuid "0879199b-ddd5-4ecb-9521-9dfccc8712a6")
 	(paper "A4")
+	(title_block
+		(date "V1")
+	)
 	(lib_symbols
 		(symbol "2024-06-07_14-27-39:SPV1040TTR"
 			(pin_names

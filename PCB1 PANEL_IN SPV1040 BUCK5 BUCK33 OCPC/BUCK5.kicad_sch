@@ -5,6 +5,7 @@
 	(uuid "79050afc-eeb3-418a-9991-dfe14ca34799")
 	(paper "A4")
 	(title_block
+		(date "V1")
 		(company "TEAM ANANT")
 		(comment 1 "BITS PILANI")
 	)
@@ -1952,6 +1953,16 @@
 			(type default)
 		)
 		(uuid "fd8329c8-69ad-49dc-a417-08ef4d2784ac")
+	)
+	(text "MAKE THIS INTO 5V"
+		(exclude_from_sim no)
+		(at 162.56 152.908 0)
+		(effects
+			(font
+				(size 5.08 5.08)
+			)
+		)
+		(uuid "dd811555-9875-4ce1-8bbd-37639a714d42")
 	)
 	(label "EN"
 		(at 134.366 48.26 0)

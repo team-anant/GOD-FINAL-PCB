@@ -2,8 +2,11 @@
 	(version 20231120)
 	(generator "eeschema")
 	(generator_version "8.0")
-	(uuid "c95cf0c0-d434-4a33-9b89-1ddd202a23ed")
+	(uuid "014493e9-2baf-4766-b63f-cd3f80247df3")
 	(paper "A4")
+	(title_block
+		(date "V1")
+	)
 	(lib_symbols
 		(symbol "Device:C"
 			(pin_numbers hide)

@@ -5,6 +5,7 @@
 	(uuid "494c9d9f-6b33-4248-a813-27ffaaa929bd")
 	(paper "A4")
 	(title_block
+		(date "V1")
 		(company "TEAM ANANT")
 		(comment 1 "BITS PILANI")
 	)
@@ -135,7 +136,7 @@
 			(color 0 0 0 0.0000)
 		)
 		(uuid "81ba6a5a-e21d-4cec-83f0-5d840c1285ed")
-		(property "Sheetname" "LTC2896"
+		(property "Sheetname" "LTC2986"
 			(at 170.18 84.3784 0)
 			(effects
 				(font
@@ -144,7 +145,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "LTC2896.kicad_sch"
+		(property "Sheetfile" "LTC2986.kicad_sch"
 			(at 170.18 89.4846 0)
 			(effects
 				(font
@@ -227,6 +228,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left top)
+				(hide yes)
 			)
 		)
 		(instances
@@ -287,7 +289,7 @@
 			(color 0 0 0 0.0000)
 		)
 		(uuid "d0756281-183d-4749-b648-78cca7febb2e")
-		(property "Sheetname" "USB_CHARGER"
+		(property "Sheetname" "USB_CHARGER DEPRECATED"
 			(at 133.35 37.3884 0)
 			(effects
 				(font
@@ -296,7 +298,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "USB_CHARGER.kicad_sch"
+		(property "Sheetfile" "USB_CHARGER_DEPRECATED.kicad_sch"
 			(at 133.35 42.4946 0)
 			(effects
 				(font
@@ -347,6 +349,53 @@
 			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
 				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd"
 					(page "13")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 204.47 129.54)
+		(size 12.7 3.81)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "e0b06a4e-2d0b-4b39-8e24-792203dd5d87")
+		(property "Sheetname" "RS422"
+			(at 204.47 128.8284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "RS422.kicad_sch"
+			(at 204.47 133.9346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Field2" ""
+			(at 204.47 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
+				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd"
+					(page "14")
 				)
 			)
 		)

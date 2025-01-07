@@ -6,44 +6,6 @@
 	(paper "A4")
 	(lib_symbols)
 	(sheet
-		(at 187.96 48.26)
-		(size 16.51 8.89)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0.0000)
-		)
-		(uuid "1594fd29-71fb-4fb3-8b35-1d14b2032f49")
-		(property "Sheetname" "BNO055"
-			(at 187.96 47.5484 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "BNO055.kicad_sch"
-			(at 187.96 57.7346 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(instances
-			(project "PCB 2 MSP430 BUSMONITOR BEACON WATCHDOG DBUS PROTEC"
-				(path "/04a95c0c-1f2d-49e4-8823-3428ac263eb8"
-					(page "6")
-				)
-			)
-		)
-	)
-	(sheet
 		(at 31.75 48.26)
 		(size 14.605 9.525)
 		(fields_autoplaced yes)
@@ -83,6 +45,44 @@
 		)
 	)
 	(sheet
+		(at 21.59 149.86)
+		(size 12.7 3.81)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "55fc4a53-fbca-4483-b7a5-592bfe8034c3")
+		(property "Sheetname" "LEVEL_SHIFTER"
+			(at 21.59 149.1484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "LEVEL_SHIFTER.kicad_sch"
+			(at 21.59 154.2546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PCB 2 MSP430 BUSMONITOR BEACON WATCHDOG DBUS PROTEC"
+				(path "/04a95c0c-1f2d-49e4-8823-3428ac263eb8"
+					(page "8")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 33.02 105.41)
 		(size 26.035 18.415)
 		(fields_autoplaced yes)
@@ -116,44 +116,6 @@
 			(project "PCB 2 MSP430 BUSMONITOR BEACON WATCHDOG DBUS PROTEC"
 				(path "/04a95c0c-1f2d-49e4-8823-3428ac263eb8"
 					(page "3")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 187.96 96.52)
-		(size 36.83 30.48)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0.0000)
-		)
-		(uuid "c83b3a28-02d8-4191-9319-bd9c9551df3e")
-		(property "Sheetname" "INA219"
-			(at 187.96 95.8084 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "INA219.kicad_sch"
-			(at 187.96 127.5846 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(instances
-			(project "PCB 2 MSP430 BUSMONITOR BEACON WATCHDOG DBUS PROTEC"
-				(path "/04a95c0c-1f2d-49e4-8823-3428ac263eb8"
-					(page "7")
 				)
 			)
 		)

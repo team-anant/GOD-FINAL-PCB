@@ -5,6 +5,7 @@
 	(uuid "c1176c45-3544-4771-9f32-f999839c54a0")
 	(paper "A4")
 	(title_block
+		(date "V1")
 		(company "TEAM ANANT")
 		(comment 1 "BITS PILANI")
 	)
