@@ -10,6 +10,125 @@
 		(comment 1 "BITS PILANI")
 	)
 	(lib_symbols
+		(symbol "Connector:Conn_01x01_Pin"
+			(pin_names
+				(offset 1.016) hide)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "J"
+				(at 0 2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "Conn_01x01_Pin"
+				(at 0 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Generic connector, single row, 01x01, script generated"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_locked" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "connector"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "Connector*:*_1x??_*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "Conn_01x01_Pin_1_1"
+				(polyline
+					(pts
+						(xy 1.27 0) (xy 0.8636 0)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start 0.8636 0.127)
+					(end 0 -0.127)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(pin passive line
+					(at 5.08 0 180)
+					(length 3.81)
+					(name "Pin_1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
 		(symbol "Connector:Conn_01x02_Pin"
 			(pin_names
 				(offset 1.016) hide)
@@ -858,6 +977,18 @@
 		(uuid "6dc217e3-8f66-409b-8b99-be135df52682")
 	)
 	(junction
+		(at 264.16 127)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6fd97799-09ea-4bc2-b4b0-012fdb4d54f3")
+	)
+	(junction
+		(at 55.88 148.59)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "821566fc-3d85-4193-a71c-28dda355bccb")
+	)
+	(junction
 		(at 133.35 146.05)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -874,6 +1005,18 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a4b20dbe-7718-4a65-bbb5-f6bcaa35ade5")
+	)
+	(junction
+		(at 60.96 46.99)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a6c276c0-54e9-4d16-9069-ad620e7a87e4")
+	)
+	(junction
+		(at 59.69 97.79)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ade63db2-d51a-4951-a966-178b76eb5452")
 	)
 	(junction
 		(at 44.45 143.51)
@@ -904,6 +1047,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f8767a59-f254-429c-965e-e09ad8b308e1")
+	)
+	(junction
+		(at 207.01 124.46)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ff24fcb7-38cd-4168-8c7b-3259e5a93a43")
 	)
 	(no_connect
 		(at 123.19 97.79)
@@ -957,7 +1106,7 @@
 	)
 	(wire
 		(pts
-			(xy 207.01 120.65) (xy 207.01 128.27)
+			(xy 207.01 120.65) (xy 207.01 124.46)
 		)
 		(stroke
 			(width 0)
@@ -1017,16 +1166,6 @@
 	)
 	(wire
 		(pts
-			(xy 64.77 46.99) (xy 57.15 46.99)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1cf891a9-1ae5-4482-8205-2bf17d830e66")
-	)
-	(wire
-		(pts
 			(xy 201.93 59.69) (xy 201.93 52.07)
 		)
 		(stroke
@@ -1034,6 +1173,16 @@
 			(type default)
 		)
 		(uuid "1e4ebb05-230a-431a-b3ad-18d92036bd89")
+	)
+	(wire
+		(pts
+			(xy 55.88 148.59) (xy 50.8 148.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "26af81ef-6fea-4415-9882-ac6cdcc991e1")
 	)
 	(wire
 		(pts
@@ -1057,7 +1206,17 @@
 	)
 	(wire
 		(pts
-			(xy 264.16 121.92) (xy 264.16 129.54)
+			(xy 60.96 46.99) (xy 64.77 46.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "28a8456b-9e71-4005-8a3e-2e59c795eb94")
+	)
+	(wire
+		(pts
+			(xy 264.16 121.92) (xy 264.16 127)
 		)
 		(stroke
 			(width 0)
@@ -1527,6 +1686,16 @@
 	)
 	(wire
 		(pts
+			(xy 59.69 97.79) (xy 54.61 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a1d0f4a6-4594-46a5-817b-b32bd1258b1f")
+	)
+	(wire
+		(pts
 			(xy 247.65 135.89) (xy 250.19 135.89)
 		)
 		(stroke
@@ -1557,7 +1726,7 @@
 	)
 	(wire
 		(pts
-			(xy 58.42 148.59) (xy 50.8 148.59)
+			(xy 58.42 148.59) (xy 55.88 148.59)
 		)
 		(stroke
 			(width 0)
@@ -1574,6 +1743,16 @@
 			(type default)
 		)
 		(uuid "adac051c-f159-45a6-ae93-9b046a69778c")
+	)
+	(wire
+		(pts
+			(xy 264.16 127) (xy 264.16 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "adee09ab-a5bd-41fd-8610-0a98c6f792a8")
 	)
 	(wire
 		(pts
@@ -1797,6 +1976,16 @@
 	)
 	(wire
 		(pts
+			(xy 57.15 46.99) (xy 60.96 46.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e6949c10-8018-4f17-8f92-e7126fd127c9")
+	)
+	(wire
+		(pts
 			(xy 199.39 59.69) (xy 199.39 54.61)
 		)
 		(stroke
@@ -1837,6 +2026,16 @@
 	)
 	(wire
 		(pts
+			(xy 207.01 124.46) (xy 207.01 128.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ee8b9c4b-fd95-47be-a79f-d79439cbb82d")
+	)
+	(wire
+		(pts
 			(xy 48.26 81.28) (xy 48.26 83.82)
 		)
 		(stroke
@@ -1857,7 +2056,7 @@
 	)
 	(wire
 		(pts
-			(xy 62.23 97.79) (xy 54.61 97.79)
+			(xy 62.23 97.79) (xy 59.69 97.79)
 		)
 		(stroke
 			(width 0)
@@ -8227,6 +8426,138 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:Conn_01x01_Pin")
+		(at 212.09 124.46 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5a4c6ce0-67c1-4a1f-9241-e8896bb2682c")
+		(property "Reference" "J17"
+			(at 211.455 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "OCPC_EN"
+			(at 211.455 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 212.09 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 212.09 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated"
+			(at 212.09 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "911854df-1288-4fd3-8963-121f7abe6738")
+		)
+		(instances
+			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
+				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/a1a4f25c-902d-4f3e-84ba-70b8fbb0ef9f"
+					(reference "J17")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Conn_01x01_Pin")
+		(at 59.69 102.87 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5c3c36da-c312-4361-ab53-5689e410bedf")
+		(property "Reference" "J14"
+			(at 60.96 100.9649 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "OCPC_EN"
+			(at 60.96 103.5049 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 59.69 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 59.69 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated"
+			(at 59.69 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "0b7a0dfd-de21-4187-8278-76e81e188546")
+		)
+		(instances
+			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
+				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/a1a4f25c-902d-4f3e-84ba-70b8fbb0ef9f"
+					(reference "J14")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "TPS2557:TPS2557DRBR")
 		(at 62.23 90.17 0)
 		(unit 1)
@@ -9199,6 +9530,73 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:Conn_01x01_Pin")
+		(at 55.88 153.67 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "896a7715-8cc2-4073-958a-b5cca8e124ac")
+		(property "Reference" "J15"
+			(at 57.15 151.7649 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "OCPC_EN"
+			(at 57.15 154.3049 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 55.88 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 55.88 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated"
+			(at 55.88 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e05677e6-07af-49f9-826b-4109346ed294")
+		)
+		(instances
+			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
+				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/a1a4f25c-902d-4f3e-84ba-70b8fbb0ef9f"
+					(reference "J15")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 50.8 30.48 180)
 		(unit 1)
@@ -9482,6 +9880,73 @@
 			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
 				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/a1a4f25c-902d-4f3e-84ba-70b8fbb0ef9f"
 					(reference "U18")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Conn_01x01_Pin")
+		(at 60.96 52.07 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "9f8d6c3d-2445-4507-bc69-8dc844f838ab")
+		(property "Reference" "J13"
+			(at 62.23 50.1649 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "OCPC_EN"
+			(at 62.23 52.7049 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 60.96 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 60.96 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated"
+			(at 60.96 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "ed4bd54a-efd0-4ad1-81ab-b07cf6786887")
+		)
+		(instances
+			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
+				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/a1a4f25c-902d-4f3e-84ba-70b8fbb0ef9f"
+					(reference "J13")
 					(unit 1)
 				)
 			)
@@ -9816,6 +10281,71 @@
 			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
 				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/a1a4f25c-902d-4f3e-84ba-70b8fbb0ef9f"
 					(reference "C_IN9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Conn_01x01_Pin")
+		(at 269.24 127 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b011523f-fbf4-4498-bf3e-5374e62e807f")
+		(property "Reference" "J16"
+			(at 268.605 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "OCPC_EN"
+			(at 268.605 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 269.24 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 269.24 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated"
+			(at 269.24 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "65cf4df0-aa3b-4a7b-b7cc-ff3bab46467e")
+		)
+		(instances
+			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
+				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/a1a4f25c-902d-4f3e-84ba-70b8fbb0ef9f"
+					(reference "J16")
 					(unit 1)
 				)
 			)

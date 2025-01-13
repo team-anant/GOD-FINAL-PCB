@@ -87,6 +87,82 @@
 		)
 	)
 	(sheet
+		(at 163.83 111.76)
+		(size 26.035 18.415)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "2c32dd0a-554c-4562-8711-8e3aa5f4c186")
+		(property "Sheetname" "BEACON"
+			(at 163.83 111.0484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "BEACON.kicad_sch"
+			(at 163.83 130.7596 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
+				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd"
+					(page "15")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 152.4 156.21)
+		(size 12.7 3.81)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "4b1d658a-de84-4665-b039-53bb967d1e4a")
+		(property "Sheetname" "LEVEL_SHIFTER"
+			(at 152.4 155.4984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "LEVEL_SHIFTER.kicad_sch"
+			(at 152.4 160.6046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
+				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd"
+					(page "17")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 62.23 64.77)
 		(size 12.7 3.81)
 		(fields_autoplaced yes)
@@ -196,6 +272,83 @@
 			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
 				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd"
 					(page "11")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 231.14 54.61)
+		(size 29.21 13.97)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "8cd5401d-8e6e-4c5c-abb2-269e996089da")
+		(property "Sheetname" "WATCHDOG"
+			(at 231.14 53.8984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "WATCHDOG.kicad_sch"
+			(at 231.14 69.1646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
+				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd"
+					(page "19")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 162.56 54.61)
+		(size 14.605 9.525)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "8d16167c-3e0d-4735-b524-3c01c883074e")
+		(property "Sheetname" "MSP430"
+			(at 162.56 53.8984 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "MSP430.kicad_sch"
+			(at 162.56 64.7196 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
+				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd"
+					(page "18")
 				)
 			)
 		)
@@ -396,6 +549,53 @@
 			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
 				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd"
 					(page "14")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 232.41 111.76)
+		(size 31.115 11.43)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "e36dc968-8324-4e3c-8819-26ad0f62bbf1")
+		(property "Sheetname" "BUS_AND_PROTEC"
+			(at 232.41 111.0484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "DATA_BUS.kicad_sch"
+			(at 232.41 123.7746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Field2" ""
+			(at 232.41 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
+				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd"
+					(page "16")
 				)
 			)
 		)

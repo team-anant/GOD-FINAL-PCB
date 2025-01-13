@@ -10674,6 +10674,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part#" "ESQ-126-24-G-D"
+			(at 205.105 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "92"
 			(uuid "10eced9f-f491-4c86-86d4-b2dc532c6fb7")
 		)

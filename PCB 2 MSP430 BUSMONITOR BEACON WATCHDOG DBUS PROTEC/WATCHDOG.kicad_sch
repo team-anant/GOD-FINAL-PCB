@@ -3268,6 +3268,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part#" ""
+			(at 116.205 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "856afead-a566-4568-b427-69891c918512")
 		)
@@ -4110,6 +4119,15 @@
 			)
 		)
 		(property "Proto" "MAX706RESA"
+			(at 226.695 56.515 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" ""
 			(at 226.695 56.515 0)
 			(effects
 				(font
