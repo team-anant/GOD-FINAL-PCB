@@ -534,6 +534,207 @@
 				)
 			)
 		)
+		(symbol "2025-01-24_10-07-25:SMM4F5.0A-TR"
+			(pin_names
+				(offset 0.254)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "CR"
+				(at 5.08 4.445 0)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+				)
+			)
+			(property "Value" "SMM4F5.0A-TR"
+				(at 5.08 -3.81 0)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+				)
+			)
+			(property "Footprint" "CR_F5.0A-TR_STM"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(italic yes)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "SMM4F5.0A-TR"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(italic yes)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_locked" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "SMM4F5.0A-TR"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "CR_F5.0A-TR_STM"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "SMM4F5.0A-TR_0_1"
+				(polyline
+					(pts
+						(xy 2.54 0) (xy 3.4798 0)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 3.175 0) (xy 3.81 0)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 3.81 -1.905) (xy 6.35 0)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 3.81 1.905) (xy 3.81 -1.905)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 6.35 -1.905) (xy 6.35 1.905)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 6.35 0) (xy 3.81 1.905)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 6.35 0) (xy 7.62 0)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin unspecified line
+					(at 10.16 0 180)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 0 0 0)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
 		(symbol "Connector:Screw_Terminal_01x02"
 			(pin_names
 				(offset 1.016) hide)
@@ -964,151 +1165,6 @@
 				)
 			)
 			(symbol "D_Schottky_1_1"
-				(pin passive line
-					(at -3.81 0 0)
-					(length 2.54)
-					(name "K"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 3.81 0 180)
-					(length 2.54)
-					(name "A"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-		)
-		(symbol "Device:D_Zener"
-			(pin_numbers hide)
-			(pin_names
-				(offset 1.016) hide)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "D"
-				(at 0 2.54 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "D_Zener"
-				(at 0 -2.54 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "~"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Zener diode"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "diode"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "TO-???* *_Diode_* *SingleDiode* D_*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "D_Zener_0_1"
-				(polyline
-					(pts
-						(xy 1.27 0) (xy -1.27 0)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.27 -1.27) (xy -1.27 1.27) (xy -0.762 1.27)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.27 -1.27) (xy 1.27 1.27) (xy -1.27 0) (xy 1.27 -1.27)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "D_Zener_1_1"
 				(pin passive line
 					(at -3.81 0 0)
 					(length 2.54)
@@ -1652,16 +1708,6 @@
 	)
 	(wire
 		(pts
-			(xy 99.06 104.14) (xy 101.6 104.14)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5c126933-fbf3-4f78-a79d-64f60f458d89")
-	)
-	(wire
-		(pts
 			(xy 119.38 57.15) (xy 119.38 60.96)
 		)
 		(stroke
@@ -1839,6 +1885,16 @@
 			(type default)
 		)
 		(uuid "bb00b2ae-ce41-4564-ab47-397c91c335ff")
+	)
+	(wire
+		(pts
+			(xy 101.6 104.14) (xy 102.87 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c7065fa9-ade9-411d-a764-57e343afd892")
 	)
 	(wire
 		(pts
@@ -2217,7 +2273,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 101.6 104.14 90)
+		(at 102.87 104.14 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2226,7 +2282,7 @@
 		(fields_autoplaced yes)
 		(uuid "01e34113-b988-4599-85fe-2d31070940c3")
 		(property "Reference" "#PWR058"
-			(at 107.95 104.14 0)
+			(at 109.22 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2235,7 +2291,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 105.41 104.1399 90)
+			(at 106.68 104.1399 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2244,7 +2300,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 101.6 104.14 0)
+			(at 102.87 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2253,7 +2309,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 101.6 104.14 0)
+			(at 102.87 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2262,7 +2318,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 101.6 104.14 0)
+			(at 102.87 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2277,6 +2333,12 @@
 			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
 				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/8c378675-f65a-4b67-963a-3f9cd3fefa7d"
 					(reference "#PWR058")
+					(unit 1)
+				)
+			)
+			(project "SPV1040_5"
+				(path "/e98ca604-2429-4c57-b4a1-3d03a5ec156e"
+					(reference "#PWR0111")
 					(unit 1)
 				)
 			)
@@ -2347,6 +2409,12 @@
 					(unit 1)
 				)
 			)
+			(project "SPV1040_5"
+				(path "/e98ca604-2429-4c57-b4a1-3d03a5ec156e"
+					(reference "#PWR0102")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -2413,6 +2481,12 @@
 					(unit 1)
 				)
 			)
+			(project "SPV1040_5"
+				(path "/e98ca604-2429-4c57-b4a1-3d03a5ec156e"
+					(reference "#PWR0110")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -2470,6 +2544,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLC Part " "C76614"
+			(at 167.64 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "aa3b5b2f-2563-4fde-8965-bda7eb7b3381")
 		)
@@ -2480,6 +2563,12 @@
 			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
 				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/8c378675-f65a-4b67-963a-3f9cd3fefa7d"
 					(reference "C_out10")
+					(unit 1)
+				)
+			)
+			(project "SPV1040_5"
+				(path "/e98ca604-2429-4c57-b4a1-3d03a5ec156e"
+					(reference "C_out?")
 					(unit 1)
 				)
 			)
@@ -2540,6 +2629,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLC Part " "C69335"
+			(at 82.55 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "5484f51b-183c-49dc-8185-c4d738716cad")
 		)
@@ -2550,6 +2648,12 @@
 			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
 				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/8c378675-f65a-4b67-963a-3f9cd3fefa7d"
 					(reference "C_out9")
+					(unit 1)
+				)
+			)
+			(project "SPV1040_5"
+				(path "/e98ca604-2429-4c57-b4a1-3d03a5ec156e"
+					(reference "C_out?")
 					(unit 1)
 				)
 			)
@@ -2610,6 +2714,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLC Part " ""
+			(at 173.99 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "c84f907f-a393-471c-ad33-e04db035a824")
 		)
@@ -2620,6 +2733,12 @@
 			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
 				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/8c378675-f65a-4b67-963a-3f9cd3fefa7d"
 					(reference "J6")
+					(unit 1)
+				)
+			)
+			(project "SPV1040_5"
+				(path "/e98ca604-2429-4c57-b4a1-3d03a5ec156e"
+					(reference "J?")
 					(unit 1)
 				)
 			)
@@ -2677,6 +2796,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLC Part " "C3949569"
+			(at 158.75 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "0d110331-5574-424d-8117-8d5723afcc91")
 		)
@@ -2687,6 +2815,12 @@
 			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
 				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/8c378675-f65a-4b67-963a-3f9cd3fefa7d"
 					(reference "R20")
+					(unit 1)
+				)
+			)
+			(project "SPV1040_5"
+				(path "/e98ca604-2429-4c57-b4a1-3d03a5ec156e"
+					(reference "R?")
 					(unit 1)
 				)
 			)
@@ -2757,6 +2891,12 @@
 					(unit 1)
 				)
 			)
+			(project "SPV1040_5"
+				(path "/e98ca604-2429-4c57-b4a1-3d03a5ec156e"
+					(reference "#PWR0112")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -2824,6 +2964,12 @@
 					(unit 1)
 				)
 			)
+			(project "SPV1040_5"
+				(path "/e98ca604-2429-4c57-b4a1-3d03a5ec156e"
+					(reference "#PWR0108")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -2880,6 +3026,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLC Part " ""
+			(at 88.9 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "7aa6fcde-2da8-4262-9820-655485167a4d")
 		)
@@ -2890,6 +3045,12 @@
 			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
 				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/8c378675-f65a-4b67-963a-3f9cd3fefa7d"
 					(reference "D10")
+					(unit 1)
+				)
+			)
+			(project "SPV1040_5"
+				(path "/e98ca604-2429-4c57-b4a1-3d03a5ec156e"
+					(reference "D?")
 					(unit 1)
 				)
 			)
@@ -2950,6 +3111,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLC Part " "C221500"
+			(at 58.42 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "6"
 			(uuid "75497094-b515-4b4c-8232-acd2be22484e")
 		)
@@ -2978,6 +3148,12 @@
 			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
 				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/8c378675-f65a-4b67-963a-3f9cd3fefa7d"
 					(reference "U6")
+					(unit 1)
+				)
+			)
+			(project "SPV1040_5"
+				(path "/e98ca604-2429-4c57-b4a1-3d03a5ec156e"
+					(reference "U?")
 					(unit 1)
 				)
 			)
@@ -3045,6 +3221,12 @@
 			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
 				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/8c378675-f65a-4b67-963a-3f9cd3fefa7d"
 					(reference "#PWR066")
+					(unit 1)
+				)
+			)
+			(project "SPV1040_5"
+				(path "/e98ca604-2429-4c57-b4a1-3d03a5ec156e"
+					(reference "#PWR0103")
 					(unit 1)
 				)
 			)
@@ -3116,6 +3298,12 @@
 					(unit 1)
 				)
 			)
+			(project "SPV1040_5"
+				(path "/e98ca604-2429-4c57-b4a1-3d03a5ec156e"
+					(reference "#PWR0101")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -3170,6 +3358,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLC Part " "C76614"
+			(at 130.81 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "7d8e667b-1471-4db7-80f8-50af85f5fb9b")
 		)
@@ -3180,6 +3377,12 @@
 			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
 				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/8c378675-f65a-4b67-963a-3f9cd3fefa7d"
 					(reference "C_IN5")
+					(unit 1)
+				)
+			)
+			(project "SPV1040_5"
+				(path "/e98ca604-2429-4c57-b4a1-3d03a5ec156e"
+					(reference "C_IN?")
 					(unit 1)
 				)
 			)
@@ -3240,6 +3443,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLC Part " "C1525"
+			(at 58.42 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "cf9b3299-1383-42ac-9a04-48c759219a2e")
 		)
@@ -3250,6 +3462,12 @@
 			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
 				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/8c378675-f65a-4b67-963a-3f9cd3fefa7d"
 					(reference "C16")
+					(unit 1)
+				)
+			)
+			(project "SPV1040_5"
+				(path "/e98ca604-2429-4c57-b4a1-3d03a5ec156e"
+					(reference "C?")
 					(unit 1)
 				)
 			)
@@ -3321,6 +3539,12 @@
 					(unit 1)
 				)
 			)
+			(project "SPV1040_5"
+				(path "/e98ca604-2429-4c57-b4a1-3d03a5ec156e"
+					(reference "#PWR0107")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -3388,6 +3612,12 @@
 					(unit 1)
 				)
 			)
+			(project "SPV1040_5"
+				(path "/e98ca604-2429-4c57-b4a1-3d03a5ec156e"
+					(reference "#PWR0104")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -3446,6 +3676,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLC Part " "C9900154460"
+			(at 238.76 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "d2512783-62cd-44d7-ba1e-64c0738e9ca7")
 		)
@@ -3456,6 +3695,12 @@
 			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
 				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/8c378675-f65a-4b67-963a-3f9cd3fefa7d"
 					(reference "SUPER_CAP5")
+					(unit 1)
+				)
+			)
+			(project "SPV1040_5"
+				(path "/e98ca604-2429-4c57-b4a1-3d03a5ec156e"
+					(reference "SUPER_CAP?")
 					(unit 1)
 				)
 			)
@@ -3513,6 +3758,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLC Part " "C2930044"
+			(at 158.75 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "0fdb398a-3cd3-48b7-8865-50b8dc10bb9c")
 		)
@@ -3523,6 +3777,12 @@
 			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
 				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/8c378675-f65a-4b67-963a-3f9cd3fefa7d"
 					(reference "R19")
+					(unit 1)
+				)
+			)
+			(project "SPV1040_5"
+				(path "/e98ca604-2429-4c57-b4a1-3d03a5ec156e"
+					(reference "R?")
 					(unit 1)
 				)
 			)
@@ -3583,6 +3843,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLC Part " "C1588"
+			(at 119.38 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "a94b7f5d-33c0-42c8-a0de-81ff95ccb0a1")
 		)
@@ -3593,6 +3862,12 @@
 			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
 				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/8c378675-f65a-4b67-963a-3f9cd3fefa7d"
 					(reference "C17")
+					(unit 1)
+				)
+			)
+			(project "SPV1040_5"
+				(path "/e98ca604-2429-4c57-b4a1-3d03a5ec156e"
+					(reference "C?")
 					(unit 1)
 				)
 			)
@@ -3653,6 +3928,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLC Part " "C21190"
+			(at 119.38 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "2e04abbc-8d26-4acd-b7b7-aacd1f56eb7c")
 		)
@@ -3663,6 +3947,12 @@
 			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
 				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/8c378675-f65a-4b67-963a-3f9cd3fefa7d"
 					(reference "R18")
+					(unit 1)
+				)
+			)
+			(project "SPV1040_5"
+				(path "/e98ca604-2429-4c57-b4a1-3d03a5ec156e"
+					(reference "R?")
 					(unit 1)
 				)
 			)
@@ -3732,6 +4022,12 @@
 					(unit 1)
 				)
 			)
+			(project "SPV1040_5"
+				(path "/e98ca604-2429-4c57-b4a1-3d03a5ec156e"
+					(reference "#PWR0106")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -3787,6 +4083,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLC Part " "C2911576"
+			(at 115.57 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "e4b8733f-87dd-4b2f-bd4d-637f9e0cca58")
 		)
@@ -3797,6 +4102,12 @@
 			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
 				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/8c378675-f65a-4b67-963a-3f9cd3fefa7d"
 					(reference "L6")
+					(unit 1)
+				)
+			)
+			(project "SPV1040_5"
+				(path "/e98ca604-2429-4c57-b4a1-3d03a5ec156e"
+					(reference "L?")
 					(unit 1)
 				)
 			)
@@ -3866,6 +4177,91 @@
 					(unit 1)
 				)
 			)
+			(project "SPV1040_5"
+				(path "/e98ca604-2429-4c57-b4a1-3d03a5ec156e"
+					(reference "#PWR0109")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "2025-01-24_10-07-25:SMM4F5.0A-TR")
+		(at 91.44 104.14 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ed8b7eef-9d11-430d-aaa9-2337418b2390")
+		(property "Reference" "D"
+			(at 96.52 97.79 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Value" "SMM4F5.0A-TR"
+			(at 96.52 100.33 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Footprint" "CR_F5.0A-TR_STM"
+			(at 91.44 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "SMM4F5.0A-TR"
+			(at 91.44 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 91.44 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLC Part " "C1976670"
+			(at 91.44 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "277e8d9e-e3e3-4737-9476-41bab2b16cd0")
+		)
+		(pin "1"
+			(uuid "9905f001-6386-491a-952a-ae2e6aff4e34")
+		)
+		(instances
+			(project ""
+				(path "/e98ca604-2429-4c57-b4a1-3d03a5ec156e"
+					(reference "D")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -3932,74 +4328,17 @@
 					(unit 1)
 				)
 			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D_Zener")
-		(at 95.25 104.14 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "fcff86ff-a2a5-40ac-9e3b-bdc9834b8d2f")
-		(property "Reference" "D11"
-			(at 95.25 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "D_Zener"
-			(at 95.25 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Diode_SMD:D_1210_3225Metric"
-			(at 95.25 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 95.25 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Zener diode"
-			(at 95.25 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "05d7d67a-ffee-4579-9e2f-a56f9bf45037")
-		)
-		(pin "1"
-			(uuid "f690c361-0fda-47e1-b7be-859c695aea65")
-		)
-		(instances
-			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
-				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/8c378675-f65a-4b67-963a-3f9cd3fefa7d"
-					(reference "D11")
+			(project "SPV1040_5"
+				(path "/e98ca604-2429-4c57-b4a1-3d03a5ec156e"
+					(reference "#PWR0105")
 					(unit 1)
 				)
 			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
 		)
 	)
 )

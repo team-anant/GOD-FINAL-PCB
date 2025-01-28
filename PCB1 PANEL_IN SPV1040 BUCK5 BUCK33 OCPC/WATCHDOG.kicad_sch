@@ -1732,7 +1732,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "0ded218b-afb9-454b-88e0-871575facf30")
-		(property "Reference" "R60"
+		(property "Reference" "R?"
 			(at 212.09 120.015 0)
 			(effects
 				(font
@@ -1775,6 +1775,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part#" "C115324"
+			(at 209.55 121.285 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c022a4f8-95bd-4d39-8abd-583859fc7f61")
 		)
@@ -1782,6 +1791,12 @@
 			(uuid "c38c811e-c452-49fc-a6c4-e504ea74c809")
 		)
 		(instances
+			(project "WATCHDOG"
+				(path "/2de3fe5d-6388-4a09-bd44-13c721b25522"
+					(reference "R?")
+					(unit 1)
+				)
+			)
 			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
 				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/8cd5401d-8e6e-4c5c-abb2-269e996089da"
 					(reference "R60")
@@ -1800,7 +1815,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "19b1fb7a-e021-4619-8d3d-8f889c8d0e3a")
-		(property "Reference" "R58"
+		(property "Reference" "R?"
 			(at 176.53 93.345 0)
 			(effects
 				(font
@@ -1852,6 +1867,15 @@
 				)
 			)
 		)
+		(property "JLCPCB Part#" "C115324"
+			(at 180.34 94.615 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "372e3821-e896-4a6c-838e-199e255128d1")
 		)
@@ -1859,6 +1883,12 @@
 			(uuid "24ac804e-4383-49e1-8f58-c387c20c1fa8")
 		)
 		(instances
+			(project "WATCHDOG"
+				(path "/2de3fe5d-6388-4a09-bd44-13c721b25522"
+					(reference "R?")
+					(unit 1)
+				)
+			)
 			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
 				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/8cd5401d-8e6e-4c5c-abb2-269e996089da"
 					(reference "R58")
@@ -1876,7 +1906,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "2a27be64-e28d-41e9-a259-6826c94601cd")
-		(property "Reference" "#GND07"
+		(property "Reference" "#GND?"
 			(at 167.64 135.255 0)
 			(effects
 				(font
@@ -1925,6 +1955,12 @@
 			(uuid "e357529f-1d2e-4e11-afd6-508e5ced9b9a")
 		)
 		(instances
+			(project "WATCHDOG"
+				(path "/2de3fe5d-6388-4a09-bd44-13c721b25522"
+					(reference "#GND?")
+					(unit 1)
+				)
+			)
 			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
 				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/8cd5401d-8e6e-4c5c-abb2-269e996089da"
 					(reference "#GND07")
@@ -1943,7 +1979,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "2bbf58ba-0c20-4dae-92cd-843fa66464c5")
-		(property "Reference" "#SUPPLY04"
+		(property "Reference" "#SUPPLY?"
 			(at 243.84 70.485 0)
 			(effects
 				(font
@@ -1992,6 +2028,12 @@
 			(uuid "8b8cd821-be83-4672-ac44-754fad14b29e")
 		)
 		(instances
+			(project "WATCHDOG"
+				(path "/2de3fe5d-6388-4a09-bd44-13c721b25522"
+					(reference "#SUPPLY?")
+					(unit 1)
+				)
+			)
 			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
 				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/8cd5401d-8e6e-4c5c-abb2-269e996089da"
 					(reference "#SUPPLY04")
@@ -2009,7 +2051,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "32b2fc3d-1b54-4cc4-8032-5e28c8b67948")
-		(property "Reference" "#GND09"
+		(property "Reference" "#GND?"
 			(at 194.31 132.715 0)
 			(effects
 				(font
@@ -2058,6 +2100,12 @@
 			(uuid "c880b296-5c7c-4955-a070-14e22dfc7c18")
 		)
 		(instances
+			(project "WATCHDOG"
+				(path "/2de3fe5d-6388-4a09-bd44-13c721b25522"
+					(reference "#GND?")
+					(unit 1)
+				)
+			)
 			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
 				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/8cd5401d-8e6e-4c5c-abb2-269e996089da"
 					(reference "#GND09")
@@ -2076,7 +2124,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "38ca1a32-5961-4e95-ae7d-88415f66bbb9")
-		(property "Reference" "U22"
+		(property "Reference" "U?"
 			(at 210.82 70.2818 0)
 			(effects
 				(font
@@ -2155,7 +2203,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part#" ""
+		(property "JLCPCB Part#" "C3687309"
 			(at 231.14 80.645 0)
 			(effects
 				(font
@@ -2189,6 +2237,12 @@
 			(uuid "660b2349-865d-420c-bd60-68d5742f0b8e")
 		)
 		(instances
+			(project "WATCHDOG"
+				(path "/2de3fe5d-6388-4a09-bd44-13c721b25522"
+					(reference "U?")
+					(unit 1)
+				)
+			)
 			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
 				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/8cd5401d-8e6e-4c5c-abb2-269e996089da"
 					(reference "U22")
@@ -2206,7 +2260,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "456e08cc-3dc2-438c-a97b-5f2413fcce33")
-		(property "Reference" "R59"
+		(property "Reference" "R?"
 			(at 200.66 120.015 0)
 			(effects
 				(font
@@ -2249,6 +2303,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part#" "C115324"
+			(at 204.47 121.285 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "749a0cfa-5ed0-460b-9d5d-c6ae4677860a")
 		)
@@ -2256,6 +2319,12 @@
 			(uuid "b03e955c-e469-4b1d-a86d-efbe64f34d0f")
 		)
 		(instances
+			(project "WATCHDOG"
+				(path "/2de3fe5d-6388-4a09-bd44-13c721b25522"
+					(reference "R?")
+					(unit 1)
+				)
+			)
 			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
 				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/8cd5401d-8e6e-4c5c-abb2-269e996089da"
 					(reference "R59")
@@ -2274,7 +2343,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "7ed60d63-345d-4a9d-a643-c85fe46a0599")
-		(property "Reference" "#GND08"
+		(property "Reference" "#GND?"
 			(at 193.04 100.965 0)
 			(effects
 				(font
@@ -2323,6 +2392,12 @@
 			(uuid "6921258c-5b4f-4d05-b500-752f6f6b96c3")
 		)
 		(instances
+			(project "WATCHDOG"
+				(path "/2de3fe5d-6388-4a09-bd44-13c721b25522"
+					(reference "#GND?")
+					(unit 1)
+				)
+			)
 			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
 				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/8cd5401d-8e6e-4c5c-abb2-269e996089da"
 					(reference "#GND08")
@@ -2341,7 +2416,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "860e5399-4924-45a8-bdff-6d3e5509a85a")
-		(property "Reference" "C52"
+		(property "Reference" "C?"
 			(at 191.9732 126.4666 0)
 			(effects
 				(font
@@ -2386,6 +2461,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part#" "C1592"
+			(at 194.31 127.635 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8172726b-8999-4289-875d-8213a10d0d0e")
 		)
@@ -2393,6 +2477,12 @@
 			(uuid "f5daef8a-7630-47b3-aa0b-fab7a061e57a")
 		)
 		(instances
+			(project "WATCHDOG"
+				(path "/2de3fe5d-6388-4a09-bd44-13c721b25522"
+					(reference "C?")
+					(unit 1)
+				)
+			)
 			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
 				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/8cd5401d-8e6e-4c5c-abb2-269e996089da"
 					(reference "C52")
@@ -2411,7 +2501,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "8ba144d0-5bb5-4620-ad7e-b62f584449be")
-		(property "Reference" "#GND010"
+		(property "Reference" "#GND?"
 			(at 243.84 100.965 0)
 			(effects
 				(font
@@ -2460,6 +2550,12 @@
 			(uuid "a2ca6fa8-97d7-43a3-9ac4-2c81ce32ccf6")
 		)
 		(instances
+			(project "WATCHDOG"
+				(path "/2de3fe5d-6388-4a09-bd44-13c721b25522"
+					(reference "#GND?")
+					(unit 1)
+				)
+			)
 			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
 				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/8cd5401d-8e6e-4c5c-abb2-269e996089da"
 					(reference "#GND010")
@@ -2477,7 +2573,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "94644261-e223-4048-9697-0b4f9c2e1d29")
-		(property "Reference" "#SUPPLY03"
+		(property "Reference" "#SUPPLY?"
 			(at 207.01 113.665 0)
 			(effects
 				(font
@@ -2526,6 +2622,12 @@
 			(uuid "3abef369-b676-4ee9-b012-057398097189")
 		)
 		(instances
+			(project "WATCHDOG"
+				(path "/2de3fe5d-6388-4a09-bd44-13c721b25522"
+					(reference "#SUPPLY?")
+					(unit 1)
+				)
+			)
 			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
 				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/8cd5401d-8e6e-4c5c-abb2-269e996089da"
 					(reference "#SUPPLY03")
@@ -2544,7 +2646,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c144ae5a-ab92-4df3-9007-689d5c46e3fa")
-		(property "Reference" "SW2"
+		(property "Reference" "SW?"
 			(at 173.99 128.905 0)
 			(effects
 				(font
@@ -2625,6 +2727,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part#" "C221679"
+			(at 172.72 125.095 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "A"
 			(uuid "b057fb5e-239c-4cc3-9ae5-8f7e3a9e968b")
 		)
@@ -2638,12 +2749,23 @@
 			(uuid "ea29973d-a380-4060-b641-33572946c217")
 		)
 		(instances
+			(project "WATCHDOG"
+				(path "/2de3fe5d-6388-4a09-bd44-13c721b25522"
+					(reference "SW?")
+					(unit 1)
+				)
+			)
 			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
 				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/8cd5401d-8e6e-4c5c-abb2-269e996089da"
 					(reference "SW2")
 					(unit 1)
 				)
 			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
 		)
 	)
 )

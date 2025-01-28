@@ -7104,6 +7104,12 @@
 					(unit 1)
 				)
 			)
+			(project "OCPC"
+				(path "/617f8910-0dfd-4496-bedf-8e1a1aa5de60"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -7170,6 +7176,12 @@
 					(unit 1)
 				)
 			)
+			(project "OCPC"
+				(path "/617f8910-0dfd-4496-bedf-8e1a1aa5de60"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -7227,6 +7239,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLC Part Number" ""
+			(at 274.32 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "37e7b567-f381-4041-bc8c-edf8ba7aea59")
 		)
@@ -7237,6 +7258,12 @@
 			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
 				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/a1a4f25c-902d-4f3e-84ba-70b8fbb0ef9f"
 					(reference "R47")
+					(unit 1)
+				)
+			)
+			(project "OCPC"
+				(path "/617f8910-0dfd-4496-bedf-8e1a1aa5de60"
+					(reference "R?")
 					(unit 1)
 				)
 			)
@@ -7295,6 +7322,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLC Part Number" "C3930971"
+			(at 139.7 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5b22d992-27f9-4e43-a914-adb238e21211")
 		)
@@ -7305,6 +7341,12 @@
 			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
 				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/a1a4f25c-902d-4f3e-84ba-70b8fbb0ef9f"
 					(reference "R40")
+					(unit 1)
+				)
+			)
+			(project "OCPC"
+				(path "/617f8910-0dfd-4496-bedf-8e1a1aa5de60"
+					(reference "R?")
 					(unit 1)
 				)
 			)
@@ -7365,6 +7407,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLC Part Number" ""
+			(at 119.38 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6586fa75-0ab8-470e-87c9-bf2363d6d32c")
 		)
@@ -7375,6 +7426,12 @@
 			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
 				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/a1a4f25c-902d-4f3e-84ba-70b8fbb0ef9f"
 					(reference "R44")
+					(unit 1)
+				)
+			)
+			(project "OCPC"
+				(path "/617f8910-0dfd-4496-bedf-8e1a1aa5de60"
+					(reference "R?")
 					(unit 1)
 				)
 			)
@@ -7435,6 +7492,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLC Part Number" "C338036"
+			(at 48.26 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "837f0a1e-4f92-4be2-a5f0-e7756f41869a")
 		)
@@ -7445,6 +7511,12 @@
 			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
 				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/a1a4f25c-902d-4f3e-84ba-70b8fbb0ef9f"
 					(reference "C_IN7")
+					(unit 1)
+				)
+			)
+			(project "OCPC"
+				(path "/617f8910-0dfd-4496-bedf-8e1a1aa5de60"
+					(reference "C_IN?")
 					(unit 1)
 				)
 			)
@@ -7514,6 +7586,12 @@
 					(unit 1)
 				)
 			)
+			(project "OCPC"
+				(path "/617f8910-0dfd-4496-bedf-8e1a1aa5de60"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -7571,6 +7649,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLC Part Number" "C9900031531"
+			(at 147.32 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "2f9b5adb-18a2-45e6-926a-ecd0ccfb505f")
 		)
@@ -7581,6 +7668,12 @@
 			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
 				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/a1a4f25c-902d-4f3e-84ba-70b8fbb0ef9f"
 					(reference "J8")
+					(unit 1)
+				)
+			)
+			(project "OCPC"
+				(path "/617f8910-0dfd-4496-bedf-8e1a1aa5de60"
+					(reference "J?")
 					(unit 1)
 				)
 			)
@@ -7641,6 +7734,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLC Part Number" ""
+			(at 217.17 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a30ebb32-4d86-4795-8046-596a660cd650")
 		)
@@ -7651,6 +7753,12 @@
 			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
 				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/a1a4f25c-902d-4f3e-84ba-70b8fbb0ef9f"
 					(reference "R49")
+					(unit 1)
+				)
+			)
+			(project "OCPC"
+				(path "/617f8910-0dfd-4496-bedf-8e1a1aa5de60"
+					(reference "R?")
 					(unit 1)
 				)
 			)
@@ -7720,6 +7828,12 @@
 					(unit 1)
 				)
 			)
+			(project "OCPC"
+				(path "/617f8910-0dfd-4496-bedf-8e1a1aa5de60"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -7776,6 +7890,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLC Part Number" ""
+			(at 265.43 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "c9110a9c-2449-4480-b967-d14c6ce5bfb2")
 		)
@@ -7786,6 +7909,12 @@
 			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
 				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/a1a4f25c-902d-4f3e-84ba-70b8fbb0ef9f"
 					(reference "C_OUT14")
+					(unit 1)
+				)
+			)
+			(project "OCPC"
+				(path "/617f8910-0dfd-4496-bedf-8e1a1aa5de60"
+					(reference "C_OUT?")
 					(unit 1)
 				)
 			)
@@ -7855,6 +7984,12 @@
 					(unit 1)
 				)
 			)
+			(project "OCPC"
+				(path "/617f8910-0dfd-4496-bedf-8e1a1aa5de60"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -7912,6 +8047,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLC Part Number" "C130056"
+			(at 199.39 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "6"
 			(uuid "e08bcc1b-bd48-48ca-898d-f18f8f7bb3f5")
 		)
@@ -7943,6 +8087,12 @@
 			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
 				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/a1a4f25c-902d-4f3e-84ba-70b8fbb0ef9f"
 					(reference "U19")
+					(unit 1)
+				)
+			)
+			(project "OCPC"
+				(path "/617f8910-0dfd-4496-bedf-8e1a1aa5de60"
+					(reference "U?")
 					(unit 1)
 				)
 			)
@@ -8012,6 +8162,12 @@
 					(unit 1)
 				)
 			)
+			(project "OCPC"
+				(path "/617f8910-0dfd-4496-bedf-8e1a1aa5de60"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -8075,6 +8231,12 @@
 			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
 				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/a1a4f25c-902d-4f3e-84ba-70b8fbb0ef9f"
 					(reference "#PWR0146")
+					(unit 1)
+				)
+			)
+			(project "OCPC"
+				(path "/617f8910-0dfd-4496-bedf-8e1a1aa5de60"
+					(reference "#PWR?")
 					(unit 1)
 				)
 			)
@@ -8144,6 +8306,12 @@
 					(unit 1)
 				)
 			)
+			(project "OCPC"
+				(path "/617f8910-0dfd-4496-bedf-8e1a1aa5de60"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -8206,6 +8374,12 @@
 			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
 				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/a1a4f25c-902d-4f3e-84ba-70b8fbb0ef9f"
 					(reference "#PWR0147")
+					(unit 1)
+				)
+			)
+			(project "OCPC"
+				(path "/617f8910-0dfd-4496-bedf-8e1a1aa5de60"
+					(reference "#PWR?")
 					(unit 1)
 				)
 			)
@@ -8275,6 +8449,12 @@
 					(unit 1)
 				)
 			)
+			(project "OCPC"
+				(path "/617f8910-0dfd-4496-bedf-8e1a1aa5de60"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -8332,6 +8512,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLC Part Number" "C9900031531"
+			(at 153.67 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "fc493711-3635-4926-ae54-73e46ad83ef3")
 		)
@@ -8342,6 +8531,12 @@
 			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
 				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/a1a4f25c-902d-4f3e-84ba-70b8fbb0ef9f"
 					(reference "J9")
+					(unit 1)
+				)
+			)
+			(project "OCPC"
+				(path "/617f8910-0dfd-4496-bedf-8e1a1aa5de60"
+					(reference "J?")
 					(unit 1)
 				)
 			)
@@ -8411,6 +8606,12 @@
 					(unit 1)
 				)
 			)
+			(project "OCPC"
+				(path "/617f8910-0dfd-4496-bedf-8e1a1aa5de60"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -8466,6 +8667,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLC Part Number" ""
+			(at 212.09 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "911854df-1288-4fd3-8963-121f7abe6738")
 		)
@@ -8473,6 +8683,12 @@
 			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
 				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/a1a4f25c-902d-4f3e-84ba-70b8fbb0ef9f"
 					(reference "J17")
+					(unit 1)
+				)
+			)
+			(project "OCPC"
+				(path "/617f8910-0dfd-4496-bedf-8e1a1aa5de60"
+					(reference "J?")
 					(unit 1)
 				)
 			)
@@ -8533,6 +8749,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLC Part Number" ""
+			(at 59.69 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "0b7a0dfd-de21-4187-8278-76e81e188546")
 		)
@@ -8540,6 +8765,12 @@
 			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
 				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/a1a4f25c-902d-4f3e-84ba-70b8fbb0ef9f"
 					(reference "J14")
+					(unit 1)
+				)
+			)
+			(project "OCPC"
+				(path "/617f8910-0dfd-4496-bedf-8e1a1aa5de60"
+					(reference "J?")
 					(unit 1)
 				)
 			)
@@ -8600,6 +8831,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLC Part Number" "C130056"
+			(at 62.23 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "6"
 			(uuid "22a86de4-d55a-4a35-84a9-443afa1497a0")
 		)
@@ -8631,6 +8871,12 @@
 			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
 				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/a1a4f25c-902d-4f3e-84ba-70b8fbb0ef9f"
 					(reference "U16")
+					(unit 1)
+				)
+			)
+			(project "OCPC"
+				(path "/617f8910-0dfd-4496-bedf-8e1a1aa5de60"
+					(reference "U?")
 					(unit 1)
 				)
 			)
@@ -8689,6 +8935,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLC Part Number" "C3930971"
+			(at 133.35 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ef4b52f7-3e33-4836-a236-7083c04568e5")
 		)
@@ -8699,6 +8954,12 @@
 			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
 				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/a1a4f25c-902d-4f3e-84ba-70b8fbb0ef9f"
 					(reference "R45")
+					(unit 1)
+				)
+			)
+			(project "OCPC"
+				(path "/617f8910-0dfd-4496-bedf-8e1a1aa5de60"
+					(reference "R?")
 					(unit 1)
 				)
 			)
@@ -8759,6 +9020,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLC Part Number" "C9900031531"
+			(at 208.28 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "eab01450-0129-4a19-a356-18f4bc17d414")
 		)
@@ -8769,6 +9039,12 @@
 			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
 				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/a1a4f25c-902d-4f3e-84ba-70b8fbb0ef9f"
 					(reference "J12")
+					(unit 1)
+				)
+			)
+			(project "OCPC"
+				(path "/617f8910-0dfd-4496-bedf-8e1a1aa5de60"
+					(reference "J?")
 					(unit 1)
 				)
 			)
@@ -8834,6 +9110,12 @@
 			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
 				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/a1a4f25c-902d-4f3e-84ba-70b8fbb0ef9f"
 					(reference "#PWR0127")
+					(unit 1)
+				)
+			)
+			(project "OCPC"
+				(path "/617f8910-0dfd-4496-bedf-8e1a1aa5de60"
+					(reference "#PWR?")
 					(unit 1)
 				)
 			)
@@ -8903,6 +9185,12 @@
 					(unit 1)
 				)
 			)
+			(project "OCPC"
+				(path "/617f8910-0dfd-4496-bedf-8e1a1aa5de60"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -8960,6 +9248,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLC Part Number" "C338036"
+			(at 44.45 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "6e817f21-4229-486e-8367-4c72be396fdd")
 		)
@@ -8970,6 +9267,12 @@
 			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
 				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/a1a4f25c-902d-4f3e-84ba-70b8fbb0ef9f"
 					(reference "C_IN8")
+					(unit 1)
+				)
+			)
+			(project "OCPC"
+				(path "/617f8910-0dfd-4496-bedf-8e1a1aa5de60"
+					(reference "C_IN?")
 					(unit 1)
 				)
 			)
@@ -9030,6 +9333,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLC Part Number" "C9900031531"
+			(at 265.43 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "32fd4b48-26a5-46a6-b4aa-3fef760ac3d4")
 		)
@@ -9040,6 +9352,12 @@
 			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
 				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/a1a4f25c-902d-4f3e-84ba-70b8fbb0ef9f"
 					(reference "J11")
+					(unit 1)
+				)
+			)
+			(project "OCPC"
+				(path "/617f8910-0dfd-4496-bedf-8e1a1aa5de60"
+					(reference "J?")
 					(unit 1)
 				)
 			)
@@ -9099,6 +9417,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLC Part Number" ""
+			(at 208.28 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "feccde6c-5310-4c2d-88e6-90e2698d4af6")
 		)
@@ -9109,6 +9436,12 @@
 			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
 				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/a1a4f25c-902d-4f3e-84ba-70b8fbb0ef9f"
 					(reference "C_OUT15")
+					(unit 1)
+				)
+			)
+			(project "OCPC"
+				(path "/617f8910-0dfd-4496-bedf-8e1a1aa5de60"
+					(reference "C_OUT?")
 					(unit 1)
 				)
 			)
@@ -9178,6 +9511,12 @@
 					(unit 1)
 				)
 			)
+			(project "OCPC"
+				(path "/617f8910-0dfd-4496-bedf-8e1a1aa5de60"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -9235,6 +9574,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLC Part Number" ""
+			(at 125.73 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c94078df-8171-4966-acf2-6331e757da82")
 		)
@@ -9245,6 +9593,12 @@
 			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
 				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/a1a4f25c-902d-4f3e-84ba-70b8fbb0ef9f"
 					(reference "R39")
+					(unit 1)
+				)
+			)
+			(project "OCPC"
+				(path "/617f8910-0dfd-4496-bedf-8e1a1aa5de60"
+					(reference "R?")
 					(unit 1)
 				)
 			)
@@ -9305,6 +9659,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLC Part Number" "C9900031531"
+			(at 151.13 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "847cded3-5f28-4ff7-9994-89fce04c6c81")
 		)
@@ -9315,6 +9678,12 @@
 			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
 				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/a1a4f25c-902d-4f3e-84ba-70b8fbb0ef9f"
 					(reference "J7")
+					(unit 1)
+				)
+			)
+			(project "OCPC"
+				(path "/617f8910-0dfd-4496-bedf-8e1a1aa5de60"
+					(reference "J?")
 					(unit 1)
 				)
 			)
@@ -9380,6 +9749,12 @@
 			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
 				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/a1a4f25c-902d-4f3e-84ba-70b8fbb0ef9f"
 					(reference "#PWR0105")
+					(unit 1)
+				)
+			)
+			(project "OCPC"
+				(path "/617f8910-0dfd-4496-bedf-8e1a1aa5de60"
+					(reference "#PWR?")
 					(unit 1)
 				)
 			)
@@ -9449,6 +9824,12 @@
 					(unit 1)
 				)
 			)
+			(project "OCPC"
+				(path "/617f8910-0dfd-4496-bedf-8e1a1aa5de60"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -9515,6 +9896,12 @@
 					(unit 1)
 				)
 			)
+			(project "OCPC"
+				(path "/617f8910-0dfd-4496-bedf-8e1a1aa5de60"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -9572,6 +9959,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLC Part Number" ""
+			(at 55.88 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e05677e6-07af-49f9-826b-4109346ed294")
 		)
@@ -9579,6 +9975,12 @@
 			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
 				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/a1a4f25c-902d-4f3e-84ba-70b8fbb0ef9f"
 					(reference "J15")
+					(unit 1)
+				)
+			)
+			(project "OCPC"
+				(path "/617f8910-0dfd-4496-bedf-8e1a1aa5de60"
+					(reference "J?")
 					(unit 1)
 				)
 			)
@@ -9648,6 +10050,12 @@
 					(unit 1)
 				)
 			)
+			(project "OCPC"
+				(path "/617f8910-0dfd-4496-bedf-8e1a1aa5de60"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -9711,6 +10119,12 @@
 			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
 				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/a1a4f25c-902d-4f3e-84ba-70b8fbb0ef9f"
 					(reference "#PWR0110")
+					(unit 1)
+				)
+			)
+			(project "OCPC"
+				(path "/617f8910-0dfd-4496-bedf-8e1a1aa5de60"
+					(reference "#PWR?")
 					(unit 1)
 				)
 			)
@@ -9780,6 +10194,12 @@
 					(unit 1)
 				)
 			)
+			(project "OCPC"
+				(path "/617f8910-0dfd-4496-bedf-8e1a1aa5de60"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -9837,6 +10257,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLC Part Number" "C130056"
+			(at 256.54 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "6"
 			(uuid "67e04b71-6a93-45e8-a8c3-47bf5b6bad85")
 		)
@@ -9868,6 +10297,12 @@
 			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
 				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/a1a4f25c-902d-4f3e-84ba-70b8fbb0ef9f"
 					(reference "U18")
+					(unit 1)
+				)
+			)
+			(project "OCPC"
+				(path "/617f8910-0dfd-4496-bedf-8e1a1aa5de60"
+					(reference "U?")
 					(unit 1)
 				)
 			)
@@ -9928,6 +10363,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLC Part Number" ""
+			(at 60.96 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ed4bd54a-efd0-4ad1-81ab-b07cf6786887")
 		)
@@ -9935,6 +10379,12 @@
 			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
 				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/a1a4f25c-902d-4f3e-84ba-70b8fbb0ef9f"
 					(reference "J13")
+					(unit 1)
+				)
+			)
+			(project "OCPC"
+				(path "/617f8910-0dfd-4496-bedf-8e1a1aa5de60"
+					(reference "J?")
 					(unit 1)
 				)
 			)
@@ -10004,6 +10454,12 @@
 					(unit 1)
 				)
 			)
+			(project "OCPC"
+				(path "/617f8910-0dfd-4496-bedf-8e1a1aa5de60"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -10067,6 +10523,12 @@
 			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
 				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/a1a4f25c-902d-4f3e-84ba-70b8fbb0ef9f"
 					(reference "#PWR0104")
+					(unit 1)
+				)
+			)
+			(project "OCPC"
+				(path "/617f8910-0dfd-4496-bedf-8e1a1aa5de60"
+					(reference "#PWR?")
 					(unit 1)
 				)
 			)
@@ -10136,6 +10598,12 @@
 					(unit 1)
 				)
 			)
+			(project "OCPC"
+				(path "/617f8910-0dfd-4496-bedf-8e1a1aa5de60"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -10202,6 +10670,12 @@
 					(unit 1)
 				)
 			)
+			(project "OCPC"
+				(path "/617f8910-0dfd-4496-bedf-8e1a1aa5de60"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -10259,6 +10733,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLC Part Number" "C338036"
+			(at 254 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "55a2fd50-cbd9-4346-a041-7dc9c47c75ed")
 		)
@@ -10269,6 +10752,12 @@
 			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
 				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/a1a4f25c-902d-4f3e-84ba-70b8fbb0ef9f"
 					(reference "C_IN9")
+					(unit 1)
+				)
+			)
+			(project "OCPC"
+				(path "/617f8910-0dfd-4496-bedf-8e1a1aa5de60"
+					(reference "C_IN?")
 					(unit 1)
 				)
 			)
@@ -10327,6 +10816,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLC Part Number" ""
+			(at 269.24 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "65cf4df0-aa3b-4a7b-b7cc-ff3bab46467e")
 		)
@@ -10334,6 +10832,12 @@
 			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
 				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/a1a4f25c-902d-4f3e-84ba-70b8fbb0ef9f"
 					(reference "J16")
+					(unit 1)
+				)
+			)
+			(project "OCPC"
+				(path "/617f8910-0dfd-4496-bedf-8e1a1aa5de60"
+					(reference "J?")
 					(unit 1)
 				)
 			)
@@ -10403,6 +10907,12 @@
 					(unit 1)
 				)
 			)
+			(project "OCPC"
+				(path "/617f8910-0dfd-4496-bedf-8e1a1aa5de60"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -10469,6 +10979,12 @@
 					(unit 1)
 				)
 			)
+			(project "OCPC"
+				(path "/617f8910-0dfd-4496-bedf-8e1a1aa5de60"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -10525,6 +11041,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLC Part Number" ""
+			(at 137.16 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "c6c1eb71-b305-4c3b-8729-c45fc57b23d2")
 		)
@@ -10535,6 +11060,12 @@
 			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
 				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/a1a4f25c-902d-4f3e-84ba-70b8fbb0ef9f"
 					(reference "C_OUT12")
+					(unit 1)
+				)
+			)
+			(project "OCPC"
+				(path "/617f8910-0dfd-4496-bedf-8e1a1aa5de60"
+					(reference "C_OUT?")
 					(unit 1)
 				)
 			)
@@ -10594,6 +11125,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLC Part Number" ""
+			(at 133.35 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "fcd45e54-ffb4-4fe0-80e5-b60176e822b5")
 		)
@@ -10604,6 +11144,12 @@
 			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
 				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/a1a4f25c-902d-4f3e-84ba-70b8fbb0ef9f"
 					(reference "C_OUT13")
+					(unit 1)
+				)
+			)
+			(project "OCPC"
+				(path "/617f8910-0dfd-4496-bedf-8e1a1aa5de60"
+					(reference "C_OUT?")
 					(unit 1)
 				)
 			)
@@ -10664,6 +11210,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLC Part Number" "C338036"
+			(at 196.85 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "89edc34e-cb23-41df-85fc-dfac0a004777")
 		)
@@ -10674,6 +11229,12 @@
 			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
 				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/a1a4f25c-902d-4f3e-84ba-70b8fbb0ef9f"
 					(reference "C_IN10")
+					(unit 1)
+				)
+			)
+			(project "OCPC"
+				(path "/617f8910-0dfd-4496-bedf-8e1a1aa5de60"
+					(reference "C_IN?")
 					(unit 1)
 				)
 			)
@@ -10732,6 +11293,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLC Part Number" "C3930971"
+			(at 201.93 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e8cbf112-0339-464c-a2f1-17fc662641ff")
 		)
@@ -10742,6 +11312,12 @@
 			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
 				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/a1a4f25c-902d-4f3e-84ba-70b8fbb0ef9f"
 					(reference "R50")
+					(unit 1)
+				)
+			)
+			(project "OCPC"
+				(path "/617f8910-0dfd-4496-bedf-8e1a1aa5de60"
+					(reference "R?")
 					(unit 1)
 				)
 			)
@@ -10802,6 +11378,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLC Part Number" "C338036"
+			(at 50.8 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "1fb1aa73-c3f2-4335-b698-a8539bba5116")
 		)
@@ -10812,6 +11397,12 @@
 			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
 				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/a1a4f25c-902d-4f3e-84ba-70b8fbb0ef9f"
 					(reference "C_IN6")
+					(unit 1)
+				)
+			)
+			(project "OCPC"
+				(path "/617f8910-0dfd-4496-bedf-8e1a1aa5de60"
+					(reference "C_IN?")
 					(unit 1)
 				)
 			)
@@ -10880,6 +11471,12 @@
 					(unit 1)
 				)
 			)
+			(project "OCPC"
+				(path "/617f8910-0dfd-4496-bedf-8e1a1aa5de60"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -10945,6 +11542,12 @@
 					(unit 1)
 				)
 			)
+			(project "OCPC"
+				(path "/617f8910-0dfd-4496-bedf-8e1a1aa5de60"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -11002,6 +11605,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLC Part Number" "C130056"
+			(at 58.42 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "6"
 			(uuid "c01f5e27-1ae8-4b60-8a2a-455e3a8ce8f1")
 		)
@@ -11033,6 +11645,12 @@
 			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
 				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/a1a4f25c-902d-4f3e-84ba-70b8fbb0ef9f"
 					(reference "U17")
+					(unit 1)
+				)
+			)
+			(project "OCPC"
+				(path "/617f8910-0dfd-4496-bedf-8e1a1aa5de60"
+					(reference "U?")
 					(unit 1)
 				)
 			)
@@ -11093,6 +11711,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLC Part Number" ""
+			(at 123.19 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4c28b56a-83d5-44c3-b642-287e2a05b7e8")
 		)
@@ -11103,6 +11730,12 @@
 			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
 				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/a1a4f25c-902d-4f3e-84ba-70b8fbb0ef9f"
 					(reference "R42")
+					(unit 1)
+				)
+			)
+			(project "OCPC"
+				(path "/617f8910-0dfd-4496-bedf-8e1a1aa5de60"
+					(reference "R?")
 					(unit 1)
 				)
 			)
@@ -11162,6 +11795,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLC Part Number" ""
+			(at 139.7 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "e0ffa791-645f-4dd4-b2e2-5f8eca94e710")
 		)
@@ -11172,6 +11814,12 @@
 			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
 				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/a1a4f25c-902d-4f3e-84ba-70b8fbb0ef9f"
 					(reference "C_OUT11")
+					(unit 1)
+				)
+			)
+			(project "OCPC"
+				(path "/617f8910-0dfd-4496-bedf-8e1a1aa5de60"
+					(reference "C_OUT?")
 					(unit 1)
 				)
 			)
@@ -11241,6 +11889,12 @@
 					(unit 1)
 				)
 			)
+			(project "OCPC"
+				(path "/617f8910-0dfd-4496-bedf-8e1a1aa5de60"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -11296,6 +11950,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLC Part Number" "C3930971"
+			(at 137.16 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5110f03c-e8f3-4070-911d-8cebf389eaca")
 		)
@@ -11306,6 +11969,12 @@
 			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
 				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/a1a4f25c-902d-4f3e-84ba-70b8fbb0ef9f"
 					(reference "R43")
+					(unit 1)
+				)
+			)
+			(project "OCPC"
+				(path "/617f8910-0dfd-4496-bedf-8e1a1aa5de60"
+					(reference "R?")
 					(unit 1)
 				)
 			)
@@ -11364,6 +12033,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLC Part Number" "C3930971"
+			(at 259.08 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2664c225-7a12-4994-bdbe-624c3abe345d")
 		)
@@ -11374,6 +12052,12 @@
 			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
 				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/a1a4f25c-902d-4f3e-84ba-70b8fbb0ef9f"
 					(reference "R48")
+					(unit 1)
+				)
+			)
+			(project "OCPC"
+				(path "/617f8910-0dfd-4496-bedf-8e1a1aa5de60"
+					(reference "R?")
 					(unit 1)
 				)
 			)
@@ -11434,6 +12118,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLC Part Number" "C130056"
+			(at 64.77 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "6"
 			(uuid "f1112b9f-5da4-4448-8d66-83b368dd6172")
 		)
@@ -11465,6 +12158,12 @@
 			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
 				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/a1a4f25c-902d-4f3e-84ba-70b8fbb0ef9f"
 					(reference "U14")
+					(unit 1)
+				)
+			)
+			(project "OCPC"
+				(path "/617f8910-0dfd-4496-bedf-8e1a1aa5de60"
+					(reference "U?")
 					(unit 1)
 				)
 			)
@@ -11531,6 +12230,12 @@
 			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
 				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/a1a4f25c-902d-4f3e-84ba-70b8fbb0ef9f"
 					(reference "#PWR0100")
+					(unit 1)
+				)
+			)
+			(project "OCPC"
+				(path "/617f8910-0dfd-4496-bedf-8e1a1aa5de60"
+					(reference "#PWR?")
 					(unit 1)
 				)
 			)
