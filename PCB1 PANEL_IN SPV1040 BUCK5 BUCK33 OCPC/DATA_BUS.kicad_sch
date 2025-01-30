@@ -4908,6 +4908,16 @@
 		)
 		(uuid "8cd7f07a-7645-4af2-b86d-0250f271ced7")
 	)
+	(text "Limiting frequency? Will check - AGarg"
+		(exclude_from_sim no)
+		(at 56.642 18.034 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "af0aebd1-cc67-423f-96dc-d1d54331b034")
+	)
 	(text "I2C Bus Protection CHECK BEFORE IMPLEMENTATION"
 		(exclude_from_sim no)
 		(at 50.165 25.4 0)
@@ -6926,7 +6936,7 @@
 		(fields_autoplaced yes)
 		(uuid "33085ebe-a987-4776-9b50-0cac7ff27091")
 		(property "Reference" "U23"
-			(at 202.5094 24.765 0)
+			(at 202.5094 25.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6934,14 +6944,14 @@
 			)
 		)
 		(property "Value" "Payload"
-			(at 202.5094 27.305 0)
+			(at 202.5094 27.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x26_P2.54mm_Vertical"
 			(at 174.625 45.085 0)
 			(effects
 				(font

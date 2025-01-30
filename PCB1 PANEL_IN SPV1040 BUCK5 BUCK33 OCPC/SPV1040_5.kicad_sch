@@ -2042,7 +2042,6 @@
 	)
 	(label "BAT_MON+"
 		(at 228.6 77.47 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4195,7 +4194,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ed8b7eef-9d11-430d-aaa9-2337418b2390")
-		(property "Reference" "D"
+		(property "Reference" "D11"
 			(at 96.52 97.79 0)
 			(effects
 				(font
@@ -4256,6 +4255,12 @@
 			(uuid "9905f001-6386-491a-952a-ae2e6aff4e34")
 		)
 		(instances
+			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
+				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/8c378675-f65a-4b67-963a-3f9cd3fefa7d"
+					(reference "D11")
+					(unit 1)
+				)
+			)
 			(project ""
 				(path "/e98ca604-2429-4c57-b4a1-3d03a5ec156e"
 					(reference "D")

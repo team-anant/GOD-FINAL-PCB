@@ -1986,7 +1986,6 @@
 	)
 	(label "BAT_MON+"
 		(at 220.98 78.74 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)

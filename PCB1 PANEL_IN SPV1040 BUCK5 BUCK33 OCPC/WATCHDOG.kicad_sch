@@ -1550,7 +1550,6 @@
 	)
 	(label "SWDIO"
 		(at 213.995 126.365 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 0.9906 0.9906)
@@ -1561,7 +1560,6 @@
 	)
 	(label "SWCLK"
 		(at 215.9 125.095 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 0.9906 0.9906)
@@ -1572,7 +1570,6 @@
 	)
 	(label "~{RESET}"
 		(at 212.09 136.525 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.4986 1.4986)

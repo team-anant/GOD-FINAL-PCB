@@ -1627,7 +1627,6 @@
 	)
 	(label "3.3v_TTC"
 		(at 160.02 46.99 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1638,7 +1637,6 @@
 	)
 	(label "5V_ADCSC"
 		(at 71.12 113.03 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1649,7 +1647,6 @@
 	)
 	(label "5V_OBC"
 		(at 71.12 46.99 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1660,7 +1657,6 @@
 	)
 	(label "3.3V_ADCS"
 		(at 158.75 111.76 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1671,7 +1667,6 @@
 	)
 	(label "5V_PAYLOAD"
 		(at 243.84 48.26 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1682,7 +1677,6 @@
 	)
 	(label "I2C_5V_PROTEC_SDA"
 		(at 223.52 111.76 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1693,7 +1687,6 @@
 	)
 	(label "I2C_5V_PROTEC_SCL"
 		(at 241.3 113.03 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)

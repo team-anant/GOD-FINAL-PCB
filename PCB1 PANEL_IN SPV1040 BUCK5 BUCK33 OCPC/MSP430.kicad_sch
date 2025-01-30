@@ -3859,7 +3859,6 @@
 	)
 	(label "VUSB"
 		(at 236.347 82.042 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3870,7 +3869,6 @@
 	)
 	(label "XIN"
 		(at 76.327 74.422 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3881,7 +3879,6 @@
 	)
 	(label "XOUT"
 		(at 76.327 76.962 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3892,7 +3889,6 @@
 	)
 	(label "XT2OUT"
 		(at 242.189 71.882 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3903,7 +3899,6 @@
 	)
 	(label "V18"
 		(at 236.347 79.502 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3914,7 +3909,6 @@
 	)
 	(label "XT2IN"
 		(at 251.333 74.422 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4950,7 +4944,6 @@
 	(hierarchical_label "3V3"
 		(shape input)
 		(at 253.619 120.396 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4962,7 +4955,6 @@
 	(hierarchical_label "3V3"
 		(shape input)
 		(at 41.529 88.646 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4974,7 +4966,6 @@
 	(hierarchical_label "5V"
 		(shape input)
 		(at 277.241 89.662 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4986,7 +4977,6 @@
 	(hierarchical_label "3V3"
 		(shape input)
 		(at 36.195 66.04 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)

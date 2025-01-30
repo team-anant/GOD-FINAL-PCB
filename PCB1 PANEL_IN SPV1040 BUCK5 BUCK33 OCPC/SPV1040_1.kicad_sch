@@ -1957,6 +1957,16 @@
 		)
 		(uuid "2baa81b0-117b-483f-9a15-f0284ca8d062")
 	)
+	(text "Sure about this? - AGarg2025"
+		(exclude_from_sim no)
+		(at 147.828 71.628 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "83073127-a2bb-4a8b-9e5f-44b2d8a1c618")
+	)
 	(text "NO CURRENT CONTROL NEEDED\nATTACHED TO GROUND\n"
 		(exclude_from_sim no)
 		(at 144.272 67.818 0)
@@ -1989,7 +1999,6 @@
 	)
 	(label "BAT_MON+"
 		(at 234.95 68.58 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
