@@ -5993,7 +5993,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 45.72 69.85 0)
 			(effects
 				(font
@@ -6002,7 +6002,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "200K 0603"
+		(property "Description" "Resistor, US symbol"
 			(at 47.4472 66.1416 0)
 			(effects
 				(font
@@ -6077,7 +6077,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 33.02 133.35 0)
 			(effects
 				(font
@@ -6086,7 +6086,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "100K 0603"
+		(property "Description" "Resistor, US symbol"
 			(at 29.21 128.27 0)
 			(effects
 				(font
@@ -6169,7 +6169,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Dual NPN BJT - 2NPN"
+		(property "Description" "600mA IC, 40V Vce, Dual NPN/NPN Transistors, SOT-363"
 			(at 40.64 127 0)
 			(effects
 				(font
@@ -6290,7 +6290,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 182.245 136.525 0)
 			(effects
 				(font
@@ -6299,7 +6299,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "4.7K 0603"
+		(property "Description" "Resistor, US symbol"
 			(at 185.9534 138.2522 0)
 			(effects
 				(font
@@ -6382,7 +6382,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Dual NPN BJT - 2NPN"
+		(property "Description" "600mA IC, 40V Vce, Dual NPN/NPN Transistors, SOT-363"
 			(at 93.98 62.23 0)
 			(effects
 				(font
@@ -6652,7 +6652,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 86.36 68.58 0)
 			(effects
 				(font
@@ -6661,7 +6661,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "100K 0603"
+		(property "Description" "Resistor, US symbol"
 			(at 82.55 63.5 0)
 			(effects
 				(font
@@ -6736,7 +6736,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 93.98 35.56 0)
 			(effects
 				(font
@@ -6745,7 +6745,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "10K 0603"
+		(property "Description" "Resistor, US symbol"
 			(at 92.2782 31.8516 0)
 			(effects
 				(font
@@ -6828,7 +6828,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Dual NPN BJT - 2NPN"
+		(property "Description" "600mA IC, 40V Vce, Dual NPN/NPN Transistors, SOT-363"
 			(at 94.615 108.585 0)
 			(effects
 				(font
@@ -7340,7 +7340,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 86.995 132.715 0)
 			(effects
 				(font
@@ -7349,7 +7349,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "100K 0603"
+		(property "Description" "Resistor, US symbol"
 			(at 83.185 127.635 0)
 			(effects
 				(font
@@ -7650,7 +7650,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Dual NPN BJT - 2NPN"
+		(property "Description" "600mA IC, 40V Vce, Dual NPN/NPN Transistors, SOT-363"
 			(at 40.64 60.96 0)
 			(effects
 				(font
@@ -7773,7 +7773,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 45.72 106.68 0)
 			(effects
 				(font
@@ -7782,7 +7782,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "10K 0603"
+		(property "Description" "Resistor, US symbol"
 			(at 47.4472 102.9716 0)
 			(effects
 				(font
@@ -8274,7 +8274,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 210.185 144.145 0)
 			(effects
 				(font
@@ -8283,7 +8283,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "1K 0603"
+		(property "Description" "Resistor, US symbol"
 			(at 207.645 138.938 0)
 			(effects
 				(font
@@ -8571,7 +8571,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 87.63 57.15 0)
 			(effects
 				(font
@@ -8580,7 +8580,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "680 0603"
+		(property "Description" "Resistor, US symbol"
 			(at 87.63 57.15 0)
 			(effects
 				(font
@@ -8663,7 +8663,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Dual NPN BJT - 2NPN"
+		(property "Description" "600mA IC, 40V Vce, Dual NPN/NPN Transistors, SOT-363"
 			(at 94.615 126.365 0)
 			(effects
 				(font
@@ -8857,7 +8857,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 99.695 135.255 0)
 			(effects
 				(font
@@ -8866,7 +8866,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "200K 0603"
+		(property "Description" "Resistor, US symbol"
 			(at 101.4222 131.5466 0)
 			(effects
 				(font
@@ -8941,7 +8941,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 45.72 146.05 0)
 			(effects
 				(font
@@ -8950,7 +8950,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "10nF +-10% 50V X7R"
+		(property "Description" "Unpolarized capacitor"
 			(at 45.72 146.05 0)
 			(effects
 				(font
@@ -9101,7 +9101,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 99.06 41.91 0)
 			(effects
 				(font
@@ -9110,7 +9110,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "10K 0603"
+		(property "Description" "Resistor, US symbol"
 			(at 100.7872 38.2016 0)
 			(effects
 				(font
@@ -9185,7 +9185,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 45.72 135.89 0)
 			(effects
 				(font
@@ -9194,7 +9194,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "200K 0603"
+		(property "Description" "Resistor, US symbol"
 			(at 47.4472 132.1816 0)
 			(effects
 				(font
@@ -9416,7 +9416,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Dual NPN BJT - 2NPN"
+		(property "Description" "600mA IC, 40V Vce, Dual NPN/NPN Transistors, SOT-363"
 			(at 93.98 44.45 0)
 			(effects
 				(font
@@ -9539,7 +9539,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 94.615 99.695 0)
 			(effects
 				(font
@@ -9548,7 +9548,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "10K 0603"
+		(property "Description" "Resistor, US symbol"
 			(at 92.9132 95.9866 0)
 			(effects
 				(font
@@ -9623,7 +9623,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 40.64 100.33 0)
 			(effects
 				(font
@@ -9632,7 +9632,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "10K 0603"
+		(property "Description" "Resistor, US symbol"
 			(at 38.9382 96.6216 0)
 			(effects
 				(font
@@ -9707,7 +9707,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 99.06 81.28 0)
 			(effects
 				(font
@@ -9716,7 +9716,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "10nF +-10% 50V X7R"
+		(property "Description" "Unpolarized capacitor"
 			(at 99.06 81.28 0)
 			(effects
 				(font
@@ -9997,7 +9997,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 33.02 67.31 0)
 			(effects
 				(font
@@ -10006,7 +10006,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "100K 0603"
+		(property "Description" "Resistor, US symbol"
 			(at 29.21 62.23 0)
 			(effects
 				(font
@@ -10228,7 +10228,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 99.06 71.12 0)
 			(effects
 				(font
@@ -10237,7 +10237,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "200K 0603"
+		(property "Description" "Resistor, US symbol"
 			(at 100.7872 67.4116 0)
 			(effects
 				(font
@@ -10449,7 +10449,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 210.185 135.255 0)
 			(effects
 				(font
@@ -10458,7 +10458,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "1K 0603"
+		(property "Description" "Resistor, US symbol"
 			(at 213.8934 136.9822 0)
 			(effects
 				(font
@@ -10602,7 +10602,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 177.165 144.145 0)
 			(effects
 				(font
@@ -10611,7 +10611,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "0 0603"
+		(property "Description" "Resistor, US symbol"
 			(at 179.705 138.938 0)
 			(effects
 				(font
@@ -10824,7 +10824,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 99.695 106.045 0)
 			(effects
 				(font
@@ -10833,7 +10833,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "10K 0603"
+		(property "Description" "Resistor, US symbol"
 			(at 101.4222 102.3366 0)
 			(effects
 				(font
@@ -10916,7 +10916,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Dual NPN BJT - 2NPN"
+		(property "Description" "600mA IC, 40V Vce, Dual NPN/NPN Transistors, SOT-363"
 			(at 40.64 43.18 0)
 			(effects
 				(font
@@ -11037,7 +11037,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 34.29 121.92 0)
 			(effects
 				(font
@@ -11046,7 +11046,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "680 0603"
+		(property "Description" "Resistor, US symbol"
 			(at 34.29 121.92 0)
 			(effects
 				(font
@@ -11129,7 +11129,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Dual NPN BJT - 2NPN"
+		(property "Description" "600mA IC, 40V Vce, Dual NPN/NPN Transistors, SOT-363"
 			(at 40.64 109.22 0)
 			(effects
 				(font
@@ -11470,7 +11470,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 45.72 80.01 0)
 			(effects
 				(font
@@ -11479,7 +11479,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "10nF +-10% 50V X7R"
+		(property "Description" "Unpolarized capacitor"
 			(at 45.72 80.01 0)
 			(effects
 				(font
@@ -11552,7 +11552,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 34.29 55.88 0)
 			(effects
 				(font
@@ -11561,7 +11561,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "680 0603"
+		(property "Description" "Resistor, US symbol"
 			(at 34.29 55.88 0)
 			(effects
 				(font
@@ -11772,7 +11772,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 88.265 121.285 0)
 			(effects
 				(font
@@ -11781,7 +11781,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "680 0603"
+		(property "Description" "Resistor, US symbol"
 			(at 88.265 121.285 0)
 			(effects
 				(font
@@ -11927,7 +11927,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 45.72 40.64 0)
 			(effects
 				(font
@@ -11936,7 +11936,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "10K 0603"
+		(property "Description" "Resistor, US symbol"
 			(at 47.4472 36.9316 0)
 			(effects
 				(font
@@ -12011,7 +12011,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 99.695 145.415 0)
 			(effects
 				(font
@@ -12020,7 +12020,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "10nF +-10% 50V X7R"
+		(property "Description" "Unpolarized capacitor"
 			(at 99.695 145.415 0)
 			(effects
 				(font
@@ -12233,7 +12233,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 40.64 34.29 0)
 			(effects
 				(font
@@ -12242,7 +12242,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "10K 0603"
+		(property "Description" "Resistor, US symbol"
 			(at 38.9382 30.5816 0)
 			(effects
 				(font

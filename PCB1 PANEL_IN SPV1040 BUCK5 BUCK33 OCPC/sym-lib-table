@@ -1,0 +1,7 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "TPS2557")(type "KiCad")(uri "D:/GITHUB/GOD-FINAL-PCB/FOOTPRINTS_SCHMATICS/OCPC/2024-09-09_16-55-38.kicad_sym")(options "")(descr ""))
+  (lib (name "LTC2986")(type "KiCad")(uri "D:/GITHUB/GOD-FINAL-PCB/FOOTPRINTS_SCHMATICS/LTC2986HLX_PBF/LTC2986HLX_PBF.kicad_sym")(options "")(descr ""))
+  (lib (name "SMM4F5")(type "KiCad")(uri "D:/GITHUB/GOD-FINAL-PCB/FOOTPRINTS_SCHMATICS/SPV1040T/SMM4F5/2025-01-24_10-07-25.kicad_sym")(options "")(descr ""))
+  (lib (name "MSP430")(type "KiCad")(uri "D:/GITHUB/GOD-FINAL-PCB/FOOTPRINTS_SCHMATICS/MSP430/2025-02-03_16-40-51.kicad_sym")(options "")(descr "MSP430"))
+)

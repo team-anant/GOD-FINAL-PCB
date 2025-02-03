@@ -8018,7 +8018,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TPS2557:DRB8_2P4X1P65"
+		(property "Footprint" "DRB8_2P4X1P65"
 			(at 199.39 120.65 0)
 			(effects
 				(font
@@ -8802,7 +8802,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TPS2557:DRB8_2P4X1P65"
+		(property "Footprint" "DRB8_2P4X1P65"
 			(at 62.23 90.17 0)
 			(effects
 				(font
@@ -10228,7 +10228,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TPS2557:DRB8_2P4X1P65"
+		(property "Footprint" "DRB8_2P4X1P65"
 			(at 256.54 121.92 0)
 			(effects
 				(font
@@ -11576,7 +11576,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TPS2557:DRB8_2P4X1P65"
+		(property "Footprint" "DRB8_2P4X1P65"
 			(at 58.42 140.97 0)
 			(effects
 				(font
@@ -12089,7 +12089,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TPS2557:DRB8_2P4X1P65"
+		(property "Footprint" "DRB8_2P4X1P65"
 			(at 64.77 39.37 0)
 			(effects
 				(font

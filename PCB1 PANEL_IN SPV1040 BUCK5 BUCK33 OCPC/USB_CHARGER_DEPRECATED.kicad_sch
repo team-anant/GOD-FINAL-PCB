@@ -3812,7 +3812,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 134.62 64.77 0)
 			(effects
 				(font
@@ -3821,7 +3821,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "1uF 0603 X7R"
+		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 134.62 64.77 0)
 			(effects
 				(font
@@ -3881,7 +3881,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 182.88 97.79 0)
 			(effects
 				(font
@@ -3890,7 +3890,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "22uF +-20% 10V X5R"
+		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 182.88 97.79 0)
 			(effects
 				(font
@@ -3951,7 +3951,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 133.35 113.03 0)
 			(effects
 				(font
@@ -3960,7 +3960,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "5.23K 0603"
+		(property "Description" "Resistor, US symbol"
 			(at 131.6482 109.3216 0)
 			(effects
 				(font
@@ -4083,7 +4083,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 172.72 116.84 0)
 			(effects
 				(font
@@ -4092,7 +4092,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "47nF +-10% 50V X7R"
+		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 172.72 116.84 0)
 			(effects
 				(font
@@ -4152,7 +4152,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 182.88 109.22 0)
 			(effects
 				(font
@@ -4161,7 +4161,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "10uF +-20% 10V X5R"
+		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 182.88 109.22 0)
 			(effects
 				(font
@@ -4399,7 +4399,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://optoelectronics.liteon.com/upload/download/DS22-2000-074/LTST-C190KGKT.PDF"
+		(property "Datasheet" "~"
 			(at 168.91 124.46 0)
 			(effects
 				(font
@@ -4408,7 +4408,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Green LED"
+		(property "Description" "Light emitting diode"
 			(at 168.91 124.46 0)
 			(effects
 				(font
@@ -4506,7 +4506,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 194.31 69.85 0)
 			(effects
 				(font
@@ -4515,7 +4515,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "6-pin Horizontal Header - 0.1in (2.54mm)"
+		(property "Description" "Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)"
 			(at 194.31 69.85 0)
 			(effects
 				(font
@@ -4663,7 +4663,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 140.97 124.46 0)
 			(effects
 				(font
@@ -4672,7 +4672,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "4.7uF +-20% 10V X5R"
+		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 140.97 124.46 0)
 			(effects
 				(font
@@ -4977,7 +4977,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 166.37 64.77 0)
 			(effects
 				(font
@@ -4986,7 +4986,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "10uF +-20% 10V X5R"
+		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 166.37 64.77 0)
 			(effects
 				(font
@@ -5045,7 +5045,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 161.29 124.46 0)
 			(effects
 				(font
@@ -5054,7 +5054,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "10K 0603"
+		(property "Description" "Resistor, US symbol"
 			(at 163.83 119.253 0)
 			(effects
 				(font
@@ -5377,7 +5377,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 137.16 120.65 0)
 			(effects
 				(font
@@ -5386,7 +5386,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "10K 0603"
+		(property "Description" "Resistor, US symbol"
 			(at 138.8872 122.0216 0)
 			(effects
 				(font
@@ -5444,7 +5444,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/1912111437_PSA-Prosperity-Dielectrics-MCS25GD-1R0MMP_C375955.pdf"
+		(property "Datasheet" "~"
 			(at 172.72 87.63 0)
 			(effects
 				(font
@@ -5453,7 +5453,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "1uH Shielded Inductor"
+		(property "Description" "Inductor"
 			(at 172.72 87.63 0)
 			(effects
 				(font
@@ -5548,7 +5548,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 146.05 130.81 0)
 			(effects
 				(font
@@ -5557,7 +5557,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "3.16K 0603"
+		(property "Description" "Resistor, US symbol"
 			(at 143.51 135.89 0)
 			(effects
 				(font
@@ -5618,7 +5618,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 133.35 120.65 0)
 			(effects
 				(font
@@ -5627,7 +5627,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "30.1K 0603"
+		(property "Description" "Resistor, US symbol"
 			(at 131.6482 122.0216 0)
 			(effects
 				(font
@@ -5687,7 +5687,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 179.07 97.79 0)
 			(effects
 				(font
@@ -5696,7 +5696,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "22uF +-20% 10V X5R"
+		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 179.07 97.79 0)
 			(effects
 				(font
