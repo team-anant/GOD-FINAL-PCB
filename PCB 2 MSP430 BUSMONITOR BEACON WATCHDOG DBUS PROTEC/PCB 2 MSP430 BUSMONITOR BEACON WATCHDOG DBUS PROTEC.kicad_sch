@@ -5,9 +5,49 @@
 	(uuid "04a95c0c-1f2d-49e4-8823-3428ac263eb8")
 	(paper "A4")
 	(lib_symbols)
+	(text "#03\n"
+		(exclude_from_sim no)
+		(at 59.944 84.582 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "4d44f3a5-a201-4216-a03e-8e2a832e4539")
+	)
+	(text "#01\n"
+		(exclude_from_sim no)
+		(at 60.96 46.228 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "56b45f09-10fa-4445-be85-ade2ca3db27f")
+	)
+	(text "#04\n"
+		(exclude_from_sim no)
+		(at 120.904 83.566 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "71f3339b-7671-4609-876d-6953d6ede318")
+	)
+	(text "#02\n"
+		(exclude_from_sim no)
+		(at 120.904 46.482 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "b74a146a-7108-40d8-bc04-5328aeaee97e")
+	)
 	(sheet
 		(at 31.75 48.26)
-		(size 14.605 9.525)
+		(size 33.02 16.51)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -28,7 +68,7 @@
 			)
 		)
 		(property "Sheetfile" "MSP430.kicad_sch"
-			(at 31.75 58.3696 0)
+			(at 31.75 65.3546 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45,8 +85,8 @@
 		)
 	)
 	(sheet
-		(at 21.59 149.86)
-		(size 12.7 3.81)
+		(at 35.56 120.65)
+		(size 27.94 12.7)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -57,7 +97,7 @@
 		)
 		(uuid "55fc4a53-fbca-4483-b7a5-592bfe8034c3")
 		(property "Sheetname" "LEVEL_SHIFTER"
-			(at 21.59 149.1484 0)
+			(at 35.56 119.9384 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -66,7 +106,7 @@
 			)
 		)
 		(property "Sheetfile" "LEVEL_SHIFTER.kicad_sch"
-			(at 21.59 154.2546 0)
+			(at 35.56 133.9346 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -83,8 +123,8 @@
 		)
 	)
 	(sheet
-		(at 33.02 105.41)
-		(size 26.035 18.415)
+		(at 34.29 86.36)
+		(size 30.48 15.24)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -95,7 +135,7 @@
 		)
 		(uuid "c1c17ac6-111a-4d1f-bf6a-2db34c700432")
 		(property "Sheetname" "BEACON"
-			(at 33.02 104.6984 0)
+			(at 34.29 85.6484 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -104,7 +144,7 @@
 			)
 		)
 		(property "Sheetfile" "BEACON.kicad_sch"
-			(at 33.02 124.4096 0)
+			(at 34.29 102.1846 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -121,8 +161,8 @@
 		)
 	)
 	(sheet
-		(at 101.6 105.41)
-		(size 31.115 11.43)
+		(at 90.17 85.09)
+		(size 34.29 16.51)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -133,7 +173,7 @@
 		)
 		(uuid "d27be3f9-6033-4951-9896-36f1138da046")
 		(property "Sheetname" "BUS_AND_PROTEC"
-			(at 101.6 104.6984 0)
+			(at 90.17 84.3784 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -142,7 +182,7 @@
 			)
 		)
 		(property "Sheetfile" "DATA_BUS.kicad_sch"
-			(at 101.6 117.4246 0)
+			(at 90.17 102.1846 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -151,7 +191,7 @@
 			)
 		)
 		(property "Field2" ""
-			(at 101.6 105.41 0)
+			(at 90.17 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -168,8 +208,8 @@
 		)
 	)
 	(sheet
-		(at 100.33 48.26)
-		(size 29.21 13.97)
+		(at 90.17 48.26)
+		(size 34.29 16.51)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -180,7 +220,7 @@
 		)
 		(uuid "e1e4a250-dfe0-434b-9772-2ee5cbdca3c6")
 		(property "Sheetname" "WATCHDOG"
-			(at 100.33 47.5484 0)
+			(at 90.17 47.5484 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -189,7 +229,7 @@
 			)
 		)
 		(property "Sheetfile" "WATCHDOG.kicad_sch"
-			(at 100.33 62.8146 0)
+			(at 90.17 65.3546 0)
 			(effects
 				(font
 					(size 1.27 1.27)

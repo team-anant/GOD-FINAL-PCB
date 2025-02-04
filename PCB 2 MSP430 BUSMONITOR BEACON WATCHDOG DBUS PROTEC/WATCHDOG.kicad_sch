@@ -2399,7 +2399,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "07efd54d-9d2f-47b1-8d53-c870dbc38b3b")
-		(property "Reference" "R36"
+		(property "Reference" "R205"
 			(at 196.215 95.885 0)
 			(effects
 				(font
@@ -2451,7 +2451,7 @@
 		(instances
 			(project "PCB 2 MSP430 BUSMONITOR BEACON WATCHDOG DBUS PROTEC"
 				(path "/04a95c0c-1f2d-49e4-8823-3428ac263eb8/e1e4a250-dfe0-434b-9772-2ee5cbdca3c6"
-					(reference "R36")
+					(reference "R205")
 					(unit 1)
 				)
 			)
@@ -2467,7 +2467,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "14ad5747-58d2-4f85-908a-0a4723525869")
-		(property "Reference" "SW2"
+		(property "Reference" "SW202"
 			(at 169.545 104.775 0)
 			(effects
 				(font
@@ -2563,7 +2563,7 @@
 		(instances
 			(project "PCB 2 MSP430 BUSMONITOR BEACON WATCHDOG DBUS PROTEC"
 				(path "/04a95c0c-1f2d-49e4-8823-3428ac263eb8/e1e4a250-dfe0-434b-9772-2ee5cbdca3c6"
-					(reference "SW2")
+					(reference "SW202")
 					(unit 1)
 				)
 			)
@@ -2712,7 +2712,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "37e72f48-ae34-4311-89c9-30e4f741fd85")
-		(property "Reference" "R34"
+		(property "Reference" "R203"
 			(at 97.155 91.44 0)
 			(effects
 				(font
@@ -2764,7 +2764,7 @@
 		(instances
 			(project "PCB 2 MSP430 BUSMONITOR BEACON WATCHDOG DBUS PROTEC"
 				(path "/04a95c0c-1f2d-49e4-8823-3428ac263eb8/e1e4a250-dfe0-434b-9772-2ee5cbdca3c6"
-					(reference "R34")
+					(reference "R203")
 					(unit 1)
 				)
 			)
@@ -2780,7 +2780,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "485f0703-eeab-4fb6-a0b9-bef47f915704")
-		(property "Reference" "R35"
+		(property "Reference" "R204"
 			(at 172.085 69.215 0)
 			(effects
 				(font
@@ -2841,7 +2841,7 @@
 		(instances
 			(project "PCB 2 MSP430 BUSMONITOR BEACON WATCHDOG DBUS PROTEC"
 				(path "/04a95c0c-1f2d-49e4-8823-3428ac263eb8/e1e4a250-dfe0-434b-9772-2ee5cbdca3c6"
-					(reference "R35")
+					(reference "R204")
 					(unit 1)
 				)
 			)
@@ -2988,7 +2988,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "74fde2bc-d06b-422b-8f5c-ffb3acce9f58")
-		(property "Reference" "R37"
+		(property "Reference" "R206"
 			(at 207.645 95.885 0)
 			(effects
 				(font
@@ -3040,7 +3040,7 @@
 		(instances
 			(project "PCB 2 MSP430 BUSMONITOR BEACON WATCHDOG DBUS PROTEC"
 				(path "/04a95c0c-1f2d-49e4-8823-3428ac263eb8/e1e4a250-dfe0-434b-9772-2ee5cbdca3c6"
-					(reference "R37")
+					(reference "R206")
 					(unit 1)
 				)
 			)
@@ -3121,7 +3121,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "9f93ca53-cf07-427a-a686-96a28d9a33bc")
-		(property "Reference" "R33"
+		(property "Reference" "R202"
 			(at 85.725 91.44 0)
 			(effects
 				(font
@@ -3173,7 +3173,7 @@
 		(instances
 			(project "PCB 2 MSP430 BUSMONITOR BEACON WATCHDOG DBUS PROTEC"
 				(path "/04a95c0c-1f2d-49e4-8823-3428ac263eb8/e1e4a250-dfe0-434b-9772-2ee5cbdca3c6"
-					(reference "R33")
+					(reference "R202")
 					(unit 1)
 				)
 			)
@@ -3189,7 +3189,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "bd19a81a-aceb-411c-b0b4-b9c2a84e4155")
-		(property "Reference" "U2"
+		(property "Reference" "U201"
 			(at 95.885 41.7068 0)
 			(effects
 				(font
@@ -3304,7 +3304,7 @@
 		(instances
 			(project "PCB 2 MSP430 BUSMONITOR BEACON WATCHDOG DBUS PROTEC"
 				(path "/04a95c0c-1f2d-49e4-8823-3428ac263eb8/e1e4a250-dfe0-434b-9772-2ee5cbdca3c6"
-					(reference "U2")
+					(reference "U201")
 					(unit 1)
 				)
 			)
@@ -3320,7 +3320,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ce7061e0-2597-4372-a40a-f19b8a808dbf")
-		(property "Reference" "C5"
+		(property "Reference" "C201"
 			(at 77.0382 97.8916 0)
 			(effects
 				(font
@@ -3374,7 +3374,7 @@
 		(instances
 			(project "PCB 2 MSP430 BUSMONITOR BEACON WATCHDOG DBUS PROTEC"
 				(path "/04a95c0c-1f2d-49e4-8823-3428ac263eb8/e1e4a250-dfe0-434b-9772-2ee5cbdca3c6"
-					(reference "C5")
+					(reference "C201")
 					(unit 1)
 				)
 			)
@@ -3390,7 +3390,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d041daba-5c87-4385-88f7-fae0bc5adbc8")
-		(property "Reference" "R32"
+		(property "Reference" "R201"
 			(at 61.595 64.77 0)
 			(effects
 				(font
@@ -3451,7 +3451,7 @@
 		(instances
 			(project "PCB 2 MSP430 BUSMONITOR BEACON WATCHDOG DBUS PROTEC"
 				(path "/04a95c0c-1f2d-49e4-8823-3428ac263eb8/e1e4a250-dfe0-434b-9772-2ee5cbdca3c6"
-					(reference "R32")
+					(reference "R201")
 					(unit 1)
 				)
 			)
@@ -3799,7 +3799,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e5dd9175-e575-4d78-9472-3b71269e8bc9")
-		(property "Reference" "SW1"
+		(property "Reference" "SW201"
 			(at 59.055 100.33 0)
 			(effects
 				(font
@@ -3895,7 +3895,7 @@
 		(instances
 			(project "PCB 2 MSP430 BUSMONITOR BEACON WATCHDOG DBUS PROTEC"
 				(path "/04a95c0c-1f2d-49e4-8823-3428ac263eb8/e1e4a250-dfe0-434b-9772-2ee5cbdca3c6"
-					(reference "SW1")
+					(reference "SW201")
 					(unit 1)
 				)
 			)
@@ -3911,7 +3911,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e6d81e68-4d76-41a1-91e5-d6880e119e34")
-		(property "Reference" "C6"
+		(property "Reference" "C202"
 			(at 187.5282 102.3366 0)
 			(effects
 				(font
@@ -3965,7 +3965,7 @@
 		(instances
 			(project "PCB 2 MSP430 BUSMONITOR BEACON WATCHDOG DBUS PROTEC"
 				(path "/04a95c0c-1f2d-49e4-8823-3428ac263eb8/e1e4a250-dfe0-434b-9772-2ee5cbdca3c6"
-					(reference "C6")
+					(reference "C202")
 					(unit 1)
 				)
 			)
@@ -4048,7 +4048,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "edc3e6a5-ccc2-43e0-a5e0-4fdb40466d29")
-		(property "Reference" "U3"
+		(property "Reference" "U202"
 			(at 206.375 46.1518 0)
 			(effects
 				(font
@@ -4163,7 +4163,7 @@
 		(instances
 			(project "PCB 2 MSP430 BUSMONITOR BEACON WATCHDOG DBUS PROTEC"
 				(path "/04a95c0c-1f2d-49e4-8823-3428ac263eb8/e1e4a250-dfe0-434b-9772-2ee5cbdca3c6"
-					(reference "U3")
+					(reference "U202")
 					(unit 1)
 				)
 			)

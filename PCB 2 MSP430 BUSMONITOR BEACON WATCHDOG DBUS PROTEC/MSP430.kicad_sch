@@ -6423,8 +6423,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "afe6cc84-cf40-469b-9b60-dd697eeea6e4")
-		(property "Reference" "U4"
-			(at 158.242 47.498 0)
+		(property "Reference" "U101"
+			(at 158.242 48.26 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -6432,7 +6432,7 @@
 			)
 		)
 		(property "Value" "MSP430F5529IPN"
-			(at 158.242 51.308 0)
+			(at 158.242 50.8 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -6717,7 +6717,7 @@
 		(instances
 			(project "PCB 2 MSP430 BUSMONITOR BEACON WATCHDOG DBUS PROTEC"
 				(path "/04a95c0c-1f2d-49e4-8823-3428ac263eb8/29b19617-a0de-4dbb-a0d0-bdecf21ca8e4"
-					(reference "U4")
+					(reference "U101")
 					(unit 1)
 				)
 			)
