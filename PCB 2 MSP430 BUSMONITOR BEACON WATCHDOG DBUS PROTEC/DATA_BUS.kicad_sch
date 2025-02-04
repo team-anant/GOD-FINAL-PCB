@@ -7391,7 +7391,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "59fc55ce-18fd-4324-89b6-cd4fd757c7f1")
-		(property "Reference" "Q406"
+		(property "Reference" "Q407"
 			(at 97.155 110.109 90)
 			(effects
 				(font
@@ -7491,7 +7491,7 @@
 		(instances
 			(project "PCB 2 MSP430 BUSMONITOR BEACON WATCHDOG DBUS PROTEC"
 				(path "/04a95c0c-1f2d-49e4-8823-3428ac263eb8/d27be3f9-6033-4951-9896-36f1138da046"
-					(reference "Q406")
+					(reference "Q407")
 					(unit 2)
 				)
 			)
@@ -7507,7 +7507,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "5d61b37c-01c2-49fe-b0d2-183c34bea246")
-		(property "Reference" "Q405"
+		(property "Reference" "Q406"
 			(at 37.973 136.6266 0)
 			(effects
 				(font
@@ -7615,7 +7615,7 @@
 		(instances
 			(project "PCB 2 MSP430 BUSMONITOR BEACON WATCHDOG DBUS PROTEC"
 				(path "/04a95c0c-1f2d-49e4-8823-3428ac263eb8/d27be3f9-6033-4951-9896-36f1138da046"
-					(reference "Q405")
+					(reference "Q406")
 					(unit 2)
 				)
 			)
@@ -7898,7 +7898,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "633c8102-6c3d-4981-8070-d5b292e7054a")
-		(property "Reference" "Q407"
+		(property "Reference" "Q409"
 			(at 188.595 143.129 90)
 			(effects
 				(font
@@ -7998,7 +7998,7 @@
 		(instances
 			(project "PCB 2 MSP430 BUSMONITOR BEACON WATCHDOG DBUS PROTEC"
 				(path "/04a95c0c-1f2d-49e4-8823-3428ac263eb8/d27be3f9-6033-4951-9896-36f1138da046"
-					(reference "Q407")
+					(reference "Q409")
 					(unit 1)
 				)
 			)
@@ -8013,7 +8013,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "67be0c4d-9b85-4080-afec-e85f11f98588")
-		(property "Reference" "Q406"
+		(property "Reference" "Q407"
 			(at 97.155 127.9144 90)
 			(effects
 				(font
@@ -8114,7 +8114,7 @@
 		(instances
 			(project "PCB 2 MSP430 BUSMONITOR BEACON WATCHDOG DBUS PROTEC"
 				(path "/04a95c0c-1f2d-49e4-8823-3428ac263eb8/d27be3f9-6033-4951-9896-36f1138da046"
-					(reference "Q406")
+					(reference "Q407")
 					(unit 1)
 				)
 			)
@@ -8260,7 +8260,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "73ea094f-5757-487b-884f-c81b6caf82fc")
-		(property "Reference" "Q405"
+		(property "Reference" "Q406"
 			(at 22.733 131.5466 0)
 			(effects
 				(font
@@ -8367,7 +8367,7 @@
 		(instances
 			(project "PCB 2 MSP430 BUSMONITOR BEACON WATCHDOG DBUS PROTEC"
 				(path "/04a95c0c-1f2d-49e4-8823-3428ac263eb8/d27be3f9-6033-4951-9896-36f1138da046"
-					(reference "Q405")
+					(reference "Q406")
 					(unit 1)
 				)
 			)
@@ -8383,7 +8383,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "78208b2b-68ee-43c1-9f68-e3fc682ad545")
-		(property "Reference" "Q406"
+		(property "Reference" "Q408"
 			(at 76.708 130.9116 0)
 			(effects
 				(font
@@ -8490,7 +8490,7 @@
 		(instances
 			(project "PCB 2 MSP430 BUSMONITOR BEACON WATCHDOG DBUS PROTEC"
 				(path "/04a95c0c-1f2d-49e4-8823-3428ac263eb8/d27be3f9-6033-4951-9896-36f1138da046"
-					(reference "Q406")
+					(reference "Q408")
 					(unit 1)
 				)
 			)
@@ -9717,7 +9717,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "bb9e4df5-231a-4ca7-b5c8-53f3301855b4")
-		(property "Reference" "Q406"
+		(property "Reference" "Q408"
 			(at 91.948 135.9916 0)
 			(effects
 				(font
@@ -9825,7 +9825,7 @@
 		(instances
 			(project "PCB 2 MSP430 BUSMONITOR BEACON WATCHDOG DBUS PROTEC"
 				(path "/04a95c0c-1f2d-49e4-8823-3428ac263eb8/d27be3f9-6033-4951-9896-36f1138da046"
-					(reference "Q406")
+					(reference "Q408")
 					(unit 2)
 				)
 			)
