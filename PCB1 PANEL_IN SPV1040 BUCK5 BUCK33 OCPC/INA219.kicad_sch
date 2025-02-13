@@ -2221,7 +2221,7 @@
 			)
 			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
 				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/d7bb1b8a-b1e3-42b5-be90-f093a0283cfb"
-					(reference "R46")
+					(reference "R1204")
 					(unit 1)
 				)
 			)
@@ -2376,7 +2376,7 @@
 			)
 			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
 				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/d7bb1b8a-b1e3-42b5-be90-f093a0283cfb"
-					(reference "C38")
+					(reference "C1202")
 					(unit 1)
 				)
 			)
@@ -2459,7 +2459,7 @@
 			)
 			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
 				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/d7bb1b8a-b1e3-42b5-be90-f093a0283cfb"
-					(reference "C40")
+					(reference "C1205")
 					(unit 1)
 				)
 			)
@@ -2542,7 +2542,7 @@
 			)
 			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
 				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/d7bb1b8a-b1e3-42b5-be90-f093a0283cfb"
-					(reference "R38")
+					(reference "R1207")
 					(unit 1)
 				)
 			)
@@ -3009,7 +3009,7 @@
 			)
 			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
 				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/d7bb1b8a-b1e3-42b5-be90-f093a0283cfb"
-					(reference "U11")
+					(reference "U1202")
 					(unit 1)
 				)
 			)
@@ -3113,7 +3113,7 @@
 			)
 			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
 				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/d7bb1b8a-b1e3-42b5-be90-f093a0283cfb"
-					(reference "U9")
+					(reference "U1201")
 					(unit 1)
 				)
 			)
@@ -3363,7 +3363,7 @@
 			)
 			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
 				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/d7bb1b8a-b1e3-42b5-be90-f093a0283cfb"
-					(reference "U12")
+					(reference "U1203")
 					(unit 1)
 				)
 			)
@@ -3446,7 +3446,7 @@
 			)
 			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
 				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/d7bb1b8a-b1e3-42b5-be90-f093a0283cfb"
-					(reference "C36")
+					(reference "C1201")
 					(unit 1)
 				)
 			)
@@ -3767,7 +3767,7 @@
 			)
 			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
 				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/d7bb1b8a-b1e3-42b5-be90-f093a0283cfb"
-					(reference "U10")
+					(reference "U1204")
 					(unit 1)
 				)
 			)
@@ -3922,7 +3922,7 @@
 			)
 			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
 				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/d7bb1b8a-b1e3-42b5-be90-f093a0283cfb"
-					(reference "R37")
+					(reference "R1206")
 					(unit 1)
 				)
 			)
@@ -4151,7 +4151,7 @@
 			)
 			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
 				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/d7bb1b8a-b1e3-42b5-be90-f093a0283cfb"
-					(reference "C37")
+					(reference "C1204")
 					(unit 1)
 				)
 			)
@@ -4837,7 +4837,7 @@
 			)
 			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
 				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/d7bb1b8a-b1e3-42b5-be90-f093a0283cfb"
-					(reference "U13")
+					(reference "U1205")
 					(unit 1)
 				)
 			)
@@ -4994,7 +4994,7 @@
 			)
 			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
 				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/d7bb1b8a-b1e3-42b5-be90-f093a0283cfb"
-					(reference "R51")
+					(reference "R1202")
 					(unit 1)
 				)
 			)
@@ -5077,7 +5077,7 @@
 			)
 			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
 				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/d7bb1b8a-b1e3-42b5-be90-f093a0283cfb"
-					(reference "C39")
+					(reference "C1203")
 					(unit 1)
 				)
 			)
@@ -5162,7 +5162,7 @@
 			)
 			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
 				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/d7bb1b8a-b1e3-42b5-be90-f093a0283cfb"
-					(reference "R61")
+					(reference "R1205")
 					(unit 1)
 				)
 			)
@@ -5392,7 +5392,7 @@
 			)
 			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
 				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/d7bb1b8a-b1e3-42b5-be90-f093a0283cfb"
-					(reference "R41")
+					(reference "R1201")
 					(unit 1)
 				)
 			)
@@ -5549,7 +5549,7 @@
 			)
 			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
 				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/d7bb1b8a-b1e3-42b5-be90-f093a0283cfb"
-					(reference "R56")
+					(reference "R1203")
 					(unit 1)
 				)
 			)

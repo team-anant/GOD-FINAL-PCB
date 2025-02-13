@@ -1799,7 +1799,7 @@
 			)
 			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
 				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/8cd5401d-8e6e-4c5c-abb2-269e996089da"
-					(reference "R60")
+					(reference "R403")
 					(unit 1)
 				)
 			)
@@ -1891,7 +1891,7 @@
 			)
 			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
 				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/8cd5401d-8e6e-4c5c-abb2-269e996089da"
-					(reference "R58")
+					(reference "R401")
 					(unit 1)
 				)
 			)
@@ -2245,7 +2245,7 @@
 			)
 			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
 				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/8cd5401d-8e6e-4c5c-abb2-269e996089da"
-					(reference "U22")
+					(reference "U401")
 					(unit 1)
 				)
 			)
@@ -2327,7 +2327,7 @@
 			)
 			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
 				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/8cd5401d-8e6e-4c5c-abb2-269e996089da"
-					(reference "R59")
+					(reference "R402")
 					(unit 1)
 				)
 			)
@@ -2485,7 +2485,7 @@
 			)
 			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
 				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/8cd5401d-8e6e-4c5c-abb2-269e996089da"
-					(reference "C52")
+					(reference "C401")
 					(unit 1)
 				)
 			)

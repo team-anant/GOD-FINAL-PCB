@@ -2873,7 +2873,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "60618207-5d5e-4098-8d5c-d4c2824f5cca")
-		(property "Reference" "#PWR02"
+		(property "Reference" "#PWR0160"
 			(at 212.4256 78.2905 0)
 			(effects
 				(font
@@ -2922,6 +2922,12 @@
 			(uuid "4931127c-52a3-4f69-91ec-ee75e3875e58")
 		)
 		(instances
+			(project ""
+				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/8d16167c-3e0d-4735-b524-3c01c883074e"
+					(reference "#PWR0160")
+					(unit 1)
+				)
+			)
 			(project "MSP430"
 				(path "/d440a0f9-62fd-4434-a9f7-19cfb6e06c06"
 					(reference "#PWR02")
@@ -2940,7 +2946,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7aa3307c-b9b2-4c70-ab1b-6032501dedae")
-		(property "Reference" "J1"
+		(property "Reference" "J301"
 			(at 132.842 72.39 0)
 			(effects
 				(font
@@ -3044,6 +3050,12 @@
 			(uuid "40f5fe88-b6b8-48d5-8a89-5b12ee01e64c")
 		)
 		(instances
+			(project ""
+				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/8d16167c-3e0d-4735-b524-3c01c883074e"
+					(reference "J301")
+					(unit 1)
+				)
+			)
 			(project "MSP430"
 				(path "/d440a0f9-62fd-4434-a9f7-19cfb6e06c06"
 					(reference "J1")
@@ -3132,8 +3144,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d53b604a-c055-4ef0-a21b-665438de5b59")
-		(property "Reference" "J2"
-			(at 194.6456 72.1945 0)
+		(property "Reference" "J302"
+			(at 194.6456 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3141,7 +3153,7 @@
 			)
 		)
 		(property "Value" "Conn_02x10_Counter_Clockwise"
-			(at 194.6456 74.7345 0)
+			(at 194.6456 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3236,6 +3248,12 @@
 			(uuid "40b0a526-0a18-4a5d-9f4f-f5c18403bd5a")
 		)
 		(instances
+			(project ""
+				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/8d16167c-3e0d-4735-b524-3c01c883074e"
+					(reference "J302")
+					(unit 1)
+				)
+			)
 			(project "MSP430"
 				(path "/d440a0f9-62fd-4434-a9f7-19cfb6e06c06"
 					(reference "J2")
@@ -3254,7 +3272,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e4f090e6-cbf7-489a-bf3e-e66493aaab8a")
-		(property "Reference" "#PWR01"
+		(property "Reference" "#PWR0159"
 			(at 154.5136 81.0845 0)
 			(effects
 				(font
@@ -3303,6 +3321,12 @@
 			(uuid "5801ae78-9e80-4687-b804-d1e6345f87b8")
 		)
 		(instances
+			(project ""
+				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/8d16167c-3e0d-4735-b524-3c01c883074e"
+					(reference "#PWR0159")
+					(unit 1)
+				)
+			)
 			(project "MSP430"
 				(path "/d440a0f9-62fd-4434-a9f7-19cfb6e06c06"
 					(reference "#PWR01")

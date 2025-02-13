@@ -10,8 +10,188 @@
 		(comment 1 "BITS PILANI")
 	)
 	(lib_symbols)
+	(text "#04\n\n\n"
+		(exclude_from_sim no)
+		(at 37.338 74.676 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "1e737c39-aab2-479e-b29b-663ae6cd1276")
+	)
+	(text "#14\n\n\n\n\n\n\n\n\n\n"
+		(exclude_from_sim no)
+		(at 158.242 53.086 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "28c8d76c-e882-4f3e-9590-fe1d61e7e8ea")
+	)
+	(text "#07\n\n\n\n"
+		(exclude_from_sim no)
+		(at 97.282 29.21 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "45885da7-c2b6-4284-87b3-db1badc24d7f")
+	)
+	(text "#08\n\n\n\n\n"
+		(exclude_from_sim no)
+		(at 100.076 39.878 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "497ec195-8194-4a90-b1e3-1f2664a3e766")
+	)
+	(text "#18\n\n\n\n\n\n\n\n\n\n"
+		(exclude_from_sim no)
+		(at 157.226 117.602 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "53f1b346-a534-4582-a8e9-98c8536cc654")
+	)
+	(text "#12\n\n\n\n\n\n\n\n\n"
+		(exclude_from_sim no)
+		(at 97.028 132.588 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "646c8a24-1f8a-49d6-b746-85161e03cbe1")
+	)
+	(text "#10\n\n\n\n\n\n\n"
+		(exclude_from_sim no)
+		(at 100.076 84.074 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "7dd7ed70-e08d-4e99-abb0-9598531a32c6")
+	)
+	(text "#11\n\n\n\n\n\n\n\n"
+		(exclude_from_sim no)
+		(at 96.52 116.84 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "83a56fff-b000-40bd-99ac-33d8c92a9561")
+	)
+	(text "#09\n\n\n\n\n\n"
+		(exclude_from_sim no)
+		(at 109.982 58.166 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "87efb998-6125-4579-a2f7-19e4cf180cf6")
+	)
+	(text "#06\n\n\n"
+		(exclude_from_sim no)
+		(at 33.782 114.554 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "9a33739f-d0d4-4ffc-a42a-4c8054f5013b")
+	)
+	(text "#13\n\n\n\n\n\n\n\n\n\n"
+		(exclude_from_sim no)
+		(at 157.734 35.306 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "9ac4bce3-e077-4db4-b83f-a49375a48eae")
+	)
+	(text "#05\n\n"
+		(exclude_from_sim no)
+		(at 35.56 97.028 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "9cccb3b3-3e7e-40d9-a94f-576851344aa0")
+	)
+	(text "#02\n"
+		(exclude_from_sim no)
+		(at 39.116 41.91 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "c635775f-9d44-421c-99c4-52eeb22d52cc")
+	)
+	(text "#03\n\n"
+		(exclude_from_sim no)
+		(at 41.402 55.626 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "cc9919a1-d94a-4443-973d-6ea6cd96ed5d")
+	)
+	(text "#17\n\n\n\n\n\n\n\n\n\n"
+		(exclude_from_sim no)
+		(at 157.48 103.378 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "e421d6cd-2b42-4911-9fbf-aefbd69ad4dd")
+	)
+	(text "#15\n\n\n\n\n\n\n\n\n"
+		(exclude_from_sim no)
+		(at 158.0044 70.5138 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "f2e404a3-ffa0-45b8-a6c9-5928d17bff1e")
+	)
+	(text "#01\n"
+		(exclude_from_sim no)
+		(at 39.37 22.86 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "f89f2d1d-0c13-4ccc-8c47-bb242c970a4e")
+	)
+	(text "#16\n\n\n\n\n\n\n\n\n"
+		(exclude_from_sim no)
+		(at 160.0592 86.7345 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "fc090346-5db2-42eb-9920-2fb5e0aadaa9")
+	)
 	(sheet
-		(at 87.63 135.89)
+		(at 142.494 92.71)
 		(size 12.7 3.81)
 		(fields_autoplaced yes)
 		(stroke
@@ -23,7 +203,7 @@
 		)
 		(uuid "2771644a-42c1-4e74-9e93-0ffcf5523547")
 		(property "Sheetname" "SPV1040_4"
-			(at 87.63 135.1784 0)
+			(at 142.494 91.9984 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32,7 +212,7 @@
 			)
 		)
 		(property "Sheetfile" "SPV1040_4.kicad_sch"
-			(at 87.63 140.2846 0)
+			(at 142.494 97.1046 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -49,7 +229,7 @@
 		)
 	)
 	(sheet
-		(at 102.87 111.76)
+		(at 143.002 60.96)
 		(size 12.7 3.81)
 		(fields_autoplaced yes)
 		(stroke
@@ -61,7 +241,7 @@
 		)
 		(uuid "27d3faa1-92c4-4207-bb91-69c494af1bc4")
 		(property "Sheetname" "SPV1040_2"
-			(at 102.87 111.0484 0)
+			(at 143.002 60.2484 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -70,7 +250,7 @@
 			)
 		)
 		(property "Sheetfile" "SPV1040_2.kicad_sch"
-			(at 102.87 116.1546 0)
+			(at 143.002 65.3546 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -87,7 +267,7 @@
 		)
 	)
 	(sheet
-		(at 163.83 111.76)
+		(at 88.392 78.994)
 		(size 26.035 18.415)
 		(fields_autoplaced yes)
 		(stroke
@@ -99,7 +279,7 @@
 		)
 		(uuid "2c32dd0a-554c-4562-8711-8e3aa5f4c186")
 		(property "Sheetname" "BEACON"
-			(at 163.83 111.0484 0)
+			(at 88.392 78.2824 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -108,7 +288,7 @@
 			)
 		)
 		(property "Sheetfile" "BEACON.kicad_sch"
-			(at 163.83 130.7596 0)
+			(at 88.392 97.9936 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -125,7 +305,7 @@
 		)
 	)
 	(sheet
-		(at 152.4 156.21)
+		(at 142.748 25.146)
 		(size 12.7 3.81)
 		(fields_autoplaced yes)
 		(stroke
@@ -137,7 +317,7 @@
 		)
 		(uuid "4b1d658a-de84-4665-b039-53bb967d1e4a")
 		(property "Sheetname" "LEVEL_SHIFTER"
-			(at 152.4 155.4984 0)
+			(at 142.748 24.4344 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -146,7 +326,7 @@
 			)
 		)
 		(property "Sheetfile" "LEVEL_SHIFTER.kicad_sch"
-			(at 152.4 160.6046 0)
+			(at 142.748 29.5406 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -163,7 +343,7 @@
 		)
 	)
 	(sheet
-		(at 62.23 64.77)
+		(at 24.13 98.044)
 		(size 12.7 3.81)
 		(fields_autoplaced yes)
 		(stroke
@@ -175,7 +355,7 @@
 		)
 		(uuid "6d793315-f4d5-400d-8bb8-3ec4414619c0")
 		(property "Sheetname" "BUCK3_3"
-			(at 62.23 64.0584 0)
+			(at 24.13 97.3324 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -184,7 +364,7 @@
 			)
 		)
 		(property "Sheetfile" "BUCK3_3.kicad_sch"
-			(at 62.23 69.1646 0)
+			(at 24.13 102.4386 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -201,7 +381,7 @@
 		)
 	)
 	(sheet
-		(at 170.18 85.09)
+		(at 89.154 37.338)
 		(size 12.7 3.81)
 		(fields_autoplaced yes)
 		(stroke
@@ -213,7 +393,7 @@
 		)
 		(uuid "81ba6a5a-e21d-4cec-83f0-5d840c1285ed")
 		(property "Sheetname" "LTC2986"
-			(at 170.18 84.3784 0)
+			(at 89.154 36.6264 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -222,7 +402,7 @@
 			)
 		)
 		(property "Sheetfile" "LTC2986.kicad_sch"
-			(at 170.18 89.4846 0)
+			(at 89.154 41.7326 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -239,7 +419,7 @@
 		)
 	)
 	(sheet
-		(at 81.28 152.4)
+		(at 142.494 107.442)
 		(size 12.7 3.81)
 		(fields_autoplaced yes)
 		(stroke
@@ -251,7 +431,7 @@
 		)
 		(uuid "8c378675-f65a-4b67-963a-3f9cd3fefa7d")
 		(property "Sheetname" "SPV1040_5"
-			(at 81.28 151.6884 0)
+			(at 142.494 106.7304 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -260,7 +440,7 @@
 			)
 		)
 		(property "Sheetfile" "SPV1040_5.kicad_sch"
-			(at 81.28 156.7946 0)
+			(at 142.494 111.8366 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -277,7 +457,7 @@
 		)
 	)
 	(sheet
-		(at 231.14 54.61)
+		(at 24.13 73.914)
 		(size 29.21 13.97)
 		(fields_autoplaced yes)
 		(stroke
@@ -289,7 +469,7 @@
 		)
 		(uuid "8cd5401d-8e6e-4c5c-abb2-269e996089da")
 		(property "Sheetname" "WATCHDOG"
-			(at 231.14 53.8984 0)
+			(at 24.13 73.2024 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -298,7 +478,7 @@
 			)
 		)
 		(property "Sheetfile" "WATCHDOG.kicad_sch"
-			(at 231.14 69.1646 0)
+			(at 24.13 88.4686 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -315,7 +495,7 @@
 		)
 	)
 	(sheet
-		(at 162.56 54.61)
+		(at 24.13 52.578)
 		(size 14.605 9.525)
 		(fields_autoplaced yes)
 		(stroke
@@ -327,7 +507,7 @@
 		)
 		(uuid "8d16167c-3e0d-4735-b524-3c01c883074e")
 		(property "Sheetname" "MSP430"
-			(at 162.56 53.8984 0)
+			(at 24.13 51.8664 0)
 			(show_name yes)
 			(effects
 				(font
@@ -337,7 +517,7 @@
 			)
 		)
 		(property "Sheetfile" "MSP430.kicad_sch"
-			(at 162.56 64.7196 0)
+			(at 24.13 62.6876 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -354,7 +534,7 @@
 		)
 	)
 	(sheet
-		(at 132.08 66.04)
+		(at 89.408 27.432)
 		(size 12.7 3.81)
 		(fields_autoplaced yes)
 		(stroke
@@ -366,7 +546,7 @@
 		)
 		(uuid "a1a4f25c-902d-4f3e-84ba-70b8fbb0ef9f")
 		(property "Sheetname" "OCPC"
-			(at 132.08 65.3284 0)
+			(at 89.408 26.7204 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -375,7 +555,7 @@
 			)
 		)
 		(property "Sheetfile" "OCPC.kicad_sch"
-			(at 132.08 70.4346 0)
+			(at 89.408 31.8266 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -393,7 +573,7 @@
 		)
 	)
 	(sheet
-		(at 96.52 63.5)
+		(at 24.13 113.538)
 		(size 12.7 3.81)
 		(fields_autoplaced yes)
 		(stroke
@@ -405,7 +585,7 @@
 		)
 		(uuid "acbdadec-7a37-4e83-ba4f-7796ea0ed57d")
 		(property "Sheetname" "BUCK5"
-			(at 96.52 62.7884 0)
+			(at 24.13 112.8264 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -414,7 +594,7 @@
 			)
 		)
 		(property "Sheetfile" "BUCK5.kicad_sch"
-			(at 96.52 67.8946 0)
+			(at 24.13 117.9326 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -431,7 +611,7 @@
 		)
 	)
 	(sheet
-		(at 133.35 38.1)
+		(at 24.384 39.878)
 		(size 12.7 3.81)
 		(fields_autoplaced yes)
 		(stroke
@@ -443,7 +623,7 @@
 		)
 		(uuid "d0756281-183d-4749-b648-78cca7febb2e")
 		(property "Sheetname" "USB_CHARGER DEPRECATED"
-			(at 133.35 37.3884 0)
+			(at 24.384 39.1664 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -452,7 +632,7 @@
 			)
 		)
 		(property "Sheetfile" "USB_CHARGER_DEPRECATED.kicad_sch"
-			(at 133.35 42.4946 0)
+			(at 24.384 44.2726 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -469,7 +649,7 @@
 		)
 	)
 	(sheet
-		(at 158.75 135.89)
+		(at 88.138 125.476)
 		(size 12.7 3.81)
 		(fields_autoplaced yes)
 		(stroke
@@ -481,7 +661,7 @@
 		)
 		(uuid "d7bb1b8a-b1e3-42b5-be90-f093a0283cfb")
 		(property "Sheetname" "INA219"
-			(at 158.75 135.1784 0)
+			(at 88.138 124.7644 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -490,7 +670,7 @@
 			)
 		)
 		(property "Sheetfile" "INA219.kicad_sch"
-			(at 158.75 140.2846 0)
+			(at 88.138 129.8706 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -507,7 +687,7 @@
 		)
 	)
 	(sheet
-		(at 204.47 129.54)
+		(at 88.138 110.49)
 		(size 12.7 3.81)
 		(fields_autoplaced yes)
 		(stroke
@@ -519,7 +699,7 @@
 		)
 		(uuid "e0b06a4e-2d0b-4b39-8e24-792203dd5d87")
 		(property "Sheetname" "RS422"
-			(at 204.47 128.8284 0)
+			(at 88.138 109.7784 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -528,7 +708,7 @@
 			)
 		)
 		(property "Sheetfile" "RS422.kicad_sch"
-			(at 204.47 133.9346 0)
+			(at 88.138 114.8846 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -537,7 +717,7 @@
 			)
 		)
 		(property "Field2" ""
-			(at 204.47 129.54 0)
+			(at 88.138 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -554,7 +734,7 @@
 		)
 	)
 	(sheet
-		(at 232.41 111.76)
+		(at 88.138 54.102)
 		(size 31.115 11.43)
 		(fields_autoplaced yes)
 		(stroke
@@ -566,7 +746,7 @@
 		)
 		(uuid "e36dc968-8324-4e3c-8819-26ad0f62bbf1")
 		(property "Sheetname" "BUS_AND_PROTEC"
-			(at 232.41 111.0484 0)
+			(at 88.138 53.3904 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -575,7 +755,7 @@
 			)
 		)
 		(property "Sheetfile" "DATA_BUS.kicad_sch"
-			(at 232.41 123.7746 0)
+			(at 88.138 66.1166 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -584,7 +764,7 @@
 			)
 		)
 		(property "Field2" ""
-			(at 232.41 111.76 0)
+			(at 88.138 54.102 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -601,7 +781,7 @@
 		)
 	)
 	(sheet
-		(at 43.18 105.41)
+		(at 142.494 42.164)
 		(size 12.7 3.81)
 		(fields_autoplaced yes)
 		(stroke
@@ -613,7 +793,7 @@
 		)
 		(uuid "e53a10ab-2cc0-41d1-82dc-2525f18f01bb")
 		(property "Sheetname" "SPV1040_1"
-			(at 43.18 104.6984 0)
+			(at 142.494 41.4524 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -622,7 +802,7 @@
 			)
 		)
 		(property "Sheetfile" "SPV1040_1.kicad_sch"
-			(at 43.18 109.8046 0)
+			(at 142.494 46.5586 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -631,7 +811,7 @@
 			)
 		)
 		(property "Field2" ""
-			(at 43.18 105.41 0)
+			(at 142.494 42.164 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -648,7 +828,7 @@
 		)
 	)
 	(sheet
-		(at 45.72 36.83)
+		(at 23.876 24.13)
 		(size 30.48 6.35)
 		(fields_autoplaced yes)
 		(stroke
@@ -660,7 +840,7 @@
 		)
 		(uuid "e761ae96-2f77-47a8-a4f2-e723b65c98c7")
 		(property "Sheetname" "PANEL_IN"
-			(at 45.72 36.1184 0)
+			(at 23.876 23.4184 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -669,7 +849,7 @@
 			)
 		)
 		(property "Sheetfile" "PANEL_IN.kicad_sch"
-			(at 45.72 43.7646 0)
+			(at 23.876 31.0646 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -678,7 +858,7 @@
 			)
 		)
 		(property "Field2" ""
-			(at 45.72 36.83 0)
+			(at 23.876 24.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -695,7 +875,7 @@
 		)
 	)
 	(sheet
-		(at 43.18 133.35)
+		(at 143.256 76.962)
 		(size 12.7 3.81)
 		(fields_autoplaced yes)
 		(stroke
@@ -707,7 +887,7 @@
 		)
 		(uuid "e998d71e-4e87-4975-a251-a83701b03c75")
 		(property "Sheetname" "SPV1040_3"
-			(at 43.18 132.6384 0)
+			(at 143.256 76.2504 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -716,7 +896,7 @@
 			)
 		)
 		(property "Sheetfile" "SPV1040_3.kicad_sch"
-			(at 43.18 137.7446 0)
+			(at 143.256 81.3566 0)
 			(effects
 				(font
 					(size 1.27 1.27)

@@ -2283,7 +2283,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "3af45080-f1ff-4794-937c-432a12485d2b")
-		(property "Reference" "SUPER_CAP1"
+		(property "Reference" "SUPER_CAP1401"
 			(at 255.27 72.39 90)
 			(effects
 				(font
@@ -2339,7 +2339,7 @@
 		(instances
 			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
 				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/e53a10ab-2cc0-41d1-82dc-2525f18f01bb"
-					(reference "SUPER_CAP1")
+					(reference "SUPER_CAP1401")
 					(unit 1)
 				)
 			)
@@ -2355,7 +2355,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3c539b4d-e0aa-4308-9ca9-801462864f09")
-		(property "Reference" "C_out1"
+		(property "Reference" "C1403"
 			(at 92.71 101.5999 0)
 			(effects
 				(font
@@ -2409,7 +2409,7 @@
 		(instances
 			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
 				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/e53a10ab-2cc0-41d1-82dc-2525f18f01bb"
-					(reference "C_out1")
+					(reference "C1403")
 					(unit 1)
 				)
 			)
@@ -2558,7 +2558,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "58e4a1d3-0370-45ec-ac6c-788dee15c99d")
-		(property "Reference" "C8"
+		(property "Reference" "C1401"
 			(at 68.58 38.0999 0)
 			(effects
 				(font
@@ -2612,7 +2612,7 @@
 		(instances
 			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
 				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/e53a10ab-2cc0-41d1-82dc-2525f18f01bb"
-					(reference "C8")
+					(reference "C1401")
 					(unit 1)
 				)
 			)
@@ -2627,7 +2627,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "5c627b87-c431-4b70-a78d-79d7b48e38dd")
-		(property "Reference" "R9"
+		(property "Reference" "R1403"
 			(at 167.64 76.2 90)
 			(effects
 				(font
@@ -2679,7 +2679,7 @@
 		(instances
 			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
 				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/e53a10ab-2cc0-41d1-82dc-2525f18f01bb"
-					(reference "R9")
+					(reference "R1403")
 					(unit 1)
 				)
 			)
@@ -2762,7 +2762,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9181c748-fe39-44a7-8052-b77f1fb2762a")
-		(property "Reference" "C9"
+		(property "Reference" "C1405"
 			(at 129.54 86.3599 0)
 			(effects
 				(font
@@ -2816,7 +2816,7 @@
 		(instances
 			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
 				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/e53a10ab-2cc0-41d1-82dc-2525f18f01bb"
-					(reference "C9")
+					(reference "C1405")
 					(unit 1)
 				)
 			)
@@ -2831,7 +2831,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "91edddf9-da9c-47ff-83e4-e148ffe156a1")
-		(property "Reference" "R10"
+		(property "Reference" "R1402"
 			(at 167.64 91.44 90)
 			(effects
 				(font
@@ -2883,7 +2883,7 @@
 		(instances
 			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
 				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/e53a10ab-2cc0-41d1-82dc-2525f18f01bb"
-					(reference "R10")
+					(reference "R1402")
 					(unit 1)
 				)
 			)
@@ -2899,7 +2899,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "948edc0f-300b-4f8e-b109-4035a746f8c2")
-		(property "Reference" "C_out2"
+		(property "Reference" "C1404"
 			(at 177.8 86.3599 0)
 			(effects
 				(font
@@ -2953,7 +2953,7 @@
 		(instances
 			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
 				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/e53a10ab-2cc0-41d1-82dc-2525f18f01bb"
-					(reference "C_out2")
+					(reference "C1404")
 					(unit 1)
 				)
 			)
@@ -3101,7 +3101,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "9d92b76b-83fd-45ab-892a-34c3ec6ff55d")
-		(property "Reference" "C_IN1"
+		(property "Reference" "C1402"
 			(at 137.16 34.29 90)
 			(effects
 				(font
@@ -3153,7 +3153,7 @@
 		(instances
 			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
 				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/e53a10ab-2cc0-41d1-82dc-2525f18f01bb"
-					(reference "C_IN1")
+					(reference "C1402")
 					(unit 1)
 				)
 			)
@@ -3168,8 +3168,8 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ab7e5d10-d09c-4599-a4a7-c2dcbe94ae12")
-		(property "Reference" "D6"
-			(at 96.2026 151.13 0)
+		(property "Reference" "D1402"
+			(at 102.362 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3222,7 +3222,7 @@
 		(instances
 			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
 				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/e53a10ab-2cc0-41d1-82dc-2525f18f01bb"
-					(reference "D6")
+					(reference "D1402")
 					(unit 1)
 				)
 			)
@@ -3372,7 +3372,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b83c487d-f5b5-4099-9d2e-cc9b2af896e4")
-		(property "Reference" "U2"
+		(property "Reference" "U1401"
 			(at 95.25 54.61 0)
 			(effects
 				(font
@@ -3444,7 +3444,7 @@
 		(instances
 			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
 				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/e53a10ab-2cc0-41d1-82dc-2525f18f01bb"
-					(reference "U2")
+					(reference "U1401")
 					(unit 1)
 				)
 			)
@@ -3526,7 +3526,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bb717136-1412-42bd-b2da-d5bb5760e595")
-		(property "Reference" "L2"
+		(property "Reference" "L1401"
 			(at 121.92 33.02 90)
 			(effects
 				(font
@@ -3578,7 +3578,7 @@
 		(instances
 			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
 				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/e53a10ab-2cc0-41d1-82dc-2525f18f01bb"
-					(reference "L2")
+					(reference "L1401")
 					(unit 1)
 				)
 			)
@@ -3594,7 +3594,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bcaeabda-b6c3-4e40-aabf-2117e02c4c9d")
-		(property "Reference" "R7"
+		(property "Reference" "R1401"
 			(at 128.27 43.1799 0)
 			(effects
 				(font
@@ -3648,7 +3648,7 @@
 		(instances
 			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
 				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/e53a10ab-2cc0-41d1-82dc-2525f18f01bb"
-					(reference "R7")
+					(reference "R1401")
 					(unit 1)
 				)
 			)
@@ -3664,7 +3664,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cbf06a84-e219-4ce9-ac59-179b60640ded")
-		(property "Reference" "J2"
+		(property "Reference" "J1401"
 			(at 185.42 36.8299 90)
 			(effects
 				(font
@@ -3718,7 +3718,7 @@
 		(instances
 			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
 				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/e53a10ab-2cc0-41d1-82dc-2525f18f01bb"
-					(reference "J2")
+					(reference "J1401")
 					(unit 1)
 				)
 			)
@@ -3734,7 +3734,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "dc13f710-ca5e-41af-8217-024c8b510c22")
-		(property "Reference" "CR4"
+		(property "Reference" "D1401"
 			(at 102.87 88.9 0)
 			(effects
 				(font
@@ -3750,7 +3750,7 @@
 				)
 			)
 		)
-		(property "Footprint" "CR_F5.0A-TR_STM"
+		(property "Footprint" ""
 			(at 97.79 95.25 0)
 			(effects
 				(font
@@ -3788,7 +3788,7 @@
 		(instances
 			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
 				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/e53a10ab-2cc0-41d1-82dc-2525f18f01bb"
-					(reference "CR4")
+					(reference "D1401")
 					(unit 1)
 				)
 			)

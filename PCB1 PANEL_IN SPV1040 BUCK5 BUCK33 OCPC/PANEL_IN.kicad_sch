@@ -176,7 +176,7 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 95.25 92.71 0)
+		(at 84.582 92.456 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -184,8 +184,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4c2ec307-b348-4d67-8f3a-ef2c9e02938b")
-		(property "Reference" "D13"
-			(at 95.25 86.36 0)
+		(property "Reference" "D105"
+			(at 84.582 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -193,7 +193,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at 95.25 88.9 0)
+			(at 84.582 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -201,7 +201,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 95.25 92.71 0)
+			(at 84.582 92.456 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -210,7 +210,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 95.25 92.71 0)
+			(at 84.582 92.456 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -219,7 +219,7 @@
 			)
 		)
 		(property "Description" "Diode"
-			(at 95.25 92.71 0)
+			(at 84.582 92.456 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -228,7 +228,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 95.25 92.71 0)
+			(at 84.582 92.456 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -237,7 +237,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 95.25 92.71 0)
+			(at 84.582 92.456 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -254,7 +254,7 @@
 		(instances
 			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
 				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/e761ae96-2f77-47a8-a4f2-e723b65c98c7"
-					(reference "D13")
+					(reference "D105")
 					(unit 1)
 				)
 			)
@@ -262,7 +262,7 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 96.52 97.79 0)
+		(at 94.488 89.154 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -270,8 +270,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "51ae201d-239b-4750-af1c-46bfc3f0b0cd")
-		(property "Reference" "D14"
-			(at 96.52 91.44 0)
+		(property "Reference" "D102"
+			(at 94.488 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -279,7 +279,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at 96.52 93.98 0)
+			(at 94.488 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -287,7 +287,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 96.52 97.79 0)
+			(at 94.488 89.154 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -296,7 +296,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 96.52 97.79 0)
+			(at 94.488 89.154 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -305,7 +305,7 @@
 			)
 		)
 		(property "Description" "Diode"
-			(at 96.52 97.79 0)
+			(at 94.488 89.154 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -314,7 +314,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 96.52 97.79 0)
+			(at 94.488 89.154 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -323,7 +323,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 96.52 97.79 0)
+			(at 94.488 89.154 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -340,7 +340,7 @@
 		(instances
 			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
 				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/e761ae96-2f77-47a8-a4f2-e723b65c98c7"
-					(reference "D14")
+					(reference "D102")
 					(unit 1)
 				)
 			)
@@ -348,7 +348,7 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 119.38 111.76 0)
+		(at 120.142 99.822 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -356,8 +356,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5b1da7cc-630c-4026-9af0-369aa09caae3")
-		(property "Reference" "D16"
-			(at 119.38 105.41 0)
+		(property "Reference" "D104"
+			(at 120.142 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -365,7 +365,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at 119.38 107.95 0)
+			(at 120.142 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -373,7 +373,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 119.38 111.76 0)
+			(at 120.142 99.822 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -382,7 +382,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 119.38 111.76 0)
+			(at 120.142 99.822 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -391,7 +391,7 @@
 			)
 		)
 		(property "Description" "Diode"
-			(at 119.38 111.76 0)
+			(at 120.142 99.822 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -400,7 +400,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 119.38 111.76 0)
+			(at 120.142 99.822 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -409,7 +409,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 119.38 111.76 0)
+			(at 120.142 99.822 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -426,7 +426,7 @@
 		(instances
 			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
 				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/e761ae96-2f77-47a8-a4f2-e723b65c98c7"
-					(reference "D16")
+					(reference "D104")
 					(unit 1)
 				)
 			)
@@ -434,7 +434,7 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 100.33 102.87 0)
+		(at 103.124 96.52 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -442,8 +442,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "806fd18d-cbeb-46e0-9328-789b1fae6bf5")
-		(property "Reference" "D15"
-			(at 100.33 96.52 0)
+		(property "Reference" "D103"
+			(at 103.124 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -451,7 +451,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at 100.33 99.06 0)
+			(at 103.124 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -459,7 +459,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 100.33 102.87 0)
+			(at 103.124 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -468,7 +468,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 100.33 102.87 0)
+			(at 103.124 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -477,7 +477,7 @@
 			)
 		)
 		(property "Description" "Diode"
-			(at 100.33 102.87 0)
+			(at 103.124 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -486,7 +486,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 100.33 102.87 0)
+			(at 103.124 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -495,7 +495,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 100.33 102.87 0)
+			(at 103.124 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -512,7 +512,7 @@
 		(instances
 			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
 				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/e761ae96-2f77-47a8-a4f2-e723b65c98c7"
-					(reference "D15")
+					(reference "D103")
 					(unit 1)
 				)
 			)
@@ -528,7 +528,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "abb053aa-e114-4a41-8a8d-7de3ecff0ba0")
-		(property "Reference" "D12"
+		(property "Reference" "D101"
 			(at 111.76 74.93 0)
 			(effects
 				(font
@@ -598,7 +598,7 @@
 		(instances
 			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
 				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/e761ae96-2f77-47a8-a4f2-e723b65c98c7"
-					(reference "D12")
+					(reference "D101")
 					(unit 1)
 				)
 			)
