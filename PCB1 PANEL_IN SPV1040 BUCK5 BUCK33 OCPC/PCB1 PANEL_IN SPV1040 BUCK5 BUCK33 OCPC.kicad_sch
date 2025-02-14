@@ -11,7 +11,7 @@
 	)
 	(lib_symbols)
 	(sheet
-		(at 87.63 135.89)
+		(at 30.48 165.1)
 		(size 12.7 3.81)
 		(fields_autoplaced yes)
 		(stroke
@@ -21,9 +21,9 @@
 		(fill
 			(color 0 0 0 0.0000)
 		)
-		(uuid "2771644a-42c1-4e74-9e93-0ffcf5523547")
-		(property "Sheetname" "SPV1040_4"
-			(at 87.63 135.1784 0)
+		(uuid "01b3f51d-e297-4007-8d1a-dc85ffa2b88c")
+		(property "Sheetname" "POWER OUT BUSES"
+			(at 30.48 164.3884 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31,8 +31,8 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "SPV1040_4.kicad_sch"
-			(at 87.63 140.2846 0)
+		(property "Sheetfile" "POWER_OUT_BUSES.kicad_sch"
+			(at 30.48 169.4946 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43,52 +43,14 @@
 		(instances
 			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
 				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd"
-					(page "10")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 102.87 111.76)
-		(size 12.7 3.81)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0.0000)
-		)
-		(uuid "27d3faa1-92c4-4207-bb91-69c494af1bc4")
-		(property "Sheetname" "SPV1040_2"
-			(at 102.87 111.0484 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "SPV1040_2.kicad_sch"
-			(at 102.87 116.1546 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(instances
-			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
-				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd"
-					(page "8")
+					(page "21")
 				)
 			)
 		)
 	)
 	(sheet
 		(at 163.83 111.76)
-		(size 26.035 18.415)
+		(size 12.7 3.81)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -108,7 +70,7 @@
 			)
 		)
 		(property "Sheetfile" "BEACON.kicad_sch"
-			(at 163.83 130.7596 0)
+			(at 163.83 116.1546 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -125,7 +87,7 @@
 		)
 	)
 	(sheet
-		(at 152.4 156.21)
+		(at 82.55 90.17)
 		(size 12.7 3.81)
 		(fields_autoplaced yes)
 		(stroke
@@ -135,9 +97,9 @@
 		(fill
 			(color 0 0 0 0.0000)
 		)
-		(uuid "4b1d658a-de84-4665-b039-53bb967d1e4a")
-		(property "Sheetname" "LEVEL_SHIFTER"
-			(at 152.4 155.4984 0)
+		(uuid "42c28938-4d35-4a58-8d35-7290ff64b872")
+		(property "Sheetname" "POWER_IN_BUSES"
+			(at 82.55 89.4584 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -145,8 +107,8 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "LEVEL_SHIFTER.kicad_sch"
-			(at 152.4 160.6046 0)
+		(property "Sheetfile" "POWER_IN_BUSES.kicad_sch"
+			(at 82.55 94.5646 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -157,7 +119,7 @@
 		(instances
 			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
 				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd"
-					(page "17")
+					(page "29")
 				)
 			)
 		)
@@ -234,44 +196,6 @@
 			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
 				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd"
 					(page "12")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 81.28 152.4)
-		(size 12.7 3.81)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0.0000)
-		)
-		(uuid "8c378675-f65a-4b67-963a-3f9cd3fefa7d")
-		(property "Sheetname" "SPV1040_5"
-			(at 81.28 151.6884 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "SPV1040_5.kicad_sch"
-			(at 81.28 156.7946 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(instances
-			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
-				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd"
-					(page "11")
 				)
 			)
 		)
@@ -354,45 +278,6 @@
 		)
 	)
 	(sheet
-		(at 132.08 66.04)
-		(size 12.7 3.81)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0.0000)
-		)
-		(uuid "a1a4f25c-902d-4f3e-84ba-70b8fbb0ef9f")
-		(property "Sheetname" "OCPC"
-			(at 132.08 65.3284 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "OCPC.kicad_sch"
-			(at 132.08 70.4346 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(instances
-			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
-				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd"
-					(page "6")
-				)
-			)
-		)
-	)
-	(sheet
 		(at 96.52 63.5)
 		(size 12.7 3.81)
 		(fields_autoplaced yes)
@@ -426,82 +311,6 @@
 			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
 				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd"
 					(page "5")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 133.35 38.1)
-		(size 12.7 3.81)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0.0000)
-		)
-		(uuid "d0756281-183d-4749-b648-78cca7febb2e")
-		(property "Sheetname" "USB_CHARGER DEPRECATED"
-			(at 133.35 37.3884 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "USB_CHARGER_DEPRECATED.kicad_sch"
-			(at 133.35 42.4946 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(instances
-			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
-				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd"
-					(page "3")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 158.75 135.89)
-		(size 12.7 3.81)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0.0000)
-		)
-		(uuid "d7bb1b8a-b1e3-42b5-be90-f093a0283cfb")
-		(property "Sheetname" "INA219"
-			(at 158.75 135.1784 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "INA219.kicad_sch"
-			(at 158.75 140.2846 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(instances
-			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
-				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd"
-					(page "13")
 				)
 			)
 		)
@@ -596,138 +405,6 @@
 			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
 				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd"
 					(page "16")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 43.18 105.41)
-		(size 12.7 3.81)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0.0000)
-		)
-		(uuid "e53a10ab-2cc0-41d1-82dc-2525f18f01bb")
-		(property "Sheetname" "SPV1040_1"
-			(at 43.18 104.6984 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "SPV1040_1.kicad_sch"
-			(at 43.18 109.8046 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Field2" ""
-			(at 43.18 105.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(instances
-			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
-				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd"
-					(page "7")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 45.72 36.83)
-		(size 30.48 6.35)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0.0000)
-		)
-		(uuid "e761ae96-2f77-47a8-a4f2-e723b65c98c7")
-		(property "Sheetname" "PANEL_IN"
-			(at 45.72 36.1184 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "PANEL_IN.kicad_sch"
-			(at 45.72 43.7646 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Field2" ""
-			(at 45.72 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(instances
-			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
-				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd"
-					(page "2")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 43.18 133.35)
-		(size 12.7 3.81)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0.0000)
-		)
-		(uuid "e998d71e-4e87-4975-a251-a83701b03c75")
-		(property "Sheetname" "SPV1040_3"
-			(at 43.18 132.6384 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "SPV1040_3.kicad_sch"
-			(at 43.18 137.7446 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(instances
-			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
-				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd"
-					(page "9")
 				)
 			)
 		)

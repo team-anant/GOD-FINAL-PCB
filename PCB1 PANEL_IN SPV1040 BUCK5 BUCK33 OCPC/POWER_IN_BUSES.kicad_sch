@@ -1,0 +1,160 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "3e89deaf-2c09-4ea3-9939-d8a5761a12c4")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 68.58 86.36)
+		(size 12.7 3.81)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "3091d6c4-0e95-439d-8e0a-0046a8902c5d")
+		(property "Sheetname" "PANEL_3"
+			(at 68.58 85.6484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "PANEL_3.kicad_sch"
+			(at 68.58 90.7546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
+				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/42c28938-4d35-4a58-8d35-7290ff64b872"
+					(page "32")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 74.93 64.77)
+		(size 12.7 3.81)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "7da67f89-8bb3-4466-84fd-db7f108070fa")
+		(property "Sheetname" "PANEL_2"
+			(at 74.93 64.0584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "PANEL_2.kicad_sch"
+			(at 74.93 69.1646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
+				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/42c28938-4d35-4a58-8d35-7290ff64b872"
+					(page "31")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 111.76 86.36)
+		(size 12.7 3.81)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "821679e3-59e3-4cf1-820d-a65184e34264")
+		(property "Sheetname" "PANEL_4"
+			(at 111.76 85.6484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "PANEL_5.kicad_sch"
+			(at 111.76 90.7546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
+				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/42c28938-4d35-4a58-8d35-7290ff64b872"
+					(page "33")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 35.56 49.53)
+		(size 12.7 3.81)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "c20fb15d-3791-4bda-8d9b-8f80a040fba1")
+		(property "Sheetname" "PANEL_1"
+			(at 35.56 48.8184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "PANEL_1.kicad_sch"
+			(at 35.56 53.9246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
+				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/42c28938-4d35-4a58-8d35-7290ff64b872"
+					(page "30")
+				)
+			)
+		)
+	)
+)

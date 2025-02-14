@@ -1,0 +1,198 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "8d8a0567-1b12-4c39-b166-85b261900115")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 71.12 35.56)
+		(size 12.7 3.81)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "0e815e5c-0fc2-4f3e-8d69-c346829b54e2")
+		(property "Sheetname" "TTC_BUS"
+			(at 71.12 34.8484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "TTC_BUS.kicad_sch"
+			(at 71.12 39.9546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
+				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/01b3f51d-e297-4007-8d1a-dc85ffa2b88c"
+					(page "23")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 36.83 66.04)
+		(size 12.7 3.81)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "4ce47e82-9b62-4277-9aa1-71ba3d85e386")
+		(property "Sheetname" "ADCSC_BUS"
+			(at 36.83 65.3284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ADCSC_BUS.kicad_sch"
+			(at 36.83 70.4346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
+				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/01b3f51d-e297-4007-8d1a-dc85ffa2b88c"
+					(page "24")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 74.93 64.77)
+		(size 12.7 3.81)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "94b7b960-ee8c-4c26-a867-cee81acb4518")
+		(property "Sheetname" "ADCSS_BUS"
+			(at 74.93 64.0584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ADCSS_BUS.kicad_sch"
+			(at 74.93 69.1646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
+				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/01b3f51d-e297-4007-8d1a-dc85ffa2b88c"
+					(page "25")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 30.48 27.94)
+		(size 12.7 3.81)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "d6bf6a05-14c8-4647-bac5-4d567c55cbec")
+		(property "Sheetname" "OBC_BUS"
+			(at 30.48 27.2284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "OBC_BUS.kicad_sch"
+			(at 30.48 32.3346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
+				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/01b3f51d-e297-4007-8d1a-dc85ffa2b88c"
+					(page "22")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 107.95 50.8)
+		(size 12.7 3.81)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "df63c649-cef5-40e4-88ab-3d98dd46038a")
+		(property "Sheetname" "PAYLOAD_BUS"
+			(at 107.95 50.0884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "PAYLOAD_BUS.kicad_sch"
+			(at 107.95 55.1946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PCB1 PANEL_IN SPV1040 BUCK5 BUCK33 OCPC"
+				(path "/494c9d9f-6b33-4248-a813-27ffaaa929bd/01b3f51d-e297-4007-8d1a-dc85ffa2b88c"
+					(page "26")
+				)
+			)
+		)
+	)
+)

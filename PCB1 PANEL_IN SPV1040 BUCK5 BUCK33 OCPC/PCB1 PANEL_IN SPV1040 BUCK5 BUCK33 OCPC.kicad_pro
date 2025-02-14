@@ -668,14 +668,6 @@
       "Root"
     ],
     [
-      "e761ae96-2f77-47a8-a4f2-e723b65c98c7",
-      "PANEL_IN"
-    ],
-    [
-      "d0756281-183d-4749-b648-78cca7febb2e",
-      "USB_CHARGER DEPRECATED"
-    ],
-    [
       "6d793315-f4d5-400d-8bb8-3ec4414619c0",
       "BUCK3_3"
     ],
@@ -684,36 +676,8 @@
       "BUCK5"
     ],
     [
-      "a1a4f25c-902d-4f3e-84ba-70b8fbb0ef9f",
-      "OCPC"
-    ],
-    [
-      "e53a10ab-2cc0-41d1-82dc-2525f18f01bb",
-      "SPV1040_1"
-    ],
-    [
-      "27d3faa1-92c4-4207-bb91-69c494af1bc4",
-      "SPV1040_2"
-    ],
-    [
-      "e998d71e-4e87-4975-a251-a83701b03c75",
-      "SPV1040_3"
-    ],
-    [
-      "2771644a-42c1-4e74-9e93-0ffcf5523547",
-      "SPV1040_4"
-    ],
-    [
-      "8c378675-f65a-4b67-963a-3f9cd3fefa7d",
-      "SPV1040_5"
-    ],
-    [
       "81ba6a5a-e21d-4cec-83f0-5d840c1285ed",
       "LTC2986"
-    ],
-    [
-      "d7bb1b8a-b1e3-42b5-be90-f093a0283cfb",
-      "INA219"
     ],
     [
       "e0b06a4e-2d0b-4b39-8e24-792203dd5d87",
@@ -728,16 +692,68 @@
       "BUS_AND_PROTEC"
     ],
     [
-      "4b1d658a-de84-4665-b039-53bb967d1e4a",
-      "LEVEL_SHIFTER"
-    ],
-    [
       "8d16167c-3e0d-4735-b524-3c01c883074e",
       "MSP430"
     ],
     [
       "8cd5401d-8e6e-4c5c-abb2-269e996089da",
       "WATCHDOG"
+    ],
+    [
+      "01b3f51d-e297-4007-8d1a-dc85ffa2b88c",
+      "POWER OUT BUSES"
+    ],
+    [
+      "d6bf6a05-14c8-4647-bac5-4d567c55cbec",
+      "OBC_BUS"
+    ],
+    [
+      "0e815e5c-0fc2-4f3e-8d69-c346829b54e2",
+      "TTC_BUS"
+    ],
+    [
+      "4ce47e82-9b62-4277-9aa1-71ba3d85e386",
+      "ADCSC_BUS"
+    ],
+    [
+      "94b7b960-ee8c-4c26-a867-cee81acb4518",
+      "ADCSS_BUS"
+    ],
+    [
+      "df63c649-cef5-40e4-88ab-3d98dd46038a",
+      "PAYLOAD_BUS"
+    ],
+    [
+      "43ebdcce-a366-464e-b0f2-dbbf781eaf97",
+      "I2C_PROTEC"
+    ],
+    [
+      "0890686a-e72e-43de-b592-9c6db4104f1c",
+      "PC104"
+    ],
+    [
+      "42c28938-4d35-4a58-8d35-7290ff64b872",
+      "POWER_IN_BUSES"
+    ],
+    [
+      "dedd8410-464d-47f2-9e2e-316d331dbfb8",
+      "SPI_PROTEC"
+    ],
+    [
+      "c20fb15d-3791-4bda-8d9b-8f80a040fba1",
+      "PANEL_1"
+    ],
+    [
+      "7da67f89-8bb3-4466-84fd-db7f108070fa",
+      "PANEL_2"
+    ],
+    [
+      "3091d6c4-0e95-439d-8e0a-0046a8902c5d",
+      "PANEL_3"
+    ],
+    [
+      "821679e3-59e3-4cf1-820d-a65184e34264",
+      "PANEL_4"
     ]
   ],
   "text_variables": {}
