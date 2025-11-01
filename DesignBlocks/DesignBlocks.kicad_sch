@@ -5063,6 +5063,132 @@
 			)
 		)
 	)
+	(sheet
+		(at 200.914 110.236)
+		(size 22.098 16.51)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "1dfed12d-8dbe-4f61-8f7b-c5cbc049adb7")
+		(property "Sheetname" "tps564242 5v"
+			(at 200.914 109.5244 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "tps564242 5v.kicad_sch"
+			(at 200.914 127.3306 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "DesignBlocks"
+				(path "/5f055886-14a9-417f-869a-0dc005bf8947"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 243.078 114.554)
+		(size 23.114 12.446)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "4f0709b8-4424-47a9-99fc-325dae5009b3")
+		(property "Sheetname" "tps564242 3.3v"
+			(at 243.078 113.8424 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "tps564242 3.3v.kicad_sch"
+			(at 243.078 127.5846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "DesignBlocks"
+				(path "/5f055886-14a9-417f-869a-0dc005bf8947"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 213.106 76.2)
+		(size 27.432 9.906)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "b54e6f8c-0835-4633-91e7-eba44f200891")
+		(property "Sheetname" "bno055"
+			(at 213.106 75.4884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "bno055.kicad_sch"
+			(at 213.106 86.6906 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "DesignBlocks"
+				(path "/5f055886-14a9-417f-869a-0dc005bf8947"
+					(page "2")
+				)
+			)
+		)
+	)
 	(sheet_instances
 		(path "/"
 			(page "1")
